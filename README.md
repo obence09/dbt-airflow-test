@@ -1,4 +1,4 @@
-# Here you can find the description how to run this dbt-airflow test project
+# Here you can find the description on how to run this dbt-airflow test project
 
 ## 1. The Dataset
 
