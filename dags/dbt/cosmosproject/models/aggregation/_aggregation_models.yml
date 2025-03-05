@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: agg_resolution_times
+    description: "Resolution time of issues"
+  - name: agg_issue_per_month
+    description: "Number of issues on a monthly basis"
+  - name: agg_issue_type_distribution
+    description: "Distribution of issue type"
+    columns:
+      - name: issue_type
+        tests:
+          - not_null
+

@@ -1,0 +1,12 @@
+test_profile:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: external-postgres
+      user: postgres
+      password: postgres
+      port: 5433
+      dbname: postgres
+      schema: raw_data
+      threads: 1

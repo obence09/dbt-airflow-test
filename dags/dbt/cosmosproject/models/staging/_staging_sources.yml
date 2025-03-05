@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: raw_data
+    tables:
+      - name: issues_data
+        description: The table in the raw_data schema in the external_postgres db containing the issues dataset

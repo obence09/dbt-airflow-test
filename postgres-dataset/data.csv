@@ -1,0 +1,2001 @@
+created_by;created_by_id;created_by_team;created_by_management_level;severity;issue_status;issue_type;created_date;moved_to_in_progress;end_date
+Thomas Torres;1501;Marketing;4;Medium;Done;Career Development;2024-01-03;2024-01-12;2024-01-17
+Megan Hill;1553;Customer Support;8;Medium;Done;Workplace Safety;2023-07-27;2023-07-29;2023-07-30
+James Ruiz;1251;People;3;Medium;Done;Learning & Development;2024-09-30;2024-10-02;2024-10-09
+Norman Hinton;1034;Marketing;7;Medium;Pending;Organizational Culture;2024-06-06;;
+Jessica Smith;1691;Customer Support;3;Critical;Done;Career Development;2024-08-07;2024-08-09;2024-08-21
+Kathleen Coleman;1679;People;1;High;To Do;Onboarding;2024-12-30;;
+Nicholas Lewis;1699;Banking;6;Critical;To Do;Organizational Culture;2024-10-13;;
+Carla Thompson;1474;Engineering;9;Medium;Done;Employee Feedback;2023-12-13;2023-12-16;2023-12-16
+Ryan Williams;1700;Operations;8;Critical;Done;Health & Wellness;2024-09-12;2024-09-13;2024-09-13
+Edward Buck;1357;Banking;4;Low;Done;Employee Feedback;2024-10-09;2024-10-12;2024-10-13
+Stephanie Armstrong;1252;Legal;5;Critical;Waiting for customer;Workplace Safety;2023-03-26;;
+William Martinez;1391;People;3;Medium;Done;Organizational Culture;2024-12-19;2024-12-22;2024-12-22
+Kayla Larson;1670;Customer Support;3;High;Done;Compensation & Benefits;2023-05-27;2023-05-30;2023-06-04
+Arthur Montoya;1289;Finance;8;Low;Done;Performance Management;2023-08-24;2023-08-25;2023-08-25
+Ashley Forbes;1725;Customer Support;4;High;Done;Onboarding;2023-07-27;2023-07-31;2023-07-31
+Mary Gross;1062;Operations;10;High;Done;Employee Engagement;2023-01-15;2023-01-16;2023-01-16
+Crystal Cooper;1064;Product;3;High;Done;Onboarding;2023-08-17;2023-08-19;2023-08-19
+Stephanie Kelley;1552;Finance;5;High;Done;Employee Feedback;2024-04-01;2024-04-03;2024-04-03
+Brandy Parrish;1572;Legal;8;Low;Done;Onboarding;2024-09-13;2024-09-15;2024-09-15
+Sharon Haynes;1785;Finance;3;Critical;Done;Employee Relations;2023-05-21;2023-05-24;2023-05-25
+Chelsey Castillo;1047;Product;5;Critical;Done;Employee Engagement;2024-07-05;2024-07-11;2024-07-19
+Caitlin Gray;1368;Product;4;Critical;Done;Career Development;2023-11-20;2023-11-25;2023-11-29
+Crystal Medina;1272;Operations;7;High;Pending;Learning & Development;2024-09-01;;
+Denise Reyes;1640;Marketing;7;High;Done;Recruitment & Mobility;2024-04-13;2024-04-17;2024-04-21
+Amanda Dunn;1036;People;7;High;Done;Onboarding;2024-11-15;2024-11-20;2024-11-29
+Tammy Fletcher;1599;Product;5;Low;Done;Health & Wellness;2024-08-24;2024-08-31;2024-09-07
+John Hale;1317;Banking;3;Medium;Done;Learning & Development;2024-09-04;2024-09-05;2024-09-07
+Jeffery Barton;1129;Banking;6;Medium;Done;Organizational Culture;2023-12-26;2023-12-27;2024-01-04
+Susan Le;1055;Banking;9;Medium;Done;Organizational Culture;2024-05-08;2024-05-10;2024-05-15
+Natalie Chavez;1671;People;3;Critical;In progress;Workplace Safety;2023-08-15;2023-08-17;
+Melissa Wallace;1614;Finance;5;High;Done;Diversity & Inclusion;2023-05-01;2023-05-05;2023-05-05
+Brent Diaz;1538;Product;6;Critical;Done;Employee Engagement;2023-07-12;2023-07-15;2023-07-15
+Natalie Chavez;1671;People;3;Medium;Done;Employee Relations;2023-08-24;2023-08-26;2023-08-27
+Ashley Forbes;1725;Customer Support;4;High;Done;Employee Retention;2024-08-22;2024-08-23;2024-08-23
+Pamela Tanner;1128;Product;6;Critical;Done;Workplace Safety;2023-11-06;2023-11-07;2023-11-07
+Julie Wilkinson;1633;Operations;7;Medium;Done;Employee Feedback;2024-11-13;2024-11-16;2024-11-21
+Lisa Harper;1493;Banking;7;Critical;Done;Career Development;2024-10-21;2024-10-25;2024-10-30
+Gregory Everett;1335;Finance;6;Medium;Done;Employee Relations;2024-04-12;2024-04-15;2024-04-19
+Mathew Bush;1586;Engineering;7;Critical;Done;Learning & Development;2023-12-19;2023-12-20;2023-12-22
+Jason Christian;1223;Engineering;7;Critical;In progress;Health & Wellness;2024-07-04;2024-07-11;
+Ashley White;1353;Finance;1;High;Pending;Employee Relations;2024-04-18;;
+Michael Rogers;1215;Operations;3;High;Done;Employee Engagement;2023-08-01;2023-08-06;2023-08-09
+Norman Hodge;1137;Engineering;5;High;Pending;Organizational Culture;2024-12-05;;
+Krystal Clark;1734;Legal;3;Critical;Done;Employee Relations;2024-02-12;2024-02-13;2024-02-13
+Paul Robinson;1218;People;3;High;Done;Performance Management;2024-03-07;2024-03-08;2024-03-09
+Trevor Ross;1264;Customer Support;7;High;Done;Recruitment & Mobility;2023-04-20;2023-04-27;2023-05-04
+Megan Obrien;1187;Operations;4;Medium;Done;Health & Wellness;2023-03-16;2023-03-17;2023-03-17
+Timothy Humphrey;1773;Engineering;9;Critical;Done;Onboarding;2023-11-21;2023-11-23;2023-11-24
+Sarah Mendez;1628;Finance;6;High;Done;Employee Retention;2024-08-01;2024-08-03;2024-08-05
+Sherry Maxwell;1759;Finance;4;Critical;Done;Onboarding;2024-10-01;2024-10-02;2024-10-02
+Sarah Atkinson;1489;People;9;Critical;Waiting for customer;Employee Engagement;2024-09-29;;
+Tamara Martin;1741;Product;10;Critical;Done;Compensation & Benefits;2024-10-04;2024-10-15;2024-10-18
+Christina Ramirez;1541;Engineering;4;High;Done;Diversity & Inclusion;2023-03-12;2023-03-16;2023-03-22
+Amanda Barnes;1188;Product;7;Critical;Done;Onboarding;2024-11-10;2024-11-13;2024-11-13
+Paul Morse;1314;Legal;6;Low;Done;Workplace Safety;2023-04-12;2023-04-14;2023-04-15
+Heather Valenzuela;1052;Engineering;8;Low;Done;Recruitment & Mobility;2023-04-06;2023-04-09;2023-04-10
+Debra Molina;1084;People;4;Critical;Done;Career Development;2023-06-19;2023-06-20;2023-06-28
+John Hudson;1678;People;2;High;Done;Career Development;2024-02-08;2024-02-10;2024-02-10
+Patrick Dawson;1735;Banking;5;High;Done;Recruitment & Mobility;2023-03-11;2023-03-13;2023-03-14
+Donna Green;1360;Customer Support;2;Medium;Done;Recruitment & Mobility;2023-04-20;2023-04-24;2023-04-24
+Wendy Campbell;1394;Operations;8;Medium;To Do;Workplace Safety;2024-06-10;;
+Kenneth Pittman;1228;Banking;3;Critical;Done;Employee Relations;2023-01-26;2023-01-28;2023-01-28
+Michele Mills;1390;Banking;10;Medium;Done;Employee Offboarding;2023-06-11;2023-06-12;2023-06-15
+Garrett Daniels;1318;Customer Support;3;Medium;Done;Compensation & Benefits;2023-01-27;2023-01-29;2023-01-31
+Michele Mills;1390;Banking;10;Medium;Done;Employee Offboarding;2024-12-29;2024-12-31;2025-01-05
+Alexandra Hansen;1099;Engineering;4;Medium;Done;Onboarding;2024-12-08;2024-12-10;2024-12-11
+Jeffrey Williams;1490;People;5;High;Waiting for customer;Organizational Culture;2023-12-20;;
+Patricia Bender;1704;Engineering;5;High;Done;Employee Feedback;2024-05-23;2024-05-24;2024-05-26
+Jay Brooks;1342;Engineering;8;Medium;Done;Performance Management;2024-02-29;2024-03-03;2024-03-03
+Brandon Yang;1332;Engineering;4;Critical;Done;Diversity & Inclusion;2024-05-18;2024-05-19;2024-05-19
+Amanda Duncan;1257;Engineering;5;Critical;Done;Employee Offboarding;2023-07-26;2023-07-27;2023-07-28
+Jerry Marshall;1589;Legal;9;High;Done;Employee Offboarding;2023-09-27;2023-09-28;2023-09-28
+Edward Burton;1388;Legal;3;Medium;Done;Learning & Development;2024-10-01;2024-10-13;2024-10-15
+Stephanie Mercado;1224;People;1;High;Done;Employee Engagement;2024-10-25;2024-10-30;2024-11-01
+Julie Sutton;1483;Banking;10;Critical;Done;Employee Retention;2023-09-16;2023-09-17;2023-09-24
+Ashlee Proctor;1676;Finance;4;Medium;Done;Workplace Safety;2023-09-28;2023-09-29;2023-09-29
+Marcus Barnes;1104;Marketing;6;Critical;To Do;Diversity & Inclusion;2024-04-28;;
+Todd Richards;1440;Marketing;2;Low;Done;Employee Relations;2023-12-25;2023-12-26;2023-12-26
+Craig Proctor;1754;Customer Support;5;Low;Done;Performance Management;2023-03-13;2023-03-19;2023-03-20
+Brian Leach;1058;Banking;9;Medium;Done;Diversity & Inclusion;2023-11-13;2023-11-14;2023-11-15
+Tracie Cobb;1359;Marketing;5;Medium;Waiting for customer;Diversity & Inclusion;2023-11-29;;
+Peter Cook;1250;Engineering;9;Medium;To Do;Employee Engagement;2024-12-09;;
+Crystal Butler;1000;Legal;5;High;Done;Learning & Development;2023-02-22;2023-02-28;2023-03-04
+Joel Phillips;1546;People;5;High;Done;Recruitment & Mobility;2023-10-02;2023-10-08;2023-10-12
+Ian Perkins;1291;Legal;5;Low;Done;Employee Feedback;2024-07-23;2024-07-26;2024-07-26
+Wendy Campbell;1394;Operations;8;Low;Done;Recruitment & Mobility;2024-04-07;2024-04-16;2024-04-16
+Kimberly West;1742;Customer Support;4;Medium;Done;Employee Feedback;2023-01-22;2023-01-24;2023-02-01
+Patricia Pratt;1285;People;3;Critical;Done;Compensation & Benefits;2023-12-01;2023-12-03;2023-12-04
+Peggy Miller;1073;Operations;2;Low;To Do;Employee Relations;2023-07-20;;
+Michael Smith;1631;People;8;Critical;Done;Onboarding;2023-11-14;2023-11-16;2023-11-16
+Grace Jones;1329;Finance;4;Critical;Done;Workplace Safety;2023-06-06;2023-06-08;2023-06-20
+Rachel Sanchez;1588;Operations;10;Critical;In progress;Employee Retention;2024-10-07;2024-10-14;
+Debra Molina;1084;People;4;Medium;To Do;Onboarding;2024-01-25;;
+Patricia Pratt;1285;People;3;Low;Done;Employee Feedback;2023-05-26;2023-05-27;2023-05-27
+Seth Stevens;1308;Banking;9;High;Done;Compensation & Benefits;2024-04-08;2024-04-18;2024-04-18
+Brendan Henderson;1027;Banking;2;Low;Done;Recruitment & Mobility;2024-01-16;2024-01-19;2024-01-20
+Erin White;1793;Marketing;8;Low;Done;Health & Wellness;2023-09-02;2023-09-04;2023-09-04
+Joseph Roach;1565;Operations;2;High;Done;Performance Management;2024-08-06;2024-08-14;2024-08-20
+Nicole Patrick;1380;Legal;7;High;To Do;Learning & Development;2023-05-22;;
+Scott Green;1190;Legal;8;Critical;Done;Employee Retention;2024-02-20;2024-02-21;2024-02-24
+Joseph Wallace;1172;Engineering;8;Critical;In progress;Compensation & Benefits;2024-10-10;2024-10-16;
+Jessica Rodriguez;1090;Customer Support;3;Low;Done;Career Development;2024-12-30;2024-12-31;2025-01-01
+Alejandro Smith;1234;Engineering;6;Low;Done;Diversity & Inclusion;2024-06-13;2024-06-19;2024-06-20
+Darrell Reeves;1372;Legal;9;Critical;Done;Employee Offboarding;2023-10-21;2023-10-23;2023-10-23
+Randy Hoffman;1063;Finance;4;High;Done;Compensation & Benefits;2024-02-02;2024-02-07;2024-02-09
+Philip Sandoval;1779;Engineering;4;Medium;Done;Employee Offboarding;2024-11-21;2024-11-26;2024-11-30
+Toni Brock;1619;Finance;1;Medium;Waiting for customer;Employee Relations;2024-04-14;;
+Jennifer Pacheco;1575;Banking;9;Critical;Done;Employee Offboarding;2024-09-10;2024-09-15;2024-09-19
+Chad Lopez;1258;Marketing;10;Medium;Done;Organizational Culture;2023-05-25;2023-05-26;2023-05-29
+Stephanie Mercado;1224;People;1;Low;Done;Employee Relations;2024-04-21;2024-04-22;2024-05-01
+Christine Coleman;1634;Product;3;Medium;Done;Organizational Culture;2023-08-07;2023-08-08;2023-08-09
+Russell Cunningham;1145;Marketing;4;High;Done;Performance Management;2023-04-13;2023-04-20;2023-04-21
+Jamie Nunez;1448;Product;4;High;Done;Workplace Safety;2023-11-22;2023-11-23;2023-11-23
+Arthur Beck;1011;Finance;3;Low;Done;Career Development;2024-08-07;2024-08-15;2024-08-21
+Jonathan Russo;1327;Finance;7;Low;Waiting for customer;Employee Relations;2024-10-04;;
+Jose York;1096;Banking;6;Medium;Waiting for customer;Performance Management;2024-03-03;;
+Sean Peters;1032;Banking;7;Medium;Done;Onboarding;2023-07-07;2023-07-09;2023-07-09
+Jay Gray;1720;Marketing;6;Medium;Done;Diversity & Inclusion;2023-09-05;2023-09-11;2023-09-14
+Kimberly West;1742;Customer Support;4;Medium;Done;Compensation & Benefits;2023-06-13;2023-06-17;2023-06-17
+David Santana;1167;Banking;8;Critical;Done;Compensation & Benefits;2024-02-10;2024-02-11;2024-02-14
+James Thompson;1462;Finance;9;High;Done;Employee Feedback;2023-12-02;2023-12-04;2023-12-04
+Edward Burton;1388;Legal;3;Critical;Done;Career Development;2023-07-20;2023-07-27;2023-07-29
+James Page;1411;Banking;3;Low;To Do;Diversity & Inclusion;2024-07-22;;
+Lori Sullivan;1320;Banking;9;High;Done;Health & Wellness;2024-03-02;2024-03-05;2024-03-05
+Stacey Donaldson;1780;Operations;7;High;Done;Career Development;2024-11-06;2024-11-09;2024-11-10
+Lori Weeks;1079;Product;8;High;Done;Health & Wellness;2023-01-06;2023-01-08;2023-01-08
+Sarah Melton;1376;Product;10;Medium;To Do;Organizational Culture;2023-05-14;;
+Melissa Wallace;1614;Finance;5;High;Waiting for customer;Organizational Culture;2023-02-08;;
+Adriana Fletcher;1281;Product;1;Critical;Done;Employee Engagement;2024-12-02;2024-12-03;2024-12-03
+Robin Allen;1094;Operations;6;Critical;Done;Employee Engagement;2023-08-15;2023-08-18;2023-08-18
+Julie Jimenez;1752;Finance;5;Low;Done;Employee Relations;2024-11-13;2024-11-25;2024-11-27
+Stephanie Patterson;1496;Customer Support;5;Medium;Done;Organizational Culture;2024-06-13;2024-06-14;2024-06-14
+Steven Turner;1771;Operations;4;Low;Done;Workplace Safety;2024-12-24;2024-12-25;2024-12-25
+Nathaniel Burgess;1078;Legal;2;Medium;Done;Employee Relations;2023-06-13;2023-06-14;2023-06-17
+Sarah Melton;1376;Product;10;Critical;In progress;Employee Offboarding;2023-11-29;2023-12-05;
+David Holder;1667;Customer Support;7;High;Done;Diversity & Inclusion;2023-02-04;2023-02-05;2023-02-08
+Jose Moreno;1422;People;9;Low;Done;Employee Feedback;2024-09-30;2024-10-02;2024-10-10
+John Hudson;1678;People;2;Critical;Done;Employee Feedback;2023-04-18;2023-04-21;2023-04-25
+Jerry Marshall;1589;Legal;9;Critical;Done;Organizational Culture;2024-11-02;2024-11-05;2024-11-05
+Gary Santana;1580;Marketing;7;Low;Waiting for customer;Compensation & Benefits;2023-07-13;;
+Elizabeth Zhang;1520;People;5;Critical;To Do;Employee Offboarding;2023-10-07;;
+Cathy Stokes;1516;People;6;Critical;Done;Diversity & Inclusion;2024-04-15;2024-04-17;2024-04-22
+Haley Zavala;1038;Engineering;4;Critical;Done;Compensation & Benefits;2023-03-07;2023-03-14;2023-03-14
+Larry Stewart;1749;Engineering;2;High;Done;Career Development;2023-06-26;2023-06-28;2023-07-06
+Craig Proctor;1754;Customer Support;5;High;Done;Learning & Development;2024-04-18;2024-04-20;2024-04-22
+Christopher Hill;1727;Finance;2;Low;In progress;Health & Wellness;2023-11-30;2023-12-05;
+Jessica Hernandez;1531;Product;1;Low;Done;Employee Engagement;2024-02-04;2024-02-05;2024-02-05
+Ashley Mooney;1153;Operations;2;High;Done;Employee Offboarding;2024-03-25;2024-03-26;2024-04-08
+John Hudson;1678;People;2;Low;In progress;Employee Engagement;2024-11-06;2024-11-11;
+Michelle Cunningham;1659;Marketing;9;Low;Done;Employee Relations;2024-06-10;2024-06-12;2024-06-12
+Brooke Riley;1427;Legal;4;Medium;Waiting for customer;Health & Wellness;2023-12-23;;
+Laura Pierce;1597;Engineering;9;Critical;Done;Employee Engagement;2023-08-16;2023-08-23;2023-08-24
+Darrell Reeves;1372;Legal;9;Medium;Done;Compensation & Benefits;2023-05-13;2023-05-15;2023-05-15
+Elizabeth Navarro;1728;Finance;2;Low;Done;Employee Engagement;2023-03-16;2023-03-17;2023-03-17
+Cynthia Mullins;1266;Finance;8;Medium;Done;Compensation & Benefits;2023-03-12;2023-03-13;2023-03-15
+Cameron Jones;1711;People;7;Medium;Pending;Health & Wellness;2023-11-10;;
+Catherine Clark;1402;Legal;5;High;Done;Compensation & Benefits;2024-06-27;2024-06-28;2024-06-28
+Julie Boone;1629;Engineering;6;Medium;Done;Performance Management;2023-06-03;2023-06-11;2023-06-11
+Lydia Townsend;1386;Product;2;High;Done;Organizational Culture;2024-01-29;2024-01-30;2024-02-05
+Amanda Duncan;1257;Engineering;5;Critical;Done;Employee Offboarding;2023-12-22;2023-12-24;2023-12-29
+Julie Wilkinson;1633;Operations;7;Critical;Done;Employee Retention;2023-11-09;2023-11-11;2023-11-12
+Sherry Thompson;1196;Banking;7;Critical;Done;Compensation & Benefits;2023-04-01;2023-04-02;2023-04-02
+Nicholas Lewis;1699;Banking;6;High;Done;Health & Wellness;2023-03-27;2023-03-28;2023-03-28
+Ariel Woodard;1480;Customer Support;7;Critical;Pending;Learning & Development;2024-04-19;;
+William Orr;1632;Marketing;3;High;Done;Career Development;2024-02-17;2024-02-21;2024-02-25
+Frank Peterson;1560;People;3;Low;Done;Organizational Culture;2023-03-24;2023-03-27;2023-03-27
+Paula Simmons;1417;People;2;Medium;Done;Performance Management;2023-01-18;2023-01-25;2023-02-01
+Anita Thompson;1324;Product;4;High;Done;Recruitment & Mobility;2023-12-14;2023-12-18;2023-12-23
+Catherine Clark;1402;Legal;5;Critical;Done;Employee Retention;2023-07-24;2023-08-02;2023-08-02
+Renee Watts;1122;Operations;5;Critical;Done;Organizational Culture;2024-06-20;2024-07-01;2024-07-04
+Robin Allen;1094;Operations;6;Critical;Done;Diversity & Inclusion;2023-01-23;2023-01-31;2023-02-02
+Frank Rivera;1260;Operations;8;High;Done;Employee Relations;2024-02-09;2024-02-16;2024-02-19
+Emily Jones;1048;Operations;4;Medium;Done;Employee Engagement;2024-06-30;2024-07-02;2024-07-03
+Stacy Knox;1574;Marketing;2;Medium;Done;Employee Relations;2023-12-21;2023-12-23;2023-12-25
+Aaron Stewart;1021;Finance;4;High;Done;Recruitment & Mobility;2023-07-02;2023-07-12;2023-07-16
+Luke Braun;1139;People;3;High;Done;Employee Relations;2023-02-13;2023-02-20;2023-02-27
+Norman Hinton;1034;Marketing;7;Low;Done;Employee Offboarding;2024-06-12;2024-06-14;2024-06-22
+Ronald Smith;1450;Operations;6;Low;Done;Diversity & Inclusion;2024-05-26;2024-06-03;2024-06-04
+Matthew Gilbert;1020;Customer Support;2;High;Done;Employee Offboarding;2024-04-27;2024-04-28;2024-04-29
+Carol Jones;1389;Customer Support;8;Medium;Done;Career Development;2023-07-16;2023-07-17;2023-07-19
+Karen Donaldson;1510;Marketing;3;Medium;Done;Recruitment & Mobility;2024-08-31;2024-09-01;2024-09-03
+Mark Hunt;1199;Banking;2;Low;Done;Workplace Safety;2023-09-07;2023-09-09;2023-09-14
+Tammy Maynard;1756;Engineering;6;Medium;Done;Recruitment & Mobility;2023-02-01;2023-02-02;2023-02-03
+Nathaniel Mcintyre;1592;Product;8;Low;Done;Employee Retention;2023-12-03;2023-12-04;2023-12-05
+James Bailey;1502;Engineering;6;Medium;Done;Performance Management;2023-09-28;2023-10-01;2023-10-02
+Nichole Adkins;1567;Marketing;4;Low;Waiting for customer;Onboarding;2024-10-04;;
+April Valdez;1321;Operations;3;Critical;Done;Diversity & Inclusion;2023-09-23;2023-09-27;2023-10-02
+Mark Madden;1658;Legal;5;Medium;Done;Workplace Safety;2023-09-11;2023-09-15;2023-09-19
+Nathaniel Fuentes;1746;Finance;9;High;Done;Employee Relations;2023-07-11;2023-07-16;2023-07-21
+Tammy Maynard;1756;Engineering;6;High;Done;Compensation & Benefits;2023-06-13;2023-06-16;2023-06-17
+George Anderson;1119;Marketing;5;Medium;Done;Workplace Safety;2023-04-02;2023-04-03;2023-04-04
+Cathy Stokes;1516;People;6;Low;Done;Diversity & Inclusion;2023-06-27;2023-06-28;2023-07-01
+Matthew Jacobs;1117;People;6;Medium;Done;Performance Management;2024-05-09;2024-05-17;2024-05-18
+Corey Pearson;1463;Finance;7;High;Done;Compensation & Benefits;2023-10-21;2023-10-22;2023-10-22
+Garrett Daniels;1318;Customer Support;3;High;Done;Employee Engagement;2023-12-06;2023-12-10;2023-12-13
+Samuel Lamb;1716;Product;5;Medium;Done;Employee Feedback;2023-03-12;2023-03-15;2023-03-15
+Walter Ramirez;1233;Operations;8;Low;Done;Career Development;2023-01-08;2023-01-11;2023-01-16
+Sarah Melton;1376;Product;10;Low;Done;Career Development;2024-11-21;2024-11-22;2024-11-22
+Jessica Smith;1691;Customer Support;3;Low;Done;Employee Feedback;2023-07-10;2023-07-11;2023-07-11
+Jessica Smith;1691;Customer Support;3;Critical;Done;Diversity & Inclusion;2023-02-08;2023-02-13;2023-02-15
+Ariel Woodard;1480;Customer Support;7;High;Done;Diversity & Inclusion;2024-10-03;2024-10-06;2024-10-06
+Peggy Miller;1073;Operations;2;Medium;Done;Employee Engagement;2024-03-04;2024-03-09;2024-03-14
+Michael Smith;1631;People;8;Critical;Done;Compensation & Benefits;2024-10-08;2024-10-12;2024-10-22
+Tamara Mitchell;1305;Operations;9;Medium;Done;Employee Offboarding;2024-02-07;2024-02-09;2024-02-16
+Sarah Leon;1578;Marketing;6;Low;Done;Career Development;2024-06-07;2024-06-12;2024-06-17
+Wendy Singh;1442;Product;4;Critical;Done;Onboarding;2024-08-11;2024-08-13;2024-08-13
+Tiffany Garza;1379;Engineering;6;Critical;Pending;Learning & Development;2023-10-23;;
+Heather Peterson;1590;Operations;8;High;In progress;Workplace Safety;2023-01-25;2023-01-28;
+Raymond Vargas;1347;Product;4;High;Done;Employee Relations;2024-08-11;2024-08-15;2024-08-15
+Alejandro Smith;1234;Engineering;6;Medium;Done;Employee Relations;2023-07-19;2023-07-21;2023-07-22
+Thomas Howard;1361;Engineering;2;Low;Done;Diversity & Inclusion;2024-09-17;2024-09-20;2024-09-21
+Amy Arellano;1776;Product;8;High;Done;Career Development;2023-09-16;2023-09-17;2023-09-17
+Rachel Cox;1180;Product;9;High;Done;Onboarding;2023-10-09;2023-10-16;2023-10-16
+Ronald Smith;1450;Operations;6;Medium;Done;Health & Wellness;2024-09-10;2024-09-12;2024-09-13
+Denise Reyes;1640;Marketing;7;High;Done;Health & Wellness;2024-09-28;2024-09-29;2024-09-30
+Tracy Martinez;1382;Engineering;8;Critical;Done;Recruitment & Mobility;2024-06-24;2024-06-25;2024-06-27
+Anthony Taylor;1160;Finance;10;Critical;Done;Health & Wellness;2024-03-06;2024-03-09;2024-03-10
+Julia Gonzalez;1536;Operations;6;Critical;Done;Diversity & Inclusion;2024-07-21;2024-07-24;2024-07-25
+Brenda Flowers;1201;People;8;Medium;Done;Performance Management;2024-09-03;2024-09-06;2024-09-07
+Timothy Maxwell;1227;Product;4;Low;Done;Diversity & Inclusion;2023-10-27;2023-11-06;2023-11-10
+Timothy Shields;1166;Engineering;5;Medium;Done;Employee Relations;2023-03-23;2023-03-26;2023-03-30
+Mathew Bush;1586;Engineering;7;High;To Do;Recruitment & Mobility;2024-11-13;;
+Alyssa Patton;1717;People;8;Medium;Done;Workplace Safety;2023-09-30;2023-10-06;2023-10-07
+Michelle Walker;1300;Product;4;High;In progress;Recruitment & Mobility;2023-10-19;2023-10-24;
+Chad Lopez;1258;Marketing;10;Low;Done;Workplace Safety;2024-04-06;2024-04-08;2024-04-09
+Yvonne Jones;1504;Product;3;High;Done;Workplace Safety;2023-01-16;2023-01-24;2023-01-24
+James Bates;1381;Legal;4;High;Done;Diversity & Inclusion;2024-01-09;2024-01-12;2024-01-13
+Christina Brown;1630;People;3;Medium;Done;Health & Wellness;2024-08-15;2024-08-16;2024-08-16
+Eric Berger;1596;Engineering;4;Critical;Done;Onboarding;2024-11-18;2024-11-21;2024-11-28
+Emily Snyder;1434;Product;2;Critical;Done;Performance Management;2023-12-30;2024-01-03;2024-01-03
+Kristine Rivera;1060;Operations;4;Medium;Done;Onboarding;2024-07-08;2024-07-09;2024-07-09
+Crystal Medina;1272;Operations;7;Low;Waiting for customer;Diversity & Inclusion;2023-01-13;;
+Leslie Hurley;1149;People;4;Low;Pending;Employee Relations;2024-02-25;;
+Christina Stuart;1299;Customer Support;10;Medium;Done;Compensation & Benefits;2024-10-27;2024-10-28;2024-10-28
+Courtney Reyes;1288;Marketing;5;Medium;Waiting for customer;Compensation & Benefits;2023-03-15;;
+Aaron Davis;1739;Marketing;10;High;Done;Employee Engagement;2023-05-21;2023-05-23;2023-05-24
+Sarah Rios;1487;Engineering;6;High;Done;Employee Relations;2024-12-19;2024-12-22;2024-12-22
+Jacob Carey;1330;Legal;5;Critical;Done;Diversity & Inclusion;2024-04-20;2024-04-21;2024-04-21
+Jamie Nunez;1448;Product;4;Critical;Done;Health & Wellness;2024-06-13;2024-06-14;2024-06-16
+Sharon Haynes;1785;Finance;3;Critical;Pending;Diversity & Inclusion;2023-09-03;;
+Amanda Espinoza;1107;Operations;9;Medium;Waiting for customer;Learning & Development;2023-04-19;;
+Patricia Pratt;1285;People;3;Medium;Done;Career Development;2024-07-16;2024-07-29;2024-07-30
+Peter Cook;1250;Engineering;9;High;Done;Diversity & Inclusion;2024-08-25;2024-09-06;2024-09-08
+Ronald Smith;1450;Operations;6;Critical;Done;Employee Relations;2023-06-27;2023-07-05;2023-07-11
+Brad Hudson;1074;Customer Support;2;Medium;Waiting for customer;Onboarding;2024-08-02;;
+Mary Hamilton;1140;Engineering;3;Medium;Done;Employee Engagement;2023-12-05;2023-12-08;2023-12-08
+Gail Lewis;1419;Operations;2;Medium;Waiting for customer;Career Development;2023-06-01;;
+Sandra Rangel;1162;Banking;4;Critical;Done;Workplace Safety;2023-09-13;2023-09-19;2023-09-20
+Michael Martinez;1684;People;7;Low;Done;Onboarding;2023-10-05;2023-10-06;2023-10-06
+Brenda Montoya;1413;People;4;High;Done;Employee Feedback;2023-12-30;2024-01-01;2024-01-01
+Timothy Maxwell;1227;Product;4;Critical;Done;Employee Engagement;2023-11-26;2023-12-01;2023-12-05
+Alisha Hammond;1690;Engineering;3;Low;Done;Employee Feedback;2024-06-23;2024-06-25;2024-07-02
+Aaron Foster;1654;People;3;Medium;Done;Compensation & Benefits;2024-07-19;2024-07-26;2024-07-28
+Patricia Wright;1404;Finance;1;Low;Done;Workplace Safety;2023-10-12;2023-10-15;2023-10-15
+Lisa Alexander;1018;Banking;4;High;Done;Employee Feedback;2023-03-11;2023-03-12;2023-03-13
+Adam Garcia;1515;Marketing;7;Critical;Done;Learning & Development;2023-09-16;2023-09-19;2023-09-20
+Heather Valenzuela;1052;Engineering;8;Medium;Waiting for customer;Employee Engagement;2024-01-14;;
+Gene Thompson;1566;Finance;7;Medium;Done;Learning & Development;2024-03-02;2024-03-03;2024-03-03
+Jennifer Colon;1001;Customer Support;8;Low;Done;Diversity & Inclusion;2024-07-26;2024-07-27;2024-07-27
+Gregory Hinton;1087;Finance;6;High;In progress;Employee Relations;2024-05-29;2024-06-02;
+Danny Larsen;1737;Customer Support;2;High;Done;Compensation & Benefits;2023-09-10;2023-09-12;2023-09-12
+Mary Hamilton;1140;Engineering;3;Medium;Done;Organizational Culture;2023-08-16;2023-08-17;2023-08-19
+James Thompson;1462;Finance;9;Low;Done;Employee Offboarding;2023-05-12;2023-05-15;2023-05-15
+Sarah Mendez;1628;Finance;6;Medium;Done;Employee Engagement;2024-12-19;2024-12-24;2024-12-29
+Peter Robinson;1721;Banking;6;Critical;Done;Learning & Development;2023-06-17;2023-06-18;2023-06-21
+Eric Mendoza;1035;Engineering;4;Critical;To Do;Recruitment & Mobility;2024-02-13;;
+Anne Brown;1136;People;7;Low;Done;Health & Wellness;2024-08-15;2024-08-27;2024-08-29
+Courtney Poole;1354;People;8;High;Done;Onboarding;2023-07-15;2023-07-17;2023-07-19
+Jessica Bailey;1798;Legal;8;High;Done;Employee Retention;2024-01-12;2024-01-13;2024-01-13
+Thomas Reed;1602;Customer Support;5;Critical;Done;Employee Relations;2023-07-13;2023-07-21;2023-07-21
+Carol Butler;1777;Customer Support;3;Medium;Done;Employee Relations;2023-07-25;2023-08-02;2023-08-02
+Robert Lopez;1624;Engineering;10;High;Done;Career Development;2023-08-23;2023-08-30;2023-09-06
+Susan Butler;1186;Product;6;High;Done;Employee Retention;2023-06-20;2023-06-21;2023-06-22
+Glenda West;1366;Engineering;7;High;Done;Organizational Culture;2024-05-15;2024-05-18;2024-05-23
+Henry Warren;1192;Engineering;2;High;Done;Employee Feedback;2024-03-01;2024-03-08;2024-03-08
+Aaron Goodwin;1412;Customer Support;7;Medium;Done;Career Development;2023-02-06;2023-02-07;2023-02-07
+Donna Green;1360;Customer Support;2;High;Done;Workplace Safety;2023-03-07;2023-03-11;2023-03-11
+William Martinez;1391;People;3;Medium;Done;Health & Wellness;2023-08-10;2023-08-11;2023-08-12
+Sarah Leon;1578;Marketing;6;Critical;Done;Health & Wellness;2023-11-15;2023-11-16;2023-11-16
+Timothy Morris;1045;Engineering;1;Low;Done;Career Development;2023-04-10;2023-04-11;2023-04-13
+Derek Sanchez;1069;Legal;5;Critical;Done;Employee Offboarding;2024-04-19;2024-04-24;2024-04-26
+Jade Lee;1249;Operations;8;High;Done;Diversity & Inclusion;2024-11-12;2024-11-14;2024-11-14
+Ryan Stewart;1452;Product;6;Critical;Done;Learning & Development;2024-10-13;2024-10-15;2024-10-16
+Scott Green;1190;Legal;8;Low;Done;Learning & Development;2023-06-08;2023-06-09;2023-06-18
+Sarah Alvarez;1766;Legal;9;High;Done;Health & Wellness;2024-03-21;2024-03-22;2024-03-29
+Lauren Long;1410;Engineering;2;Medium;Waiting for customer;Onboarding;2024-07-26;;
+Amanda Turner;1225;Marketing;3;High;Done;Diversity & Inclusion;2023-12-15;2023-12-22;2023-12-22
+Adriana Fletcher;1281;Product;1;Medium;Done;Employee Engagement;2024-10-25;2024-10-29;2024-11-02
+Lauren Schultz;1307;Finance;8;High;To Do;Employee Relations;2023-01-28;;
+Vanessa Cruz;1383;Finance;7;Low;Done;Employee Retention;2023-02-05;2023-02-12;2023-02-15
+Brandy Romero;1617;Customer Support;7;High;Done;Diversity & Inclusion;2023-07-06;2023-07-07;2023-07-08
+Teresa Dunn;1263;Operations;9;Low;Done;Recruitment & Mobility;2024-05-18;2024-05-26;2024-05-28
+Brenda Flowers;1201;People;8;Low;Pending;Onboarding;2023-06-29;;
+Toni Brock;1619;Finance;1;Critical;Done;Compensation & Benefits;2024-01-28;2024-02-06;2024-02-07
+Cynthia Wong;1540;Finance;9;Critical;Done;Employee Relations;2023-12-17;2023-12-19;2023-12-19
+Mark Madden;1658;Legal;5;Critical;Done;Workplace Safety;2023-10-05;2023-10-08;2023-10-09
+Louis Hardy;1198;Customer Support;9;Low;Pending;Learning & Development;2024-02-14;;
+Eric Russell;1337;People;9;High;Done;Career Development;2023-12-18;2023-12-19;2024-01-01
+Amanda Turner;1225;Marketing;3;Low;Done;Employee Engagement;2024-03-21;2024-03-30;2024-03-30
+Cynthia Perez;1772;Legal;1;Medium;In progress;Employee Engagement;2024-06-23;2024-06-26;
+Ann Dunlap;1365;Marketing;6;Medium;Done;Employee Feedback;2023-07-18;2023-07-21;2023-07-22
+Christina Roach;1082;Banking;4;Low;Pending;Learning & Development;2023-07-01;;
+Angela Gallagher;1563;Marketing;10;Medium;Done;Performance Management;2024-10-03;2024-10-11;2024-10-11
+Timothy Morris;1045;Engineering;1;Medium;Done;Employee Engagement;2023-07-29;2023-07-30;2023-07-31
+Crystal Butler;1000;Legal;5;High;Done;Career Development;2023-05-05;2023-05-06;2023-05-07
+Jessica Rodriguez;1090;Customer Support;3;High;Done;Career Development;2023-11-26;2023-12-02;2023-12-06
+Ashley White;1353;Finance;1;Medium;To Do;Compensation & Benefits;2024-06-12;;
+Lauren Mcneil;1454;Engineering;8;High;Done;Onboarding;2024-05-16;2024-05-18;2024-05-19
+Chelsey Larson;1165;Banking;9;Critical;Done;Organizational Culture;2023-01-28;2023-01-29;2023-01-29
+Vanessa Cruz;1383;Finance;7;High;Done;Employee Retention;2024-07-25;2024-07-26;2024-07-29
+Wendy Singh;1442;Product;4;Medium;Done;Performance Management;2023-12-14;2023-12-27;2023-12-28
+Michael Hicks;1471;People;4;Critical;Done;Career Development;2024-02-29;2024-03-01;2024-03-04
+Michelle Schwartz;1178;Marketing;8;Medium;Done;Onboarding;2024-01-27;2024-01-28;2024-01-30
+Justin Whitney;1341;Banking;8;Low;Done;Performance Management;2024-10-09;2024-10-12;2024-10-16
+Jesse Miller;1683;Product;2;Critical;To Do;Onboarding;2024-06-29;;
+Nancy Johnson;1625;Marketing;10;Critical;Pending;Employee Retention;2024-11-12;;
+Matthew Pope;1606;Banking;3;Medium;Done;Performance Management;2024-10-28;2024-10-29;2024-11-11
+David Pruitt;1155;Legal;5;Critical;Pending;Workplace Safety;2024-03-31;;
+Julie Wilkinson;1633;Operations;7;High;Done;Learning & Development;2024-06-06;2024-06-07;2024-06-07
+Derek Sanchez;1069;Legal;5;High;To Do;Diversity & Inclusion;2024-12-01;;
+Brandy Parrish;1572;Legal;8;Medium;Done;Career Development;2023-09-29;2023-09-30;2023-09-30
+Mark Murillo;1535;People;5;Medium;Done;Diversity & Inclusion;2023-07-17;2023-07-18;2023-07-18
+Nancy Good;1543;Legal;1;High;Done;Learning & Development;2024-06-25;2024-06-28;2024-06-28
+Tami Bates;1039;Customer Support;5;High;Done;Compensation & Benefits;2024-05-09;2024-05-11;2024-05-11
+Robert Adams;1468;Marketing;7;Medium;Done;Learning & Development;2024-05-18;2024-05-21;2024-05-22
+Shannon Hill;1316;Product;3;Critical;Done;Employee Relations;2023-08-17;2023-08-19;2023-08-21
+Cheryl Tucker;1076;Banking;5;High;Done;Employee Relations;2024-03-27;2024-03-31;2024-03-31
+James Gates;1674;Engineering;8;High;Done;Employee Engagement;2024-11-09;2024-11-11;2024-11-11
+Michelle Harris;1686;Operations;6;Critical;Done;Compensation & Benefits;2024-05-30;2024-05-31;2024-06-01
+Lauren Schultz;1307;Finance;8;Medium;In progress;Learning & Development;2024-02-01;2024-02-05;
+Sarah Atkinson;1489;People;9;Medium;Done;Recruitment & Mobility;2023-04-23;2023-04-24;2023-04-26
+Maurice Caldwell;1447;Marketing;3;Low;Done;Employee Offboarding;2024-05-08;2024-05-10;2024-05-18
+Kenneth Pittman;1228;Banking;3;Medium;Done;Career Development;2023-05-20;2023-05-22;2023-05-30
+Gerald Jones;1418;Operations;6;Medium;Done;Learning & Development;2024-09-12;2024-09-13;2024-09-16
+Peter Robinson;1721;Banking;6;Low;Done;Recruitment & Mobility;2024-04-14;2024-04-22;2024-04-23
+Charles Beltran;1135;Engineering;5;Critical;Done;Compensation & Benefits;2023-02-14;2023-02-15;2023-02-15
+Patricia Lang;1265;Finance;5;High;Done;Employee Relations;2023-08-07;2023-08-09;2023-08-11
+Laura Chen;1313;Customer Support;1;Critical;To Do;Diversity & Inclusion;2023-07-04;;
+Stephanie Patterson;1496;Customer Support;5;High;Waiting for customer;Employee Feedback;2024-11-13;;
+Christopher Gomez;1595;Customer Support;7;Critical;Done;Employee Offboarding;2024-06-05;2024-06-06;2024-06-06
+John Peterson;1403;Marketing;1;Critical;Done;Workplace Safety;2023-03-29;2023-03-30;2023-04-02
+Matthew Pope;1606;Banking;3;High;Waiting for customer;Learning & Development;2024-01-03;;
+Deborah Turner;1340;People;7;High;Pending;Diversity & Inclusion;2023-04-27;;
+Jeffrey Davidson;1573;Engineering;8;Low;Done;Employee Relations;2023-12-29;2024-01-01;2024-01-01
+Timothy Maxwell;1227;Product;4;Low;Done;Compensation & Benefits;2023-01-21;2023-01-28;2023-01-28
+Colin Harris;1421;Finance;4;Low;Done;Health & Wellness;2024-07-25;2024-07-27;2024-07-27
+Cameron Jones;1711;People;7;Medium;Done;Performance Management;2023-08-08;2023-08-10;2023-08-10
+Rachel Sanchez;1588;Operations;10;Critical;Done;Employee Relations;2024-06-01;2024-06-02;2024-06-02
+Manuel Pope;1212;Engineering;8;Medium;Waiting for customer;Workplace Safety;2024-02-05;;
+Michael Martinez;1684;People;7;Critical;In progress;Organizational Culture;2023-12-06;2023-12-08;
+Stephanie Romero;1460;Banking;6;Critical;Done;Career Development;2024-12-21;2024-12-26;2024-12-28
+Gregory Everett;1335;Finance;6;Low;Done;Organizational Culture;2024-08-14;2024-08-19;2024-08-24
+Brandy Romero;1617;Customer Support;7;Low;Done;Employee Feedback;2023-11-18;2023-11-21;2023-11-26
+Courtney Poole;1354;People;8;High;Done;Health & Wellness;2023-05-20;2023-05-27;2023-05-28
+Betty Mooney;1529;Finance;5;Low;Done;Workplace Safety;2024-07-30;2024-08-05;2024-08-08
+William Daniels;1248;Customer Support;9;Medium;Done;Organizational Culture;2023-09-24;2023-09-30;2023-10-03
+Matthew Tucker;1396;Finance;7;High;Done;Recruitment & Mobility;2023-05-03;2023-05-08;2023-05-12
+Stephanie Romero;1460;Banking;6;Medium;Done;Employee Retention;2024-08-30;2024-09-01;2024-09-02
+Oscar Lewis;1232;Legal;1;High;In progress;Employee Feedback;2023-07-18;2023-07-25;
+Crystal Lee;1591;Product;4;High;Done;Employee Retention;2024-03-06;2024-03-11;2024-03-16
+James Thompson;1462;Finance;9;Low;Done;Employee Engagement;2023-04-14;2023-04-20;2023-04-22
+Alice Pearson;1197;Customer Support;4;High;Done;Learning & Development;2023-03-25;2023-03-26;2023-03-26
+Kevin Strong;1425;Product;7;High;Done;Workplace Safety;2024-12-22;2024-12-28;2024-12-31
+Ian Perkins;1291;Legal;5;Medium;Done;Career Development;2023-09-19;2023-09-20;2023-09-22
+Michael Nash;1522;Engineering;5;High;Done;Learning & Development;2023-06-16;2023-06-17;2023-06-18
+Julia Gonzalez;1536;Operations;6;Medium;Done;Employee Engagement;2024-10-14;2024-10-19;2024-10-22
+Kevin Nguyen;1677;Banking;8;High;Done;Health & Wellness;2023-03-13;2023-03-16;2023-03-16
+Bradley Hayes;1010;Legal;9;High;Done;Diversity & Inclusion;2024-09-12;2024-09-13;2024-09-13
+Debbie Haynes;1491;Legal;8;Critical;To Do;Employee Feedback;2024-07-02;;
+Isaiah Gibson;1537;Operations;6;Medium;Done;Employee Engagement;2024-07-18;2024-07-23;2024-07-25
+Austin Smith;1615;Marketing;5;Medium;To Do;Health & Wellness;2023-11-29;;
+Chris Browning;1703;People;8;Medium;Done;Onboarding;2023-12-04;2023-12-06;2023-12-08
+Travis Savage;1017;Customer Support;10;Critical;Done;Employee Feedback;2023-03-22;2023-03-23;2023-03-23
+Jeffrey Nelson;1639;Operations;1;Critical;Done;Learning & Development;2023-03-04;2023-03-09;2023-03-14
+Kelly Conner;1441;Engineering;5;Medium;Done;Workplace Safety;2024-04-26;2024-04-27;2024-04-27
+Scott Butler;1663;Banking;4;Critical;Done;Employee Relations;2023-06-14;2023-06-16;2023-06-16
+Hannah Day;1559;People;10;Medium;Done;Diversity & Inclusion;2023-10-24;2023-10-25;2023-10-26
+Grace Jones;1329;Finance;4;Critical;Done;Diversity & Inclusion;2023-02-13;2023-02-23;2023-02-27
+Marissa Moreno;1049;Banking;6;Medium;Done;Learning & Development;2024-03-01;2024-03-05;2024-03-05
+Luis Ewing;1707;Engineering;10;Low;Done;Employee Engagement;2023-01-11;2023-01-16;2023-01-20
+Kayla Larson;1670;Customer Support;3;Low;Done;Employee Engagement;2023-12-17;2023-12-26;2023-12-26
+Michelle Holder;1556;Marketing;10;Low;Done;Employee Engagement;2023-07-13;2023-07-26;2023-07-27
+Henry Warren;1192;Engineering;2;Low;Done;Learning & Development;2023-01-30;2023-01-31;2023-01-31
+Sarah Mendez;1628;Finance;6;Low;Done;Employee Offboarding;2024-12-11;2024-12-13;2024-12-18
+Donna Pena;1675;Finance;9;High;Done;Health & Wellness;2024-12-17;2024-12-19;2024-12-26
+John Hale;1317;Banking;3;Critical;Done;Career Development;2024-10-21;2024-10-22;2024-10-22
+Whitney Moody;1466;Customer Support;5;High;Done;Employee Offboarding;2024-02-21;2024-02-22;2024-02-22
+Summer Miller;1672;Banking;5;Medium;Done;Onboarding;2024-07-21;2024-07-28;2024-07-29
+Brian Snyder;1134;Operations;3;Critical;Done;Workplace Safety;2023-12-04;2023-12-07;2023-12-08
+Martha Martinez;1261;Finance;6;Medium;Done;Employee Engagement;2024-03-18;2024-03-20;2024-03-25
+Eric Mendoza;1035;Engineering;4;High;Done;Employee Relations;2023-02-02;2023-02-06;2023-02-06
+Jennifer Colon;1001;Customer Support;8;Medium;Done;Health & Wellness;2023-07-19;2023-07-20;2023-07-21
+Courtney Poole;1354;People;8;Critical;To Do;Organizational Culture;2023-12-11;;
+Lynn Graham;1326;Marketing;5;Critical;Done;Onboarding;2024-02-22;2024-03-02;2024-03-03
+Miguel Leon;1478;Legal;1;Low;To Do;Employee Offboarding;2024-12-10;;
+Erica Novak;1652;Legal;10;High;Done;Compensation & Benefits;2023-01-18;2023-01-19;2023-01-21
+Todd Richards;1440;Marketing;2;Medium;Done;Workplace Safety;2024-04-01;2024-04-02;2024-04-03
+Matthew Hicks;1151;Legal;8;Critical;Done;Recruitment & Mobility;2024-06-09;2024-06-18;2024-06-18
+Connie Powers;1547;Customer Support;8;Medium;Done;Health & Wellness;2024-09-06;2024-09-07;2024-09-08
+Julie Johnson;1459;Operations;10;Critical;Done;Workplace Safety;2023-01-21;2023-01-29;2023-02-04
+John Mccoy;1557;Legal;8;Critical;Done;Employee Feedback;2024-08-04;2024-08-06;2024-08-06
+Kendra Henderson;1115;Customer Support;6;High;Done;Employee Offboarding;2023-08-21;2023-08-22;2023-08-29
+Julie Jimenez;1752;Finance;5;Low;To Do;Employee Retention;2023-07-28;;
+Jeffery Gonzales;1743;Marketing;5;Medium;To Do;Workplace Safety;2023-03-11;;
+Donna Pena;1675;Finance;9;Low;Done;Employee Relations;2024-11-15;2024-11-17;2024-11-17
+Ann Peterson;1296;Banking;7;High;Done;Performance Management;2024-06-04;2024-06-07;2024-06-08
+James Weiss;1269;Customer Support;7;Low;Done;Employee Offboarding;2024-07-28;2024-08-03;2024-08-06
+Megan Castillo;1362;Engineering;3;Medium;Done;Employee Feedback;2023-05-30;2023-06-02;2023-06-08
+Erica George;1426;Legal;4;Medium;Done;Performance Management;2024-10-11;2024-10-12;2024-10-25
+Charles Logan;1730;Legal;4;Low;Done;Performance Management;2024-05-09;2024-05-12;2024-05-12
+Rachel Cox;1180;Product;9;Critical;Done;Employee Engagement;2023-12-22;2024-01-05;2024-01-05
+Justin Johnson;1719;Customer Support;9;Critical;Done;Employee Relations;2024-10-27;2024-10-31;2024-10-31
+Kayla Larson;1670;Customer Support;3;Critical;Done;Recruitment & Mobility;2024-07-07;2024-07-17;2024-07-21
+John Berger;1152;Legal;4;High;Done;Workplace Safety;2023-07-03;2023-07-05;2023-07-05
+Colton Cowan;1211;Operations;2;Medium;In progress;Performance Management;2023-02-23;2023-03-02;
+Garrett Daniels;1318;Customer Support;3;Critical;Done;Recruitment & Mobility;2024-02-10;2024-02-16;2024-02-18
+Raymond Vargas;1347;Product;4;High;Done;Employee Retention;2024-03-01;2024-03-02;2024-03-05
+Norman Thomas;1315;Finance;2;High;Done;Employee Feedback;2024-11-28;2024-12-01;2024-12-02
+Jennifer Martin;1763;Product;2;Critical;Done;Diversity & Inclusion;2024-07-18;2024-07-25;2024-07-27
+James Boyd;1173;Finance;4;Medium;Waiting for customer;Performance Management;2024-09-07;;
+Vanessa Rodriguez;1270;Banking;10;Critical;Done;Learning & Development;2024-07-17;2024-07-18;2024-07-25
+Julie Murphy;1292;Product;4;Medium;Done;Employee Engagement;2024-02-20;2024-02-21;2024-02-24
+Catherine Logan;1618;Legal;3;Medium;In progress;Compensation & Benefits;2024-12-15;2024-12-18;
+Jasmine Smith;1235;Engineering;6;High;Done;Employee Engagement;2024-05-22;2024-06-01;2024-06-01
+Megan Castillo;1362;Engineering;3;Medium;Done;Workplace Safety;2023-04-27;2023-05-01;2023-05-01
+Bridget Walker;1176;People;5;Critical;Done;Workplace Safety;2023-06-01;2023-06-04;2023-06-04
+John Garcia;1097;Finance;5;Low;Waiting for customer;Employee Offboarding;2024-07-16;;
+Kenneth Simmons;1282;Finance;9;Critical;To Do;Workplace Safety;2024-03-13;;
+Fernando Carroll;1607;Legal;3;Medium;In progress;Employee Engagement;2023-08-29;2023-09-04;
+Daniel Price;1523;Customer Support;10;Critical;Done;Employee Relations;2023-11-10;2023-11-13;2023-11-14
+Jose Phillips;1657;People;7;High;Done;Organizational Culture;2023-09-28;2023-09-30;2023-10-01
+Trevor Caldwell;1558;Customer Support;7;Low;Done;Compensation & Benefits;2024-02-14;2024-02-19;2024-02-24
+Matthew Gonzales;1751;Operations;8;High;Waiting for customer;Learning & Development;2023-06-25;;
+Jennifer Martinez;1507;Product;10;High;Done;Employee Relations;2024-01-20;2024-01-21;2024-01-23
+Eduardo Spencer;1400;Legal;3;Medium;Pending;Compensation & Benefits;2024-10-13;;
+Frank Peterson;1560;People;3;Critical;Done;Employee Feedback;2023-06-01;2023-06-13;2023-06-15
+Brandon Yang;1332;Engineering;4;Critical;In progress;Health & Wellness;2023-03-17;2023-03-21;
+Christine Coleman;1634;Product;3;Medium;Done;Onboarding;2024-05-17;2024-05-19;2024-05-19
+Jennifer Pacheco;1575;Banking;9;Low;Done;Learning & Development;2024-02-17;2024-02-25;2024-03-02
+Amy Dixon;1665;People;6;Critical;In progress;Onboarding;2023-02-20;2023-02-25;
+Christina Stuart;1299;Customer Support;10;Critical;Done;Employee Offboarding;2024-08-16;2024-08-23;2024-08-24
+Erik Glenn;1651;Product;7;High;Done;Employee Feedback;2024-03-28;2024-03-30;2024-04-04
+Tracie Cobb;1359;Marketing;5;High;In progress;Employee Retention;2023-05-27;2023-05-28;
+Patricia Taylor;1385;Finance;9;Critical;Done;Onboarding;2023-06-16;2023-06-18;2023-06-26
+Julie Boone;1629;Engineering;6;High;Done;Learning & Development;2023-09-05;2023-09-06;2023-09-07
+James Ryan;1095;Legal;4;Low;Done;Health & Wellness;2024-11-03;2024-11-04;2024-11-06
+Thomas Howard;1361;Engineering;2;Critical;Done;Career Development;2023-11-04;2023-11-05;2023-11-05
+Jose Payne;1007;Banking;8;Critical;Done;Performance Management;2024-11-22;2024-12-03;2024-12-06
+Brenda Martinez;1057;Operations;5;Low;Done;Employee Feedback;2024-04-09;2024-04-16;2024-04-19
+Michael Martinez;1684;People;7;Medium;Done;Recruitment & Mobility;2023-12-08;2023-12-17;2023-12-17
+Natalie Chavez;1671;People;3;High;Done;Diversity & Inclusion;2023-11-01;2023-11-03;2023-11-05
+Curtis Patel;1088;Product;4;High;Done;Employee Feedback;2023-10-31;2023-11-06;2023-11-07
+John Hale;1317;Banking;3;Medium;Waiting for customer;Employee Relations;2024-07-14;;
+Catherine Clark;1402;Legal;5;Critical;Done;Compensation & Benefits;2023-09-28;2023-09-29;2023-10-02
+Robin Day;1650;Marketing;9;Critical;Done;Compensation & Benefits;2023-06-23;2023-06-24;2023-06-24
+Tina Reed;1453;Customer Support;3;Critical;Done;Diversity & Inclusion;2024-05-14;2024-05-16;2024-05-23
+Megan Hill;1553;Customer Support;8;Critical;Pending;Workplace Safety;2024-05-10;;
+Julie Murphy;1292;Product;4;Low;Done;Workplace Safety;2024-07-23;2024-07-25;2024-07-26
+Brian Snyder;1134;Operations;3;High;To Do;Employee Feedback;2024-12-19;;
+Edward Burton;1388;Legal;3;Low;Done;Compensation & Benefits;2024-09-13;2024-09-16;2024-09-16
+Gene Thompson;1566;Finance;7;Low;Done;Organizational Culture;2024-01-11;2024-01-12;2024-01-12
+John Proctor;1509;Engineering;9;High;In progress;Career Development;2024-08-06;2024-08-07;
+Sarah Murphy;1303;People;8;Low;Done;Employee Engagement;2024-07-05;2024-07-08;2024-07-14
+Nicholas Smith;1364;Engineering;5;Medium;Done;Employee Relations;2024-01-22;2024-01-25;2024-01-26
+Travis Savage;1017;Customer Support;10;Critical;Done;Diversity & Inclusion;2024-03-15;2024-03-16;2024-03-16
+John Peterson;1403;Marketing;1;Low;Done;Employee Relations;2023-02-13;2023-02-16;2023-02-16
+Kenneth Pittman;1228;Banking;3;Critical;Done;Health & Wellness;2023-07-09;2023-07-10;2023-07-10
+Christopher Brown;1729;Engineering;6;Critical;Done;Employee Retention;2023-09-22;2023-09-23;2023-09-25
+Keith Aguirre;1144;People;3;High;Done;Workplace Safety;2023-05-29;2023-05-31;2023-06-12
+Haley Zavala;1038;Engineering;4;Critical;Done;Learning & Development;2023-06-04;2023-06-06;2023-06-06
+Dylan Velazquez;1159;Legal;6;Medium;Done;Organizational Culture;2024-12-19;2024-12-22;2024-12-22
+Alyssa Petty;1003;Customer Support;1;Low;Waiting for customer;Employee Retention;2024-05-09;;
+Amber Mcdaniel;1525;Engineering;8;High;Done;Career Development;2023-10-30;2023-10-31;2023-10-31
+Mary Reyes;1081;Banking;10;High;Done;Employee Retention;2023-12-31;2024-01-03;2024-01-04
+Brenda Montoya;1413;People;4;Critical;Done;Employee Relations;2023-05-27;2023-05-28;2023-05-29
+Eric Collins;1075;Customer Support;7;Low;Done;Recruitment & Mobility;2024-09-06;2024-09-13;2024-09-14
+Mary Gross;1062;Operations;10;Critical;Done;Performance Management;2024-10-25;2024-11-08;2024-11-08
+Timothy Maxwell;1227;Product;4;Low;Done;Learning & Development;2024-08-06;2024-08-09;2024-08-20
+Rachel Cox;1180;Product;9;Medium;Done;Workplace Safety;2023-05-23;2023-05-25;2023-05-26
+James Johns;1518;Legal;3;High;Done;Compensation & Benefits;2023-07-24;2023-07-27;2023-07-27
+Cynthia Mullins;1266;Finance;8;Critical;Pending;Recruitment & Mobility;2024-01-06;;
+Carl Brown;1132;Finance;9;High;Done;Career Development;2024-12-17;2024-12-19;2024-12-19
+Michael Powers;1253;Customer Support;9;Critical;To Do;Health & Wellness;2024-06-04;;
+James Rodriguez;1371;Banking;10;Critical;Done;Employee Engagement;2023-03-26;2023-03-29;2023-03-29
+John Berger;1152;Legal;4;Medium;Done;Employee Feedback;2023-11-26;2023-12-01;2023-12-05
+Miranda Cooper;1130;Marketing;2;High;Done;Recruitment & Mobility;2024-09-10;2024-09-12;2024-09-20
+Crystal Medina;1272;Operations;7;Low;Done;Performance Management;2024-06-24;2024-06-27;2024-06-27
+Jasmine Smith;1235;Engineering;6;High;Done;Employee Retention;2024-12-19;2024-12-21;2024-12-22
+Norman Hodge;1137;Engineering;5;Low;Done;Employee Retention;2024-12-21;2024-12-24;2024-12-31
+Scott Smith;1755;Customer Support;7;Low;Done;Recruitment & Mobility;2024-06-16;2024-06-23;2024-06-26
+Jesse Miller;1683;Product;2;Medium;To Do;Learning & Development;2023-06-04;;
+Joseph Roach;1565;Operations;2;High;Done;Employee Offboarding;2024-07-11;2024-07-15;2024-07-18
+Douglas Gomez;1387;Finance;3;Critical;Done;Employee Feedback;2024-08-27;2024-08-29;2024-08-31
+Lauren David;1649;Finance;2;Medium;To Do;Compensation & Benefits;2023-05-26;;
+Louis Hardy;1198;Customer Support;9;High;Done;Organizational Culture;2024-11-11;2024-11-12;2024-11-12
+Patrick Rosario;1499;Engineering;8;High;Done;Employee Relations;2023-06-26;2023-06-27;2023-07-06
+Elizabeth Monroe;1431;Operations;6;Medium;Done;Organizational Culture;2024-07-05;2024-07-06;2024-07-07
+Lisa Alexander;1018;Banking;4;Low;Done;Organizational Culture;2023-01-15;2023-01-16;2023-01-16
+Timothy Humphrey;1773;Engineering;9;Medium;Done;Performance Management;2024-10-24;2024-10-25;2024-10-27
+Justin Johnson;1719;Customer Support;9;Medium;Done;Organizational Culture;2023-09-26;2023-10-08;2023-10-10
+Kevin Nguyen;1677;Banking;8;High;Done;Onboarding;2024-08-27;2024-09-01;2024-09-06
+Brandon Chambers;1583;Finance;4;Medium;Pending;Performance Management;2023-03-26;;
+Danielle Bowers;1762;Marketing;4;Low;Done;Onboarding;2024-07-05;2024-07-11;2024-07-13
+Carol Jones;1389;Customer Support;8;Medium;Waiting for customer;Onboarding;2024-06-05;;
+Raymond Vargas;1347;Product;4;Critical;Done;Learning & Development;2023-01-24;2023-01-27;2023-02-02
+Laura Mejia;1168;Finance;9;High;Done;Employee Feedback;2023-11-08;2023-11-18;2023-11-18
+Ronald Carlson;1689;Engineering;9;Low;Done;Career Development;2023-12-10;2023-12-21;2023-12-24
+Sharon Haynes;1785;Finance;3;Medium;To Do;Employee Engagement;2024-12-20;;
+Jeffrey Brown;1718;People;8;Critical;Done;Onboarding;2024-04-27;2024-04-28;2024-05-06
+Jennifer Bray;1356;People;1;Critical;Done;Employee Retention;2023-05-21;2023-05-25;2023-05-30
+Douglas Gomez;1387;Finance;3;Critical;Done;Health & Wellness;2024-12-02;2024-12-04;2024-12-05
+Eric Berger;1596;Engineering;4;Medium;Done;Diversity & Inclusion;2024-03-24;2024-03-26;2024-03-26
+John Berger;1152;Legal;4;Medium;Done;Workplace Safety;2023-07-02;2023-07-04;2023-07-06
+Robert Brown;1769;Customer Support;4;High;Done;Compensation & Benefits;2023-10-30;2023-10-31;2023-11-02
+Trevor Caldwell;1558;Customer Support;7;Critical;Done;Employee Feedback;2024-05-11;2024-05-13;2024-05-14
+Jerry Marshall;1589;Legal;9;Critical;Done;Workplace Safety;2024-11-21;2024-11-23;2024-11-24
+Nathaniel Fuentes;1746;Finance;9;High;Pending;Employee Retention;2024-07-03;;
+Russell Cunningham;1145;Marketing;4;Critical;Done;Learning & Development;2023-01-13;2023-01-14;2023-01-15
+Michael Adams;1503;Legal;6;Critical;Done;Employee Feedback;2024-10-28;2024-10-31;2024-10-31
+Michael Bailey;1217;Legal;2;Medium;Done;Performance Management;2024-06-20;2024-06-22;2024-06-22
+Evan Martinez;1465;Finance;7;Low;Done;Organizational Culture;2023-12-13;2023-12-15;2023-12-15
+Jacqueline Roberts;1345;Banking;6;Medium;Done;Learning & Development;2023-09-07;2023-09-08;2023-09-08
+Timothy Shields;1166;Engineering;5;Low;Done;Career Development;2023-07-10;2023-07-11;2023-07-12
+Bradley Hayes;1010;Legal;9;High;Done;Workplace Safety;2023-01-12;2023-01-14;2023-01-16
+Logan Hall;1581;People;3;Medium;To Do;Onboarding;2024-10-25;;
+Patricia Bender;1704;Engineering;5;Medium;Done;Learning & Development;2023-09-28;2023-10-01;2023-10-02
+Kelly Conner;1441;Engineering;5;Low;Done;Employee Feedback;2024-07-16;2024-07-24;2024-07-26
+Pamela Tanner;1128;Product;6;Low;Done;Workplace Safety;2023-03-24;2023-03-25;2023-03-25
+Kelly Conner;1441;Engineering;5;Low;Done;Workplace Safety;2024-04-05;2024-04-09;2024-04-19
+Larry Stewart;1749;Engineering;2;Low;Done;Recruitment & Mobility;2023-07-02;2023-07-03;2023-07-03
+Sean Peters;1032;Banking;7;Low;In progress;Health & Wellness;2023-09-11;2023-09-13;
+Chad Lopez;1258;Marketing;10;High;Done;Performance Management;2023-03-25;2023-03-26;2023-04-03
+Amanda Espinoza;1107;Operations;9;Critical;Done;Learning & Development;2023-02-21;2023-02-22;2023-02-22
+James Bates;1381;Legal;4;Critical;Done;Employee Retention;2024-01-08;2024-01-09;2024-01-09
+Jose Moreno;1422;People;9;Critical;Done;Career Development;2024-12-24;2024-12-25;2024-12-26
+Tonya Andrews;1736;Customer Support;9;Low;Done;Employee Relations;2024-12-28;2024-12-29;2024-12-30
+Matthew Tucker;1396;Finance;7;Low;Done;Performance Management;2023-07-26;2023-08-01;2023-08-03
+Cameron Matthews;1103;Legal;9;Medium;Done;Health & Wellness;2024-10-17;2024-10-18;2024-10-24
+Allison Brown;1488;People;6;Medium;Done;Employee Relations;2023-12-28;2024-01-01;2024-01-07
+Justin Whitney;1341;Banking;8;Critical;To Do;Health & Wellness;2023-11-17;;
+Jamie Nunez;1448;Product;4;Critical;Done;Career Development;2024-05-02;2024-05-06;2024-05-06
+Joseph Wallace;1172;Engineering;8;High;To Do;Employee Retention;2023-04-18;;
+Anne Brown;1136;People;7;Medium;Done;Employee Engagement;2023-11-26;2023-12-01;2023-12-04
+Tamara Mitchell;1305;Operations;9;High;Waiting for customer;Employee Feedback;2023-11-29;;
+Chris Browning;1703;People;8;Low;Done;Recruitment & Mobility;2024-03-14;2024-03-15;2024-03-16
+Wendy Johnson;1423;People;7;Low;Done;Workplace Safety;2024-03-05;2024-03-07;2024-03-19
+Sandra Rangel;1162;Banking;4;Low;Done;Employee Retention;2024-01-21;2024-01-22;2024-01-22
+Rachel Cox;1180;Product;9;Critical;Done;Recruitment & Mobility;2023-09-22;2023-09-23;2023-09-23
+Christie Vega;1222;Banking;1;Low;Done;Employee Retention;2024-07-16;2024-07-17;2024-07-17
+Amy Cox;1205;Product;10;Medium;Done;Organizational Culture;2023-11-24;2023-11-25;2023-11-25
+Cameron Matthews;1103;Legal;9;Medium;In progress;Employee Offboarding;2023-02-08;2023-02-14;
+Stephen Mcdonald;1156;Finance;3;Medium;Done;Organizational Culture;2023-04-24;2023-05-01;2023-05-02
+Michael Nash;1522;Engineering;5;Critical;Done;Performance Management;2023-10-14;2023-10-16;2023-10-16
+David Cooper;1698;Product;5;Medium;Pending;Employee Feedback;2023-03-27;;
+Nicholas Brown;1731;Finance;7;Critical;Done;Organizational Culture;2024-11-09;2024-11-10;2024-11-11
+Michael Adams;1503;Legal;6;Low;Done;Employee Feedback;2023-08-18;2023-08-24;2023-09-01
+Kimberly Scott;1662;Engineering;2;Medium;Done;Performance Management;2023-08-13;2023-08-19;2023-08-22
+Elizabeth Hill;1432;Product;8;Low;Done;Learning & Development;2024-04-23;2024-04-24;2024-04-25
+Patricia Brown;1157;People;8;Medium;Done;Learning & Development;2023-11-08;2023-11-09;2023-11-11
+Jessica Hernandez;1531;Product;1;Critical;Done;Recruitment & Mobility;2023-12-05;2023-12-06;2023-12-07
+Randall Wells;1464;Customer Support;2;Low;Done;Employee Relations;2024-03-26;2024-03-28;2024-03-28
+Patricia Brown;1157;People;8;Low;Done;Diversity & Inclusion;2024-09-07;2024-09-14;2024-09-15
+Crystal Cooper;1064;Product;3;High;Done;Organizational Culture;2024-08-20;2024-08-25;2024-08-28
+Michael Bell;1512;Banking;3;Medium;Done;Compensation & Benefits;2023-10-30;2023-10-31;2023-11-07
+Lydia Townsend;1386;Product;2;Critical;Done;Organizational Culture;2024-11-27;2024-12-03;2024-12-05
+Amanda Dunn;1036;People;7;Low;Done;Health & Wellness;2023-01-15;2023-01-16;2023-01-16
+John Hale;1317;Banking;3;Critical;Done;Organizational Culture;2024-08-04;2024-08-06;2024-08-06
+Keith Carter;1519;Engineering;3;High;Waiting for customer;Employee Feedback;2024-07-31;;
+Paula Simmons;1417;People;2;Medium;To Do;Employee Feedback;2023-12-04;;
+Cathy Stokes;1516;People;6;Medium;Done;Employee Retention;2024-04-08;2024-04-09;2024-04-12
+Michael Nash;1522;Engineering;5;Critical;Done;Compensation & Benefits;2023-01-09;2023-01-10;2023-01-13
+Julie Johnson;1459;Operations;10;Critical;Pending;Career Development;2023-01-26;;
+Michelle Walker;1300;Product;4;Medium;In progress;Health & Wellness;2023-08-06;2023-08-08;
+Cheryl Fuentes;1220;Marketing;3;High;Done;Onboarding;2024-12-06;2024-12-08;2024-12-10
+Jennifer Pacheco;1575;Banking;9;Low;To Do;Employee Offboarding;2023-03-03;;
+Tamara Martin;1741;Product;10;Low;Done;Employee Feedback;2024-11-17;2024-11-20;2024-11-24
+Larry Stewart;1749;Engineering;2;Medium;Done;Employee Retention;2024-01-17;2024-01-18;2024-01-19
+Joshua Foster;1768;Marketing;2;Critical;Done;Employee Relations;2023-10-05;2023-10-06;2023-10-06
+Juan Mclaughlin;1722;Marketing;9;Medium;Done;Workplace Safety;2024-11-01;2024-11-05;2024-11-05
+Pamela Smith;1120;Finance;6;Low;Done;Onboarding;2024-11-17;2024-11-25;2024-12-01
+Jose Phillips;1657;People;7;Medium;Done;Performance Management;2023-05-23;2023-05-25;2023-05-25
+Kendra Petersen;1475;Banking;3;Critical;Done;Compensation & Benefits;2023-10-19;2023-10-21;2023-10-26
+Bobby Massey;1732;Banking;9;Critical;Done;Compensation & Benefits;2024-09-19;2024-09-26;2024-09-27
+Jonathan Russo;1327;Finance;7;Medium;Done;Employee Relations;2023-03-09;2023-03-11;2023-03-13
+Tammy Maynard;1756;Engineering;6;High;Done;Employee Relations;2023-03-20;2023-03-30;2023-04-03
+Travis Savage;1017;Customer Support;10;Low;To Do;Workplace Safety;2023-11-08;;
+Carl Brown;1132;Finance;9;Medium;To Do;Learning & Development;2024-08-01;;
+Julie Lloyd;1164;Engineering;6;High;Done;Employee Offboarding;2023-01-20;2023-01-22;2023-01-24
+Sean Torres;1681;Marketing;7;Medium;In progress;Performance Management;2024-12-19;2024-12-25;
+Justin Steele;1092;Finance;8;Low;Done;Employee Retention;2023-06-30;2023-07-02;2023-07-07
+Lauren Long;1410;Engineering;2;Critical;Done;Performance Management;2024-01-25;2024-01-29;2024-01-29
+Betty Mooney;1529;Finance;5;Critical;Done;Employee Relations;2023-09-12;2023-09-14;2023-09-19
+Brenda Pham;1713;Product;3;Low;Done;Performance Management;2024-06-10;2024-06-11;2024-06-14
+James Rodriguez;1371;Banking;10;Medium;Pending;Employee Engagement;2024-12-28;;
+Jonathan Hernandez;1458;Banking;3;Medium;Done;Onboarding;2023-11-16;2023-11-17;2023-11-17
+Lance Johnson;1401;Finance;9;Critical;Done;Employee Engagement;2024-01-25;2024-02-04;2024-02-04
+Danny Wright;1105;Banking;7;High;Done;Compensation & Benefits;2023-10-15;2023-10-17;2023-10-17
+Brendan Henderson;1027;Banking;2;High;Done;Performance Management;2023-03-28;2023-03-31;2023-03-31
+Julie Johnson;1459;Operations;10;Low;Done;Health & Wellness;2024-01-28;2024-01-29;2024-01-29
+Courtney Poole;1354;People;8;High;Done;Compensation & Benefits;2023-04-18;2023-04-19;2023-04-19
+Karen Donaldson;1510;Marketing;3;High;Done;Recruitment & Mobility;2023-06-01;2023-06-02;2023-06-05
+Travis Savage;1017;Customer Support;10;Low;To Do;Compensation & Benefits;2023-02-06;;
+James Ryan;1095;Legal;4;Low;In progress;Employee Relations;2023-07-30;2023-08-04;
+Jennifer Pacheco;1575;Banking;9;Medium;Waiting for customer;Workplace Safety;2024-04-21;;
+Steven Fitzgerald;1031;Legal;6;Low;Done;Career Development;2023-11-30;2023-12-04;2023-12-04
+Kyle Henry;1408;Customer Support;4;Low;Done;Employee Relations;2024-11-08;2024-11-09;2024-11-11
+Ryan Stevenson;1195;Engineering;5;Medium;Done;Workplace Safety;2024-08-06;2024-08-09;2024-08-20
+Maureen Cook;1210;Legal;1;High;Pending;Workplace Safety;2024-04-15;;
+Brandon Jimenez;1114;Marketing;6;Critical;Waiting for customer;Compensation & Benefits;2024-04-23;;
+Scott Smith;1755;Customer Support;7;High;Done;Organizational Culture;2024-05-26;2024-06-03;2024-06-09
+Chelsey Castillo;1047;Product;5;High;To Do;Employee Engagement;2023-04-09;;
+Troy Johnson;1656;People;9;Critical;Done;Employee Offboarding;2024-02-15;2024-02-17;2024-02-19
+Sean Peters;1032;Banking;7;Low;Done;Recruitment & Mobility;2023-05-12;2023-05-22;2023-05-22
+Michelle Peters;1585;Banking;8;Medium;Done;Health & Wellness;2023-01-01;2023-01-03;2023-01-10
+Daniel Price;1523;Customer Support;10;Low;Done;Employee Offboarding;2023-07-16;2023-07-17;2023-07-24
+Ashley Forbes;1725;Customer Support;4;High;Done;Employee Relations;2023-11-10;2023-11-15;2023-11-19
+Haley Wiggins;1142;Engineering;1;Low;Done;Performance Management;2023-08-10;2023-08-12;2023-08-17
+James Ruiz;1251;People;3;Medium;Done;Employee Offboarding;2023-06-02;2023-06-04;2023-06-04
+Douglas Johnson;1304;Legal;7;Low;Done;Employee Offboarding;2023-05-16;2023-05-19;2023-05-19
+Nichole Jenkins;1542;Banking;4;Low;Done;Compensation & Benefits;2023-04-25;2023-04-26;2023-05-03
+Julie Wilkinson;1633;Operations;7;Medium;To Do;Onboarding;2023-09-02;;
+Peggy Miller;1073;Operations;2;High;In progress;Organizational Culture;2024-04-03;2024-04-08;
+Keith Collins;1297;Operations;1;Critical;Done;Recruitment & Mobility;2023-03-23;2023-03-24;2023-03-24
+Carl Schneider;1333;Finance;6;Low;Done;Employee Feedback;2023-07-01;2023-07-02;2023-07-03
+Michael Villa;1613;Marketing;6;Medium;Done;Compensation & Benefits;2024-05-21;2024-05-22;2024-05-23
+John Cross;1133;Marketing;3;Low;Done;Recruitment & Mobility;2024-12-01;2024-12-08;2024-12-09
+Sarah Bates;1219;Engineering;8;Medium;To Do;Career Development;2024-11-01;;
+Steven Fitzgerald;1031;Legal;6;Medium;Done;Health & Wellness;2024-09-12;2024-09-14;2024-09-19
+Debra Molina;1084;People;4;Medium;To Do;Employee Feedback;2023-01-05;;
+Patricia Taylor;1385;Finance;9;Critical;Done;Onboarding;2024-05-23;2024-05-25;2024-05-27
+Emily Wilson;1738;Banking;8;Medium;To Do;Employee Engagement;2023-11-24;;
+Natalie Williams;1177;Banking;3;Critical;To Do;Learning & Development;2024-09-14;;
+Cameron Jones;1711;People;7;High;Done;Diversity & Inclusion;2024-09-29;2024-10-05;2024-10-13
+Mia Gilmore;1026;Banking;9;Critical;Done;Employee Feedback;2023-08-05;2023-08-10;2023-08-12
+Tami Bates;1039;Customer Support;5;Low;Done;Employee Retention;2023-11-07;2023-11-09;2023-11-10
+Jamie Nunez;1448;Product;4;High;Done;Diversity & Inclusion;2023-08-30;2023-08-31;2023-08-31
+Heather Peterson;1590;Operations;8;Critical;Done;Recruitment & Mobility;2024-12-11;2024-12-16;2024-12-20
+Stephanie Mercado;1224;People;1;High;Done;Health & Wellness;2023-12-01;2023-12-02;2023-12-09
+David Holder;1667;Customer Support;7;Medium;Done;Employee Relations;2024-10-02;2024-10-03;2024-10-04
+Brendan Henderson;1027;Banking;2;Critical;In progress;Learning & Development;2024-01-06;2024-01-12;
+Gail Lewis;1419;Operations;2;Medium;Done;Employee Feedback;2024-02-19;2024-02-21;2024-02-22
+Samuel Lamb;1716;Product;5;Medium;Done;Organizational Culture;2024-06-25;2024-07-02;2024-07-03
+Jose Moreno;1422;People;9;Critical;Done;Performance Management;2023-10-15;2023-10-16;2023-10-17
+Frank Peterson;1560;People;3;High;Done;Onboarding;2024-11-05;2024-11-06;2024-11-06
+Grace Clark;1093;People;8;Low;Done;Employee Engagement;2024-12-16;2024-12-18;2024-12-18
+Tammy Maynard;1756;Engineering;6;Medium;Done;Employee Feedback;2024-08-06;2024-08-14;2024-08-20
+Andrew Parker;1286;Banking;7;Critical;Done;Employee Retention;2023-04-22;2023-04-24;2023-04-26
+Stephanie Romero;1460;Banking;6;Critical;Done;Career Development;2024-06-23;2024-06-29;2024-06-30
+Christina Roach;1082;Banking;4;High;Done;Onboarding;2023-02-21;2023-02-22;2023-02-22
+Dylan Velazquez;1159;Legal;6;High;Done;Learning & Development;2024-01-05;2024-01-06;2024-01-06
+Michelle Dixon;1322;Legal;3;Critical;In progress;Learning & Development;2023-06-02;2023-06-03;
+Nicole Schaefer;1204;Operations;8;Medium;Done;Organizational Culture;2023-10-26;2023-10-27;2023-10-27
+Douglas Gomez;1387;Finance;3;Critical;Done;Onboarding;2023-07-03;2023-07-07;2023-07-17
+Randall Pierce;1527;People;7;Low;Done;Employee Engagement;2024-05-11;2024-05-18;2024-05-20
+Michelle Walker;1300;Product;4;Low;Done;Recruitment & Mobility;2023-04-05;2023-04-06;2023-04-13
+Robert Lee;1239;Marketing;5;Medium;Done;Employee Offboarding;2024-06-26;2024-07-03;2024-07-04
+Kimberly West;1742;Customer Support;4;Medium;Done;Performance Management;2023-10-01;2023-10-03;2023-10-15
+Christopher Hill;1727;Finance;2;Critical;Done;Employee Retention;2024-05-16;2024-05-18;2024-05-18
+Michelle Dixon;1322;Legal;3;Medium;Done;Organizational Culture;2023-02-20;2023-03-01;2023-03-02
+Jeffery Barton;1129;Banking;6;High;Waiting for customer;Diversity & Inclusion;2023-05-14;;
+Arthur Beck;1011;Finance;3;Medium;Waiting for customer;Career Development;2023-04-02;;
+Kristen Smith;1080;Product;4;Low;Pending;Career Development;2024-09-04;;
+Jason Christian;1223;Engineering;7;High;Done;Diversity & Inclusion;2024-06-12;2024-06-15;2024-06-22
+Charles Logan;1730;Legal;4;High;Done;Workplace Safety;2024-02-13;2024-02-14;2024-02-14
+Norman Hinton;1034;Marketing;7;Critical;Done;Performance Management;2024-05-22;2024-05-23;2024-06-05
+William Orr;1632;Marketing;3;High;Done;Health & Wellness;2023-12-06;2023-12-08;2023-12-10
+Brian Snyder;1134;Operations;3;Critical;Waiting for customer;Employee Relations;2024-01-08;;
+Sandra Rangel;1162;Banking;4;Medium;Done;Employee Offboarding;2024-02-03;2024-02-04;2024-02-04
+Lisa Rivera;1437;Engineering;2;Low;Done;Employee Relations;2024-09-26;2024-10-03;2024-10-04
+Brandy Romero;1617;Customer Support;7;High;Done;Career Development;2023-11-08;2023-11-10;2023-11-10
+Stephanie Mercado;1224;People;1;Low;Done;Compensation & Benefits;2023-07-17;2023-07-24;2023-07-25
+Eduardo Spencer;1400;Legal;3;Low;Done;Learning & Development;2024-07-08;2024-07-10;2024-07-12
+Christine Martin;1799;People;8;High;Done;Employee Offboarding;2024-02-11;2024-02-13;2024-02-15
+Jeffrey Brown;1718;People;8;Critical;Waiting for customer;Organizational Culture;2023-04-24;;
+Curtis Patel;1088;Product;4;Critical;Done;Onboarding;2024-09-19;2024-09-22;2024-09-22
+Jared Harrington;1208;Engineering;3;Low;Pending;Employee Offboarding;2023-08-28;;
+Tammy Maynard;1756;Engineering;6;High;Done;Career Development;2024-03-14;2024-03-19;2024-03-28
+Stacey Donaldson;1780;Operations;7;High;Done;Onboarding;2024-01-27;2024-01-28;2024-01-28
+Shannon Hill;1316;Product;3;High;Done;Onboarding;2024-03-28;2024-04-01;2024-04-01
+Jacob Carey;1330;Legal;5;Low;Done;Compensation & Benefits;2023-09-20;2023-10-01;2023-10-04
+Brian White;1181;Marketing;3;Medium;Done;Onboarding;2023-03-11;2023-03-14;2023-03-15
+Sarah Leon;1578;Marketing;6;High;In progress;Employee Feedback;2024-08-12;2024-08-17;
+Michael Rodriguez;1072;Finance;2;Low;Waiting for customer;Employee Offboarding;2024-10-24;;
+Stacy Knox;1574;Marketing;2;Medium;Done;Health & Wellness;2024-03-28;2024-03-30;2024-04-01
+Brad Hudson;1074;Customer Support;2;Critical;Done;Career Development;2023-10-19;2023-10-20;2023-10-21
+Jennifer Pacheco;1575;Banking;9;High;Done;Employee Feedback;2023-11-24;2023-11-27;2023-11-27
+Ryan Casey;1623;Legal;8;Medium;Done;Employee Relations;2024-05-29;2024-06-01;2024-06-01
+Amanda Harvey;1555;Legal;1;Medium;Done;Workplace Safety;2024-04-20;2024-04-24;2024-04-24
+Amy Dixon;1665;People;6;Medium;Done;Onboarding;2024-03-29;2024-04-04;2024-04-06
+Justin Fuller;1295;Legal;2;Low;Done;Employee Engagement;2024-12-29;2024-12-30;2024-12-31
+Keith Aguirre;1144;People;3;High;Done;Career Development;2023-08-20;2023-08-23;2023-08-23
+Lance Johnson;1401;Finance;9;Critical;Done;Employee Engagement;2023-01-17;2023-01-21;2023-01-25
+Sandra Stewart;1569;Customer Support;8;High;Done;Diversity & Inclusion;2024-01-11;2024-01-15;2024-01-15
+Aaron Ellis;1443;Banking;4;High;Done;Employee Relations;2024-12-19;2024-12-20;2024-12-23
+Edward Obrien;1568;Customer Support;8;Medium;Done;Employee Feedback;2023-07-25;2023-07-28;2023-07-29
+Justin Johnson;1719;Customer Support;9;High;Done;Employee Relations;2023-02-17;2023-02-24;2023-02-27
+Julia Gonzales;1594;Legal;10;Critical;Done;Employee Feedback;2024-02-27;2024-03-01;2024-03-01
+Jeffrey Clark;1259;Legal;6;Medium;Done;Employee Retention;2024-05-19;2024-05-23;2024-06-02
+Ashley Mooney;1153;Operations;2;Medium;Done;Learning & Development;2024-07-28;2024-08-01;2024-08-01
+Aaron Ellis;1443;Banking;4;Critical;Done;Employee Engagement;2023-07-01;2023-07-02;2023-07-02
+Danny Larsen;1737;Customer Support;2;Medium;Done;Career Development;2023-10-26;2023-10-27;2023-10-27
+Russell Mahoney;1584;People;3;Medium;Done;Employee Offboarding;2024-01-15;2024-01-17;2024-01-23
+Peggy Hansen;1014;Customer Support;5;High;Done;Employee Retention;2024-09-04;2024-09-12;2024-09-12
+Michael Guerrero;1609;People;8;Medium;Done;Employee Offboarding;2023-03-18;2023-03-22;2023-03-22
+Michael Guerrero;1609;People;8;Low;Done;Compensation & Benefits;2023-01-15;2023-01-17;2023-01-19
+Courtney Poole;1354;People;8;Low;In progress;Career Development;2023-04-19;2023-04-23;
+Michael Smith;1631;People;8;Medium;Done;Onboarding;2023-06-09;2023-06-16;2023-06-17
+Valerie Pearson;1024;Marketing;7;Critical;Done;Employee Relations;2023-11-19;2023-11-21;2023-11-29
+John Proctor;1509;Engineering;9;Low;Waiting for customer;Compensation & Benefits;2023-12-04;;
+Michael Adams;1503;Legal;6;Medium;Done;Employee Engagement;2023-03-27;2023-03-30;2023-03-31
+Mark Garcia;1770;Engineering;9;High;Done;Learning & Development;2023-08-08;2023-08-12;2023-08-12
+Erin White;1793;Marketing;8;High;To Do;Employee Engagement;2023-03-05;;
+Gavin Ayers;1436;Finance;4;Critical;In progress;Organizational Culture;2023-06-08;2023-06-13;
+Albert Adams;1283;Banking;9;Medium;Done;Workplace Safety;2024-01-18;2024-01-19;2024-01-19
+Sarah Alvarez;1766;Legal;9;Critical;Done;Employee Engagement;2024-12-15;2024-12-16;2024-12-16
+Tiffany Schroeder;1760;Operations;7;High;Done;Health & Wellness;2023-06-24;2023-06-27;2023-07-01
+Cheryl Thompson;1065;Operations;8;Low;Done;Employee Feedback;2024-02-21;2024-02-24;2024-02-24
+Cheryl Thompson;1065;Operations;8;Medium;Waiting for customer;Diversity & Inclusion;2023-08-25;;
+Danny Larsen;1737;Customer Support;2;Low;Done;Employee Engagement;2024-06-26;2024-06-27;2024-06-27
+Courtney Poole;1354;People;8;Critical;Done;Employee Relations;2023-03-09;2023-03-15;2023-03-17
+Timothy Owens;1051;Banking;6;Medium;Done;Recruitment & Mobility;2023-04-06;2023-04-07;2023-04-10
+Anne Brown;1136;People;7;High;Done;Health & Wellness;2024-12-01;2024-12-02;2024-12-03
+Keith Carter;1519;Engineering;3;High;Done;Career Development;2023-07-21;2023-07-22;2023-07-22
+Ryan Perez;1100;Marketing;5;Low;Done;Organizational Culture;2024-02-07;2024-02-08;2024-02-11
+Christopher Hill;1727;Finance;2;Medium;Done;Employee Engagement;2023-11-17;2023-11-20;2023-11-21
+Mary Reyes;1081;Banking;10;Low;Done;Employee Feedback;2024-04-22;2024-04-29;2024-05-01
+Elizabeth Hill;1432;Product;8;Medium;Done;Workplace Safety;2023-09-23;2023-09-24;2023-09-24
+Natalie Chavez;1671;People;3;High;Waiting for customer;Recruitment & Mobility;2024-04-10;;
+Julie Wilkinson;1633;Operations;7;High;Done;Employee Offboarding;2023-11-16;2023-11-20;2023-11-20
+Priscilla Bowen;1262;Finance;4;Low;Done;Employee Retention;2023-12-08;2023-12-12;2023-12-12
+Heather Ryan;1424;Operations;2;High;Done;Diversity & Inclusion;2024-04-24;2024-04-26;2024-04-27
+Carla Daniels;1604;Customer Support;4;Critical;Done;Compensation & Benefits;2024-03-01;2024-03-03;2024-03-04
+Leslie Hurley;1149;People;4;Low;Done;Compensation & Benefits;2023-06-02;2023-06-07;2023-06-16
+Brenda Montoya;1413;People;4;High;Done;Organizational Culture;2024-02-02;2024-02-05;2024-02-05
+Renee Watts;1122;Operations;5;Medium;To Do;Employee Feedback;2023-10-22;;
+Gloria Hicks;1428;Finance;1;Low;Done;Employee Relations;2023-03-13;2023-03-15;2023-03-16
+Dale Moyer;1029;Customer Support;5;Low;Done;Health & Wellness;2023-05-14;2023-05-16;2023-05-18
+Jade Lee;1249;Operations;8;High;Done;Employee Retention;2024-12-01;2024-12-03;2024-12-04
+Luke Braun;1139;People;3;Critical;Done;Career Development;2024-04-20;2024-04-21;2024-04-27
+Chase Johns;1355;Finance;1;Medium;Done;Employee Retention;2024-02-14;2024-02-18;2024-02-28
+Kari Mullins;1622;Customer Support;5;Critical;Waiting for customer;Career Development;2024-04-06;;
+Brenda Pham;1713;Product;3;Critical;Done;Workplace Safety;2024-12-29;2024-12-30;2025-01-01
+Brian White;1181;Marketing;3;Critical;Done;Employee Relations;2024-07-27;2024-07-28;2024-07-28
+Sherry Thompson;1196;Banking;7;Low;Done;Performance Management;2023-01-09;2023-01-15;2023-01-17
+Crystal Cooper;1064;Product;3;Medium;Done;Performance Management;2023-05-02;2023-05-04;2023-05-11
+Michelle Cunningham;1659;Marketing;9;Critical;Done;Onboarding;2024-12-14;2024-12-19;2024-12-28
+Darrell Reeves;1372;Legal;9;Medium;Waiting for customer;Employee Relations;2023-02-19;;
+Christina Brown;1630;People;3;Critical;In progress;Employee Engagement;2024-08-30;2024-08-31;
+Deborah Bailey;1532;People;6;Critical;Done;Employee Engagement;2024-10-23;2024-10-27;2024-10-27
+Charles Lowe;1278;Customer Support;8;High;Done;Employee Relations;2024-08-11;2024-08-13;2024-08-13
+Rebecca Bell;1787;People;10;Critical;Done;Performance Management;2024-03-18;2024-03-19;2024-03-22
+Katrina Lambert;1336;Finance;3;Low;Done;Health & Wellness;2024-06-09;2024-06-14;2024-06-16
+Melinda Garner;1351;Finance;2;Critical;Done;Compensation & Benefits;2024-07-28;2024-07-30;2024-08-06
+Michelle Schwartz;1178;Marketing;8;Medium;Done;Learning & Development;2024-06-17;2024-06-25;2024-06-26
+Erica George;1426;Legal;4;Low;Done;Recruitment & Mobility;2023-01-06;2023-01-09;2023-01-14
+Sherry Maxwell;1759;Finance;4;Medium;Done;Onboarding;2024-05-08;2024-05-09;2024-05-17
+Edward Buck;1357;Banking;4;Medium;Waiting for customer;Diversity & Inclusion;2023-01-22;;
+Ashlee Proctor;1676;Finance;4;High;Done;Employee Offboarding;2023-03-02;2023-03-04;2023-03-04
+Emily Snyder;1434;Product;2;High;Waiting for customer;Employee Relations;2023-11-01;;
+Brenda Martinez;1057;Operations;5;Low;Pending;Organizational Culture;2023-03-29;;
+Jacqueline Roberts;1345;Banking;6;Medium;Done;Employee Engagement;2023-10-11;2023-10-12;2023-10-15
+Manuel Pope;1212;Engineering;8;Critical;Done;Recruitment & Mobility;2024-07-12;2024-07-13;2024-07-13
+William Sanders;1733;Engineering;7;Low;Done;Employee Offboarding;2024-12-09;2024-12-17;2024-12-19
+Melissa Miller;1680;Product;2;Critical;Done;Performance Management;2023-08-23;2023-08-27;2023-09-01
+William Greene;1455;Engineering;2;High;Done;Performance Management;2023-06-02;2023-06-05;2023-06-09
+John Proctor;1509;Engineering;9;Medium;Done;Employee Feedback;2024-10-02;2024-10-04;2024-10-04
+Tina Reed;1453;Customer Support;3;Low;Done;Learning & Development;2024-09-15;2024-09-19;2024-09-19
+Cheryl Tucker;1076;Banking;5;High;Done;Organizational Culture;2023-10-16;2023-10-26;2023-10-30
+Elizabeth Monroe;1431;Operations;6;Low;Done;Health & Wellness;2023-06-30;2023-07-06;2023-07-08
+Nichole Jenkins;1542;Banking;4;Critical;Done;Health & Wellness;2024-10-04;2024-10-05;2024-10-11
+Kenneth Simmons;1282;Finance;9;Medium;Done;Employee Relations;2023-02-13;2023-02-16;2023-02-27
+Melissa Smith;1688;Customer Support;8;Medium;Done;Health & Wellness;2024-01-12;2024-01-22;2024-01-22
+David Smith;1343;Engineering;9;Medium;Done;Onboarding;2024-03-14;2024-03-15;2024-03-16
+Lauren David;1649;Finance;2;Medium;In progress;Diversity & Inclusion;2023-12-07;2023-12-11;
+Jeffery Barton;1129;Banking;6;Critical;Done;Compensation & Benefits;2023-06-04;2023-06-11;2023-06-11
+Emily Snyder;1434;Product;2;Low;Done;Compensation & Benefits;2024-03-26;2024-03-29;2024-03-30
+Douglas Gomez;1387;Finance;3;Low;Done;Learning & Development;2024-10-22;2024-10-26;2024-10-26
+Amanda Caldwell;1230;People;1;Medium;Done;Career Development;2023-07-03;2023-07-08;2023-07-12
+Julie Jimenez;1752;Finance;5;Critical;Done;Diversity & Inclusion;2023-09-10;2023-09-23;2023-09-24
+Christopher Gomez;1595;Customer Support;7;Critical;Done;Employee Retention;2024-07-30;2024-08-01;2024-08-03
+Daniel Campbell;1695;Customer Support;10;Medium;Done;Onboarding;2024-07-19;2024-07-20;2024-07-21
+Jeffrey Brown;1718;People;8;Critical;Done;Recruitment & Mobility;2023-01-12;2023-01-20;2023-01-20
+Ashley Mooney;1153;Operations;2;Critical;Done;Organizational Culture;2024-04-08;2024-04-11;2024-04-12
+Wendy Johnson;1423;People;7;Medium;Waiting for customer;Employee Relations;2023-11-04;;
+Kyle Henry;1408;Customer Support;4;Low;Done;Employee Offboarding;2024-08-22;2024-08-24;2024-08-24
+James Rodriguez;1371;Banking;10;High;Done;Career Development;2024-10-17;2024-10-18;2024-10-20
+Fernando Carroll;1607;Legal;3;High;Waiting for customer;Employee Feedback;2024-08-19;;
+James Smith;1456;Marketing;5;Medium;Done;Onboarding;2023-08-22;2023-08-24;2023-08-24
+Michael Little;1091;Banking;1;Medium;Done;Organizational Culture;2024-11-05;2024-11-06;2024-11-09
+Carl Schneider;1333;Finance;6;Low;Done;Employee Relations;2023-12-05;2023-12-06;2023-12-08
+Scott Gonzalez;1643;Legal;3;Low;Done;Onboarding;2024-04-28;2024-04-30;2024-05-01
+John Hudson;1678;People;2;Medium;Done;Compensation & Benefits;2023-05-29;2023-05-30;2023-05-31
+Anne Barnes;1608;Customer Support;10;Critical;Done;Health & Wellness;2023-10-13;2023-10-14;2023-10-21
+Denise Sutton;1004;Finance;5;High;Done;Organizational Culture;2024-12-08;2024-12-09;2024-12-12
+Sara Marsh;1571;Legal;2;Critical;Pending;Diversity & Inclusion;2023-10-12;;
+Daniel Gray;1053;Legal;5;Medium;Done;Employee Engagement;2023-10-23;2023-10-24;2023-10-24
+Sarah Melton;1376;Product;10;High;Done;Employee Retention;2023-07-30;2023-08-06;2023-08-06
+John Hale;1317;Banking;3;High;Done;Health & Wellness;2024-03-14;2024-03-15;2024-03-18
+Marissa Moreno;1049;Banking;6;Critical;Done;Compensation & Benefits;2024-05-03;2024-05-05;2024-05-17
+Matthew Jacobs;1117;People;6;Critical;To Do;Compensation & Benefits;2023-12-15;;
+Lisa Harper;1493;Banking;7;High;Done;Health & Wellness;2024-01-29;2024-01-30;2024-01-31
+Marcus Barnes;1104;Marketing;6;Medium;Done;Employee Retention;2023-07-08;2023-07-09;2023-07-10
+Charles Lowe;1278;Customer Support;8;Critical;Done;Employee Engagement;2024-08-28;2024-09-01;2024-09-01
+Scott Wallace;1451;Operations;8;Medium;Done;Performance Management;2024-03-31;2024-04-01;2024-04-01
+Michael Powers;1253;Customer Support;9;Critical;Done;Employee Feedback;2023-06-23;2023-06-25;2023-06-27
+Jacqueline Johnson;1517;Finance;2;Low;Done;Diversity & Inclusion;2023-07-25;2023-08-06;2023-08-08
+Jacob Butler;1492;Finance;3;Critical;Done;Employee Retention;2023-04-01;2023-04-05;2023-04-05
+Isaiah Gibson;1537;Operations;6;Low;To Do;Workplace Safety;2024-11-01;;
+Destiny Espinoza;1446;Operations;4;Critical;Done;Diversity & Inclusion;2024-07-21;2024-07-22;2024-07-25
+Sandra Stewart;1569;Customer Support;8;Low;In progress;Performance Management;2024-01-04;2024-01-09;
+Michael Martinez;1684;People;7;Critical;Done;Onboarding;2023-05-25;2023-05-27;2023-06-02
+Ann Dunlap;1365;Marketing;6;Medium;To Do;Employee Offboarding;2024-10-09;;
+Stephen Mcdonald;1156;Finance;3;Medium;Done;Health & Wellness;2024-10-04;2024-10-14;2024-10-18
+Patricia Bender;1704;Engineering;5;Critical;Done;Learning & Development;2023-07-17;2023-07-26;2023-07-27
+Evan Martinez;1465;Finance;7;Low;Done;Performance Management;2024-01-07;2024-01-08;2024-01-08
+John Miller;1221;Product;4;Low;Pending;Onboarding;2023-10-21;;
+Tonya Chase;1349;Product;6;High;Done;Diversity & Inclusion;2024-08-30;2024-09-02;2024-09-13
+Kevin Strong;1425;Product;7;High;To Do;Career Development;2024-08-19;;
+Amanda Gutierrez;1470;People;5;High;Done;Performance Management;2023-06-02;2023-06-11;2023-06-16
+Omar Padilla;1148;Engineering;6;High;Done;Learning & Development;2024-07-24;2024-07-26;2024-07-28
+Emily Jones;1048;Operations;4;Medium;Done;Organizational Culture;2024-07-08;2024-07-09;2024-07-16
+Michele Mills;1390;Banking;10;Critical;Done;Employee Engagement;2023-12-26;2023-12-27;2023-12-27
+Elizabeth Monroe;1431;Operations;6;High;Done;Performance Management;2024-11-11;2024-11-12;2024-11-20
+Laura Mejia;1168;Finance;9;Medium;Done;Performance Management;2024-09-06;2024-09-09;2024-09-09
+Steven Fitzgerald;1031;Legal;6;Medium;Done;Health & Wellness;2024-10-03;2024-10-05;2024-10-05
+Aaron Stewart;1021;Finance;4;Low;Pending;Performance Management;2024-06-03;;
+Jay Gray;1720;Marketing;6;High;Done;Employee Engagement;2023-09-09;2023-09-12;2023-09-12
+Jason Gutierrez;1485;Marketing;1;High;Done;Organizational Culture;2023-02-14;2023-02-17;2023-02-22
+Nathaniel Mcintyre;1592;Product;8;Critical;Done;Recruitment & Mobility;2023-03-07;2023-03-08;2023-03-08
+Hannah Bender;1280;Product;2;Medium;Done;Compensation & Benefits;2024-12-30;2025-01-02;2025-01-07
+James Lopez;1046;Product;10;Critical;Done;Employee Relations;2023-02-18;2023-02-22;2023-03-04
+Anthony Taylor;1160;Finance;10;Low;Done;Onboarding;2023-03-11;2023-03-13;2023-03-13
+Michelle Petty;1753;Operations;2;Critical;In progress;Workplace Safety;2023-07-09;2023-07-12;
+Maureen Stewart;1764;Finance;3;Critical;Done;Recruitment & Mobility;2023-07-10;2023-07-17;2023-07-20
+Hannah Bender;1280;Product;2;Low;Done;Learning & Development;2023-11-18;2023-11-24;2023-11-26
+Scott Green;1190;Legal;8;Low;Done;Employee Engagement;2023-05-24;2023-05-25;2023-06-01
+Robert Foster;1598;Operations;4;Low;Done;Performance Management;2024-06-04;2024-06-06;2024-06-18
+Dylan Velazquez;1159;Legal;6;Critical;Done;Health & Wellness;2024-01-24;2024-01-26;2024-01-27
+Beth Edwards;1254;Customer Support;2;High;Done;Health & Wellness;2024-04-11;2024-04-13;2024-04-13
+Anthony Davis;1352;Banking;6;High;Done;Compensation & Benefits;2024-12-23;2024-12-26;2025-01-06
+Kelly Melendez;1369;Operations;1;Medium;Done;Diversity & Inclusion;2024-08-20;2024-09-02;2024-09-03
+Gerald Jones;1418;Operations;6;Medium;Waiting for customer;Career Development;2024-10-12;;
+Julie Sutton;1483;Banking;10;High;To Do;Workplace Safety;2023-09-23;;
+Mathew Bush;1586;Engineering;7;Critical;Done;Employee Retention;2024-08-23;2024-08-25;2024-08-25
+Gerald Webb;1638;Engineering;9;Medium;Pending;Employee Engagement;2023-03-12;;
+Lauren Long;1410;Engineering;2;High;Done;Employee Relations;2024-01-06;2024-01-12;2024-01-15
+Steven Escobar;1179;People;6;Critical;Done;Performance Management;2023-03-17;2023-03-19;2023-03-20
+Laura Anderson;1043;Legal;2;Low;Pending;Employee Feedback;2023-04-09;;
+Colton Cowan;1211;Operations;2;Low;Done;Recruitment & Mobility;2024-05-23;2024-05-29;2024-06-02
+Marie Ramsey;1070;Legal;1;Medium;Done;Employee Offboarding;2024-05-29;2024-05-31;2024-05-31
+Debra Brown;1774;Legal;4;Medium;Done;Compensation & Benefits;2023-09-01;2023-09-03;2023-09-05
+Ronald Carlson;1689;Engineering;9;Critical;Done;Employee Retention;2023-12-26;2023-12-31;2024-01-05
+William Martinez;1391;People;3;Low;Done;Onboarding;2023-08-17;2023-08-19;2023-08-19
+Jose Phillips;1657;People;7;Medium;Done;Employee Relations;2024-03-04;2024-03-05;2024-03-18
+Cheryl Martinez;1765;Engineering;7;Critical;Done;Performance Management;2023-07-30;2023-08-01;2023-08-01
+Sarah Mendez;1628;Finance;6;Medium;Waiting for customer;Employee Offboarding;2023-05-26;;
+Maureen Cook;1210;Legal;1;Low;Done;Learning & Development;2024-01-23;2024-01-24;2024-01-24
+Michael Little;1091;Banking;1;Low;Done;Recruitment & Mobility;2023-02-26;2023-03-05;2023-03-05
+Justin Steele;1092;Finance;8;Medium;Pending;Employee Relations;2024-09-26;;
+Dana Roy;1709;Marketing;10;Critical;Done;Onboarding;2023-09-23;2023-09-26;2023-09-26
+Jack Patel;1758;Marketing;2;High;Done;Employee Engagement;2023-09-17;2023-09-19;2023-09-21
+Yvonne Jones;1504;Product;3;Low;Done;Employee Relations;2023-03-26;2023-03-27;2023-03-28
+Michael Martinez;1684;People;7;Low;Done;Employee Offboarding;2024-07-27;2024-07-29;2024-07-31
+Tiffany Oliver;1331;Marketing;2;Medium;In progress;Organizational Culture;2023-03-07;2023-03-10;
+Nancy Odonnell;1118;Engineering;4;Medium;Done;Organizational Culture;2023-03-29;2023-04-04;2023-04-07
+Samantha Short;1506;Legal;2;Critical;Done;Organizational Culture;2024-09-04;2024-09-05;2024-09-07
+Gregory Lee;1298;Product;5;Medium;Done;Learning & Development;2024-08-03;2024-08-04;2024-08-04
+Miranda Cooper;1130;Marketing;2;Low;Done;Employee Feedback;2023-05-27;2023-06-05;2023-06-06
+Justin Johns;1216;Marketing;10;Medium;Done;Onboarding;2023-11-11;2023-11-13;2023-11-14
+Fernando Carroll;1607;Legal;3;Medium;Done;Career Development;2023-04-19;2023-04-22;2023-04-23
+Russell Mahoney;1584;People;3;Medium;Done;Workplace Safety;2024-11-24;2024-11-30;2024-12-02
+Peter Robinson;1721;Banking;6;Critical;Done;Compensation & Benefits;2024-10-26;2024-10-31;2024-11-03
+Bradley Hayes;1010;Legal;9;Medium;To Do;Performance Management;2023-11-03;;
+Jacob Carey;1330;Legal;5;Medium;Done;Recruitment & Mobility;2023-04-09;2023-04-10;2023-04-12
+Madison Farrell;1098;Product;8;Low;Done;Employee Engagement;2024-10-17;2024-10-18;2024-10-20
+Alisha Hammond;1690;Engineering;3;Critical;Done;Career Development;2023-11-30;2023-12-04;2023-12-07
+Alan Hendricks;1723;People;5;Medium;Done;Employee Engagement;2023-11-10;2023-11-11;2023-11-11
+Carol Jones;1389;Customer Support;8;Low;Done;Performance Management;2023-04-27;2023-04-29;2023-04-30
+Jennifer Sanchez;1745;Finance;9;Medium;Waiting for customer;Workplace Safety;2023-08-01;;
+Jennifer Martinez;1507;Product;10;Medium;Done;Employee Feedback;2023-01-28;2023-01-30;2023-02-01
+Kimberly West;1742;Customer Support;4;Critical;Done;Recruitment & Mobility;2023-04-27;2023-05-09;2023-05-11
+Elizabeth Hill;1432;Product;8;Low;Done;Employee Relations;2023-02-01;2023-02-02;2023-02-03
+Michele Mills;1390;Banking;10;Medium;Done;Workplace Safety;2023-05-23;2023-05-25;2023-05-25
+Crystal Medina;1272;Operations;7;Medium;Done;Career Development;2023-05-21;2023-05-24;2023-05-24
+Priscilla Bowen;1262;Finance;4;Critical;Done;Onboarding;2023-02-09;2023-02-11;2023-02-23
+Brian Barker;1111;Finance;1;Critical;Done;Health & Wellness;2024-02-03;2024-02-05;2024-02-05
+Michelle Cunningham;1659;Marketing;9;Medium;Done;Employee Relations;2023-07-20;2023-07-22;2023-07-22
+Ashlee Proctor;1676;Finance;4;Low;Done;Employee Relations;2024-09-04;2024-09-06;2024-09-06
+James Johns;1518;Legal;3;Low;Done;Employee Relations;2023-03-23;2023-03-25;2023-03-25
+Robin Payne;1505;Legal;3;Low;In progress;Health & Wellness;2024-07-06;2024-07-09;
+Ashley Forbes;1725;Customer Support;4;High;Done;Employee Retention;2024-12-18;2024-12-19;2024-12-19
+Christopher Sims;1066;Product;3;Critical;Done;Employee Feedback;2024-03-21;2024-03-22;2024-03-25
+James Hardy;1344;Product;2;Low;To Do;Performance Management;2023-05-19;;
+Melissa Cherry;1189;Operations;4;Medium;In progress;Employee Relations;2023-08-21;2023-08-23;
+Michael Rodriguez;1072;Finance;2;Medium;Done;Learning & Development;2023-09-09;2023-09-15;2023-09-18
+Adriana Fletcher;1281;Product;1;High;Done;Recruitment & Mobility;2024-01-09;2024-01-12;2024-01-12
+Heather Armstrong;1154;Engineering;4;Low;Done;Diversity & Inclusion;2023-09-09;2023-09-12;2023-09-12
+Michael Pineda;1668;Operations;6;Low;Done;Compensation & Benefits;2024-11-19;2024-11-22;2024-11-28
+Emily Snyder;1434;Product;2;Low;Done;Career Development;2024-05-26;2024-05-28;2024-05-29
+Michelle Schwartz;1178;Marketing;8;High;Done;Diversity & Inclusion;2024-03-17;2024-03-23;2024-03-31
+Courtney Poole;1354;People;8;Critical;Pending;Learning & Development;2023-06-27;;
+Mark Garcia;1770;Engineering;9;High;Done;Workplace Safety;2023-01-25;2023-01-26;2023-01-26
+David Hunter;1174;Marketing;4;Critical;Done;Employee Relations;2024-11-03;2024-11-11;2024-11-11
+Sherri Coffey;1788;Marketing;5;Low;Done;Recruitment & Mobility;2024-10-12;2024-10-13;2024-10-13
+Erin Armstrong;1089;Operations;7;Low;Pending;Workplace Safety;2023-11-30;;
+Ashley Forbes;1725;Customer Support;4;Low;Done;Organizational Culture;2023-06-26;2023-07-03;2023-07-04
+Matthew Pope;1606;Banking;3;High;Done;Workplace Safety;2023-08-23;2023-08-25;2023-08-25
+John Berger;1152;Legal;4;Critical;Done;Diversity & Inclusion;2024-12-02;2024-12-05;2024-12-05
+Lori Wilson;1102;Legal;7;Medium;Done;Onboarding;2024-04-22;2024-04-23;2024-04-23
+Danielle Bowers;1762;Marketing;4;Medium;Done;Employee Engagement;2024-02-21;2024-02-24;2024-02-25
+Paul Guzman;1660;Finance;9;Critical;Pending;Health & Wellness;2024-03-13;;
+John Hamilton;1242;People;7;Medium;Waiting for customer;Employee Feedback;2023-03-02;;
+Kristine Rivera;1060;Operations;4;High;Done;Workplace Safety;2024-07-08;2024-07-15;2024-07-15
+Tami Bates;1039;Customer Support;5;Low;Done;Workplace Safety;2023-01-22;2023-01-23;2023-01-23
+Robert Lopez;1624;Engineering;10;Critical;Waiting for customer;Learning & Development;2023-09-20;;
+Tammy Mitchell;1393;Marketing;10;Low;Done;Learning & Development;2023-12-04;2023-12-11;2023-12-12
+Sarah Melton;1376;Product;10;Medium;Done;Employee Engagement;2024-05-12;2024-05-18;2024-05-21
+David Hunter;1174;Marketing;4;Low;To Do;Health & Wellness;2024-10-29;;
+Christine Coleman;1634;Product;3;High;Pending;Employee Relations;2023-06-01;;
+Justin Steele;1092;Finance;8;Medium;Done;Diversity & Inclusion;2023-07-22;2023-07-25;2023-07-26
+Gerald Webb;1638;Engineering;9;Low;Done;Onboarding;2023-11-20;2023-11-22;2023-11-22
+Mark Murillo;1535;People;5;Critical;To Do;Recruitment & Mobility;2023-07-24;;
+Ryan Williams;1700;Operations;8;Medium;Done;Performance Management;2023-08-16;2023-08-17;2023-08-17
+Tiffany Garza;1379;Engineering;6;Low;Done;Employee Relations;2023-05-14;2023-05-18;2023-05-21
+Steven Ward;1514;Customer Support;8;Critical;Done;Diversity & Inclusion;2024-01-02;2024-01-10;2024-01-10
+Erika Smith;1244;Customer Support;7;Critical;Pending;Employee Retention;2023-04-03;;
+David Wilkins;1124;Operations;9;Critical;Done;Diversity & Inclusion;2023-10-06;2023-10-08;2023-10-08
+Megan Castillo;1362;Engineering;3;High;Done;Performance Management;2023-10-22;2023-10-25;2023-10-26
+Antonio Diaz;1409;People;8;Critical;To Do;Performance Management;2023-01-10;;
+Rebecca Bell;1787;People;10;Critical;Done;Recruitment & Mobility;2023-12-16;2023-12-19;2023-12-19
+Julie Johnson;1459;Operations;10;High;Done;Onboarding;2024-04-07;2024-04-09;2024-04-09
+Frank Rivera;1260;Operations;8;Medium;Pending;Onboarding;2023-04-18;;
+Justin Fuller;1295;Legal;2;High;Done;Workplace Safety;2024-02-11;2024-02-14;2024-02-14
+Jeffrey Williams;1490;People;5;Critical;In progress;Performance Management;2023-06-20;2023-06-26;
+Carla Thompson;1474;Engineering;9;High;Waiting for customer;Employee Engagement;2023-02-20;;
+Alice Pearson;1197;Customer Support;4;Medium;Done;Employee Retention;2023-04-15;2023-04-16;2023-04-18
+Gerald Webb;1638;Engineering;9;High;Done;Diversity & Inclusion;2023-10-27;2023-10-28;2023-10-28
+Brandy Parrish;1572;Legal;8;Critical;Done;Employee Offboarding;2023-01-22;2023-01-25;2023-01-25
+Karen Donaldson;1510;Marketing;3;Medium;Done;Compensation & Benefits;2023-02-18;2023-02-21;2023-02-28
+James Rodriguez;1371;Banking;10;Low;Done;Employee Retention;2023-05-14;2023-05-15;2023-05-28
+Jade Lee;1249;Operations;8;Medium;Done;Workplace Safety;2023-07-14;2023-07-17;2023-07-21
+Andrew Parker;1286;Banking;7;Medium;Done;Employee Offboarding;2024-05-05;2024-05-06;2024-05-08
+Lori Wilson;1102;Legal;7;Low;Done;Employee Retention;2023-05-08;2023-05-10;2023-05-11
+Keith Collins;1297;Operations;1;Critical;Done;Onboarding;2023-05-28;2023-06-01;2023-06-04
+Chris Browning;1703;People;8;Critical;In progress;Employee Retention;2024-02-26;2024-03-02;
+Jeffrey Thomas;1449;Banking;5;Low;Done;Employee Feedback;2024-05-20;2024-05-25;2024-05-29
+Michael Mcfarland;1206;Product;5;Medium;Done;Employee Retention;2024-04-10;2024-04-11;2024-04-11
+Justin Johnson;1719;Customer Support;9;Critical;Done;Employee Engagement;2024-12-09;2024-12-13;2024-12-13
+Donna Green;1360;Customer Support;2;Critical;Done;Organizational Culture;2024-12-30;2025-01-02;2025-01-07
+Amanda Duncan;1257;Engineering;5;Critical;Done;Career Development;2023-03-13;2023-03-14;2023-03-16
+Michelle Cunningham;1659;Marketing;9;Critical;Done;Workplace Safety;2023-09-07;2023-09-16;2023-09-17
+Jose York;1096;Banking;6;Medium;Done;Employee Offboarding;2023-02-19;2023-02-21;2023-02-21
+Reginald Brown;1207;Operations;8;Medium;Done;Employee Retention;2023-01-31;2023-02-03;2023-02-03
+Juan Johnson;1534;Banking;4;Critical;Done;Compensation & Benefits;2024-07-15;2024-07-16;2024-07-23
+Joel Phillips;1546;People;5;Low;Done;Organizational Culture;2024-10-13;2024-10-16;2024-10-17
+Jasmine Smith;1235;Engineering;6;Medium;Done;Career Development;2023-03-10;2023-03-12;2023-03-13
+Matthew Tucker;1396;Finance;7;Critical;In progress;Compensation & Benefits;2024-01-27;2024-01-29;
+Alice Pearson;1197;Customer Support;4;Critical;Done;Health & Wellness;2023-12-29;2024-01-02;2024-01-12
+Patricia Bender;1704;Engineering;5;Critical;Done;Employee Relations;2023-07-02;2023-07-03;2023-07-05
+Pamela Smith;1120;Finance;6;Medium;Pending;Employee Relations;2024-05-10;;
+Bruce Sanchez;1005;Legal;3;Medium;Done;Career Development;2023-09-11;2023-09-15;2023-09-15
+Ashley Forbes;1725;Customer Support;4;Medium;Pending;Workplace Safety;2024-07-03;;
+Patricia Brown;1157;People;8;Low;To Do;Learning & Development;2023-06-25;;
+Anne Barnes;1608;Customer Support;10;Medium;Done;Onboarding;2024-06-01;2024-06-06;2024-06-15
+Crystal Lee;1591;Product;4;Low;Done;Learning & Development;2024-12-05;2024-12-06;2024-12-09
+Gene Thompson;1566;Finance;7;Medium;Done;Recruitment & Mobility;2023-07-20;2023-07-21;2023-07-21
+Stephanie Hayes;1642;Engineering;4;Medium;To Do;Organizational Culture;2024-09-19;;
+Mark Melendez;1255;Finance;6;Critical;Done;Compensation & Benefits;2024-02-17;2024-02-19;2024-02-19
+Rodney Lopez;1476;Banking;2;Critical;Done;Employee Offboarding;2024-08-23;2024-08-24;2024-08-25
+Gary Williams;1429;Product;3;Medium;Done;Employee Offboarding;2024-03-16;2024-03-18;2024-03-19
+James Bailey;1502;Engineering;6;Critical;Done;Employee Relations;2023-12-19;2023-12-21;2023-12-23
+Richard Waters;1016;Operations;3;Critical;In progress;Employee Offboarding;2024-07-25;2024-08-01;
+Teresa Dunn;1263;Operations;9;Critical;Done;Employee Offboarding;2024-03-01;2024-03-02;2024-03-02
+Elizabeth Zhang;1520;People;5;High;Done;Diversity & Inclusion;2024-05-21;2024-05-24;2024-05-25
+David Smith;1343;Engineering;9;Critical;Pending;Organizational Culture;2023-03-08;;
+Alyssa Patton;1717;People;8;Medium;Done;Recruitment & Mobility;2024-10-19;2024-10-27;2024-11-02
+Keith Aguirre;1144;People;3;Low;Done;Organizational Culture;2024-06-26;2024-07-01;2024-07-05
+Cameron Barton;1603;Customer Support;4;Low;Done;Health & Wellness;2023-07-30;2023-07-31;2023-07-31
+Paula Brown;1009;Legal;10;Low;Done;Diversity & Inclusion;2023-09-19;2023-09-21;2023-09-21
+Andrew Webb;1374;Operations;3;Low;Done;Career Development;2023-03-26;2023-03-27;2023-03-27
+Amanda Turner;1225;Marketing;3;Low;Done;Employee Retention;2023-07-09;2023-07-10;2023-07-12
+Emily Jones;1048;Operations;4;Critical;Done;Recruitment & Mobility;2023-05-03;2023-05-04;2023-05-10
+Douglas Gomez;1387;Finance;3;Low;Done;Compensation & Benefits;2023-01-19;2023-01-23;2023-01-29
+William Orr;1632;Marketing;3;High;Done;Career Development;2023-09-21;2023-10-03;2023-10-05
+Wendy Singh;1442;Product;4;Low;Done;Career Development;2023-12-28;2024-01-06;2024-01-06
+Michelle Harris;1686;Operations;6;High;Done;Health & Wellness;2023-11-21;2023-11-22;2023-11-24
+Stacy Knox;1574;Marketing;2;Critical;Done;Diversity & Inclusion;2023-07-08;2023-07-10;2023-07-11
+Nichole Jenkins;1542;Banking;4;Low;Done;Employee Feedback;2023-07-10;2023-07-11;2023-07-12
+Steven Fitzgerald;1031;Legal;6;Critical;Done;Employee Offboarding;2024-10-14;2024-10-28;2024-10-28
+Jessica Bailey;1798;Legal;8;Low;Done;Diversity & Inclusion;2023-10-22;2023-10-23;2023-11-01
+Miguel Leon;1478;Legal;1;High;Done;Employee Retention;2024-01-11;2024-01-14;2024-01-15
+James Finley;1370;Banking;5;High;Done;Learning & Development;2024-06-02;2024-06-03;2024-06-12
+Christina Young;1513;Engineering;2;Critical;Done;Employee Retention;2024-04-08;2024-04-12;2024-04-12
+Megan Obrien;1187;Operations;4;Medium;Done;Onboarding;2024-09-17;2024-09-19;2024-09-19
+Nathaniel Fuentes;1746;Finance;9;Low;Done;Recruitment & Mobility;2024-08-26;2024-08-28;2024-08-30
+Omar Padilla;1148;Engineering;6;Critical;Done;Compensation & Benefits;2024-01-03;2024-01-06;2024-01-07
+Kyle Rivera;1276;Product;5;High;Done;Health & Wellness;2023-05-21;2023-05-22;2023-05-25
+Corey Pearson;1463;Finance;7;Medium;Done;Performance Management;2023-08-20;2023-08-25;2023-08-28
+Julie Harris;1708;Finance;7;Critical;Done;Onboarding;2023-04-13;2023-04-15;2023-04-27
+Laura Pham;1715;Engineering;5;Medium;Done;Workplace Safety;2024-09-30;2024-10-01;2024-10-01
+Sherri Coffey;1788;Marketing;5;High;Done;Employee Relations;2024-09-06;2024-09-09;2024-09-10
+James Bailey;1502;Engineering;6;High;To Do;Workplace Safety;2023-05-28;;
+Justin Fuller;1295;Legal;2;High;To Do;Employee Feedback;2024-06-21;;
+Amy Dixon;1665;People;6;Critical;Done;Onboarding;2023-02-08;2023-02-16;2023-02-16
+Jared Payne;1533;Engineering;5;Critical;Done;Organizational Culture;2024-12-24;2024-12-27;2025-01-01
+Erika Doyle;1524;Legal;8;Critical;Done;Learning & Development;2023-11-28;2023-12-09;2023-12-12
+Lauren Mcneil;1454;Engineering;8;Low;Done;Organizational Culture;2023-07-30;2023-08-01;2023-08-03
+Tiffany Oliver;1331;Marketing;2;Critical;Done;Organizational Culture;2023-12-25;2023-12-26;2023-12-26
+Edward Buck;1357;Banking;4;Critical;Done;Performance Management;2024-07-23;2024-07-29;2024-08-02
+Denise White;1247;Marketing;5;Critical;Done;Recruitment & Mobility;2023-12-22;2023-12-30;2024-01-05
+Carla Daniels;1604;Customer Support;4;Critical;Done;Health & Wellness;2023-12-10;2023-12-12;2023-12-12
+Daniel Price;1523;Customer Support;10;Critical;Done;Learning & Development;2024-07-21;2024-07-24;2024-07-24
+James Eaton;1641;Product;7;Medium;Done;Career Development;2024-03-04;2024-03-05;2024-03-05
+Catherine Clark;1402;Legal;5;Medium;Pending;Career Development;2024-08-18;;
+Brenda Flowers;1201;People;8;High;To Do;Organizational Culture;2024-03-30;;
+Danny Larsen;1737;Customer Support;2;Critical;Waiting for customer;Employee Engagement;2024-12-05;;
+Lisa Rivera;1437;Engineering;2;Medium;Pending;Employee Retention;2024-11-03;;
+William Roberson;1467;Marketing;9;Medium;Done;Compensation & Benefits;2024-10-19;2024-10-22;2024-10-22
+Jeffery Gonzales;1743;Marketing;5;Critical;Done;Onboarding;2024-04-23;2024-04-24;2024-04-24
+Julie Lloyd;1164;Engineering;6;High;Done;Employee Offboarding;2024-06-06;2024-06-10;2024-06-10
+Jason Gutierrez;1485;Marketing;1;Medium;Done;Compensation & Benefits;2024-02-11;2024-02-17;2024-02-21
+Michelle Harris;1686;Operations;6;Medium;Done;Employee Feedback;2023-12-08;2023-12-12;2023-12-12
+Vanessa Cruz;1383;Finance;7;High;Done;Workplace Safety;2023-08-08;2023-08-11;2023-08-15
+Adam Garcia;1515;Marketing;7;Medium;Done;Diversity & Inclusion;2024-05-08;2024-05-09;2024-05-10
+Mark Murillo;1535;People;5;Medium;Done;Career Development;2023-11-09;2023-11-10;2023-11-12
+Faith Maxwell;1171;People;6;Medium;In progress;Diversity & Inclusion;2023-01-31;2023-02-03;
+Laura Chen;1313;Customer Support;1;Low;Done;Employee Relations;2024-12-11;2024-12-16;2024-12-25
+Fernando Carroll;1607;Legal;3;Medium;Done;Performance Management;2024-11-23;2024-11-24;2024-12-02
+Michael Bell;1512;Banking;3;Low;To Do;Onboarding;2023-12-30;;
+Mary Gross;1062;Operations;10;High;Done;Workplace Safety;2024-10-07;2024-10-08;2024-10-10
+Brittany Rollins;1692;Product;1;Medium;Done;Career Development;2024-05-15;2024-05-17;2024-05-17
+Nicholas Smith;1364;Engineering;5;Low;Pending;Learning & Development;2023-02-28;;
+Jeffrey Thomas;1449;Banking;5;Critical;Done;Employee Feedback;2024-04-17;2024-04-18;2024-04-18
+Nathaniel Mcintyre;1592;Product;8;Low;Done;Career Development;2023-01-28;2023-01-30;2023-02-11
+Tiffany Woods;1405;Banking;3;High;Done;Employee Relations;2024-09-14;2024-09-21;2024-09-24
+Johnny Davis;1621;Finance;9;High;Done;Employee Feedback;2024-02-25;2024-02-27;2024-02-29
+Stephen Chandler;1141;Banking;2;High;In progress;Employee Offboarding;2023-10-05;2023-10-12;
+Debbie Haynes;1491;Legal;8;Medium;Done;Employee Relations;2024-08-06;2024-08-07;2024-08-10
+Lisa Smith;1498;Customer Support;6;High;Done;Employee Relations;2023-01-27;2023-01-28;2023-02-03
+Mark Madden;1658;Legal;5;High;Done;Career Development;2024-09-02;2024-09-03;2024-09-04
+Carlos Watson;1406;Legal;3;Critical;Done;Employee Retention;2023-10-12;2023-10-13;2023-10-13
+Carrie Brown;1682;Customer Support;7;High;To Do;Compensation & Benefits;2023-09-19;;
+Marissa Moreno;1049;Banking;6;Critical;In progress;Diversity & Inclusion;2024-08-14;2024-08-15;
+Fernando Carroll;1607;Legal;3;Critical;Done;Employee Feedback;2024-05-07;2024-05-09;2024-05-17
+Christopher Hill;1727;Finance;2;High;In progress;Health & Wellness;2024-11-09;2024-11-15;
+Mathew Bush;1586;Engineering;7;Critical;Done;Compensation & Benefits;2024-05-25;2024-05-30;2024-06-02
+Wyatt Rodriguez;1301;Legal;9;Medium;Done;Organizational Culture;2023-01-27;2023-01-28;2023-01-28
+David Cooper;1698;Product;5;Medium;Done;Onboarding;2023-04-23;2023-04-24;2023-04-24
+Renee Watts;1122;Operations;5;Medium;Done;Organizational Culture;2023-08-05;2023-08-06;2023-08-09
+Courtney Poole;1354;People;8;Critical;Done;Workplace Safety;2024-10-28;2024-10-30;2024-11-07
+Jacqueline Johnson;1517;Finance;2;Low;In progress;Recruitment & Mobility;2024-10-31;2024-11-06;
+John Proctor;1509;Engineering;9;High;Done;Employee Relations;2023-01-11;2023-01-15;2023-01-18
+Amanda Harvey;1555;Legal;1;Medium;Done;Performance Management;2023-09-02;2023-09-03;2023-09-04
+Jamie Nunez;1448;Product;4;Low;Done;Learning & Development;2024-02-13;2024-02-22;2024-02-22
+Seth Stevens;1308;Banking;9;Low;Done;Onboarding;2023-05-24;2023-05-26;2023-05-26
+Julie Lloyd;1164;Engineering;6;Low;Done;Diversity & Inclusion;2024-12-13;2024-12-19;2024-12-22
+Kristine Rivera;1060;Operations;4;High;To Do;Workplace Safety;2023-07-07;;
+Laura Pierce;1597;Engineering;9;High;Done;Performance Management;2023-09-28;2023-09-29;2023-09-30
+Robin Allen;1094;Operations;6;Critical;Waiting for customer;Workplace Safety;2024-04-07;;
+Julie Jimenez;1752;Finance;5;Critical;Done;Employee Retention;2024-04-02;2024-04-04;2024-04-04
+Michael Pineda;1668;Operations;6;High;Done;Employee Relations;2024-02-03;2024-02-04;2024-02-11
+Robert Lopez;1624;Engineering;10;Critical;Done;Organizational Culture;2023-07-16;2023-07-23;2023-07-25
+Matthew Gilbert;1020;Customer Support;2;Medium;Waiting for customer;Employee Engagement;2023-09-17;;
+Jay Gray;1720;Marketing;6;Low;Done;Employee Engagement;2023-01-27;2023-02-01;2023-02-06
+David Smith;1343;Engineering;9;Critical;Done;Health & Wellness;2024-11-29;2024-12-05;2024-12-06
+Jessica Hernandez;1531;Product;1;High;Waiting for customer;Diversity & Inclusion;2024-07-11;;
+Chase Johns;1355;Finance;1;High;Done;Organizational Culture;2024-11-29;2024-12-01;2024-12-03
+Grace Jones;1329;Finance;4;Critical;Done;Organizational Culture;2024-04-24;2024-04-27;2024-04-27
+Gregory Hinton;1087;Finance;6;Low;Done;Employee Feedback;2023-07-16;2023-07-17;2023-07-17
+Brandon Jimenez;1114;Marketing;6;Low;Done;Employee Relations;2023-05-11;2023-05-12;2023-05-20
+Faith Maxwell;1171;People;6;Critical;Done;Employee Offboarding;2023-06-06;2023-06-09;2023-06-09
+Michael Vargas;1497;Legal;2;Low;Done;Diversity & Inclusion;2024-01-19;2024-01-25;2024-01-27
+Thomas Torres;1501;Marketing;4;High;Done;Health & Wellness;2024-05-29;2024-06-01;2024-06-01
+Kelly Conner;1441;Engineering;5;Medium;Done;Compensation & Benefits;2023-06-19;2023-06-20;2023-06-22
+Donald Johnson;1033;Marketing;6;Critical;Done;Compensation & Benefits;2023-04-13;2023-04-18;2023-04-27
+Stephanie Kelley;1552;Finance;5;Low;Waiting for customer;Diversity & Inclusion;2023-01-07;;
+Caitlin Gray;1368;Product;4;High;Pending;Learning & Development;2024-04-23;;
+Robin Day;1650;Marketing;9;High;Pending;Onboarding;2024-03-17;;
+Andrew Parker;1286;Banking;7;Low;Done;Employee Feedback;2024-04-28;2024-05-04;2024-05-07
+Johnny Davis;1621;Finance;9;Critical;Done;Employee Offboarding;2024-11-26;2024-11-30;2024-12-05
+Susan Butler;1186;Product;6;High;Done;Employee Feedback;2024-10-24;2024-10-25;2024-10-27
+Michelle Cunningham;1659;Marketing;9;Critical;Done;Performance Management;2024-06-27;2024-07-05;2024-07-05
+Kevin Nguyen;1677;Banking;8;High;To Do;Recruitment & Mobility;2024-06-25;;
+Theresa Hansen;1444;Operations;3;Medium;Done;Compensation & Benefits;2023-09-12;2023-09-16;2023-09-16
+Kayla Estes;1712;Engineering;6;Critical;Waiting for customer;Compensation & Benefits;2023-10-26;;
+Miguel Leon;1478;Legal;1;High;Done;Onboarding;2023-07-07;2023-07-14;2023-07-15
+Dana Roy;1709;Marketing;10;Critical;Done;Employee Relations;2024-06-17;2024-06-19;2024-06-20
+Garrett Daniels;1318;Customer Support;3;Low;Done;Performance Management;2024-03-09;2024-03-10;2024-03-10
+Brandy Parrish;1572;Legal;8;High;Done;Performance Management;2024-02-01;2024-02-02;2024-02-05
+Sarah Massey;1309;Banking;2;Critical;Done;Employee Feedback;2024-10-25;2024-10-30;2024-11-08
+Debbie Haynes;1491;Legal;8;High;In progress;Organizational Culture;2023-05-19;2023-05-22;
+Gina Walton;1237;Operations;4;Low;Done;Employee Feedback;2024-11-25;2024-11-27;2024-11-27
+Louis Hardy;1198;Customer Support;9;High;Done;Organizational Culture;2024-03-22;2024-04-05;2024-04-05
+Stephanie Mercado;1224;People;1;Medium;Done;Learning & Development;2024-07-22;2024-07-23;2024-07-23
+Ryan Stevenson;1195;Engineering;5;Low;Done;Onboarding;2023-09-29;2023-10-02;2023-10-08
+Jacqueline Roberts;1345;Banking;6;Low;Waiting for customer;Performance Management;2023-12-07;;
+Diana Perry;1647;People;1;Low;Waiting for customer;Diversity & Inclusion;2023-08-24;;
+Kimberly Peters;1182;Legal;4;Low;To Do;Organizational Culture;2023-06-16;;
+Stacy Knox;1574;Marketing;2;Low;Done;Onboarding;2023-11-04;2023-11-05;2023-11-05
+Jeffrey Williams;1490;People;5;Critical;Done;Employee Offboarding;2024-11-07;2024-11-08;2024-11-10
+Christina Roach;1082;Banking;4;Low;Done;Learning & Development;2024-11-13;2024-11-19;2024-11-23
+Amanda Dunn;1036;People;7;High;Done;Employee Feedback;2023-11-04;2023-11-06;2023-11-07
+Margaret Lee;1108;Engineering;7;High;Done;Organizational Culture;2023-05-17;2023-05-18;2023-05-31
+Ashlee Proctor;1676;Finance;4;Medium;Done;Employee Offboarding;2023-07-31;2023-08-02;2023-08-02
+Kevin Strong;1425;Product;7;High;Done;Organizational Culture;2023-02-28;2023-03-06;2023-03-09
+David Pruitt;1155;Legal;5;High;Done;Learning & Development;2024-11-10;2024-11-13;2024-11-14
+Lauren Long;1410;Engineering;2;Critical;Done;Learning & Development;2023-07-30;2023-08-06;2023-08-06
+Michelle Petty;1753;Operations;2;Critical;Pending;Employee Engagement;2023-10-12;;
+Mark Madden;1658;Legal;5;Critical;To Do;Workplace Safety;2023-09-28;;
+Mark Melendez;1255;Finance;6;Low;Done;Workplace Safety;2023-07-25;2023-07-26;2023-07-27
+Daniel Gray;1053;Legal;5;Critical;To Do;Career Development;2024-05-25;;
+Richard Farrell;1484;Customer Support;7;Critical;Done;Diversity & Inclusion;2024-06-28;2024-06-29;2024-06-29
+Megan Hill;1553;Customer Support;8;Medium;Done;Employee Feedback;2023-03-08;2023-03-10;2023-03-11
+Robert Lopez;1624;Engineering;10;Medium;Done;Recruitment & Mobility;2024-05-14;2024-05-22;2024-05-23
+Ricky Smith;1747;People;5;Medium;Done;Health & Wellness;2023-03-15;2023-03-17;2023-03-19
+Cathy Stokes;1516;People;6;Medium;Done;Employee Engagement;2023-02-20;2023-02-21;2023-03-06
+Wendy Johnson;1423;People;7;Medium;Done;Diversity & Inclusion;2024-03-31;2024-04-01;2024-04-04
+Emily Wilson;1738;Banking;8;High;Done;Employee Offboarding;2024-03-19;2024-03-27;2024-03-29
+Dana Roy;1709;Marketing;10;Medium;To Do;Organizational Culture;2023-05-30;;
+William Sanders;1733;Engineering;7;High;Done;Employee Retention;2024-05-25;2024-05-28;2024-06-04
+Tammy Fletcher;1599;Product;5;Medium;Done;Recruitment & Mobility;2023-03-09;2023-03-10;2023-03-12
+Larry Stewart;1749;Engineering;2;Low;Done;Organizational Culture;2024-04-29;2024-05-02;2024-05-03
+Jared Harrington;1208;Engineering;3;High;Waiting for customer;Onboarding;2024-01-29;;
+Kelly Anderson;1271;People;7;Critical;Done;Employee Offboarding;2024-05-08;2024-05-15;2024-05-15
+Danny Larsen;1737;Customer Support;2;High;Done;Employee Feedback;2023-07-17;2023-07-25;2023-07-25
+Jeffery Gonzales;1743;Marketing;5;Medium;Done;Health & Wellness;2024-12-27;2024-12-30;2024-12-31
+Sharon Haynes;1785;Finance;3;Low;Done;Health & Wellness;2024-08-13;2024-08-16;2024-08-21
+Lisa Alexander;1018;Banking;4;Medium;Done;Career Development;2023-08-07;2023-08-08;2023-08-08
+Breanna Douglas;1430;Legal;3;Medium;Done;Workplace Safety;2024-03-26;2024-03-29;2024-03-29
+Francis Hutchinson;1545;Legal;9;Critical;In progress;Onboarding;2023-02-10;2023-02-12;
+Michael Suarez;1312;Engineering;3;Medium;Done;Employee Engagement;2023-10-05;2023-10-09;2023-10-13
+Felicia Miller;1334;Product;2;Medium;Done;Career Development;2023-02-23;2023-02-24;2023-02-24
+Tabitha Gibson;1008;Banking;3;Low;Done;Diversity & Inclusion;2024-06-06;2024-06-12;2024-06-16
+Jose Moreno;1422;People;9;Critical;To Do;Compensation & Benefits;2024-01-07;;
+Albert Adams;1283;Banking;9;Critical;Pending;Diversity & Inclusion;2023-11-04;;
+Carlos Watson;1406;Legal;3;High;Done;Recruitment & Mobility;2024-11-29;2024-11-30;2024-12-01
+Michael Guerrero;1609;People;8;Medium;To Do;Employee Feedback;2024-04-24;;
+Michelle Peters;1585;Banking;8;High;Done;Diversity & Inclusion;2023-05-31;2023-06-01;2023-06-02
+Russell Mahoney;1584;People;3;Critical;Done;Recruitment & Mobility;2023-08-26;2023-08-28;2023-08-30
+Eric Berger;1596;Engineering;4;Medium;Done;Career Development;2023-05-06;2023-05-10;2023-05-20
+Julie Boone;1629;Engineering;6;High;Done;Recruitment & Mobility;2024-06-04;2024-06-05;2024-06-07
+Michael Pineda;1668;Operations;6;Low;Done;Onboarding;2023-09-20;2023-09-27;2023-09-29
+Donna Brown;1275;Operations;2;High;Done;Employee Relations;2024-03-28;2024-04-10;2024-04-11
+Tammy Fletcher;1599;Product;5;Low;Done;Health & Wellness;2024-07-13;2024-07-16;2024-07-16
+Scott Green;1190;Legal;8;Critical;Done;Recruitment & Mobility;2023-03-30;2023-03-31;2023-04-01
+Matthew Hunt;1126;People;4;High;Done;Employee Retention;2024-01-05;2024-01-07;2024-01-09
+Jennifer Pacheco;1575;Banking;9;Critical;Done;Workplace Safety;2023-09-17;2023-09-18;2023-10-01
+Dennis Blake;1750;People;1;High;Done;Organizational Culture;2024-01-06;2024-01-08;2024-01-13
+Joseph Johnson;1783;Engineering;7;Low;To Do;Employee Relations;2024-11-20;;
+Erin Armstrong;1089;Operations;7;Medium;Waiting for customer;Employee Retention;2024-06-16;;
+Crystal Medina;1272;Operations;7;Medium;Done;Career Development;2023-11-21;2023-11-25;2023-11-25
+Michael Pineda;1668;Operations;6;Low;Done;Onboarding;2024-01-17;2024-01-19;2024-01-20
+Diana Quinn;1113;Engineering;7;Low;Done;Employee Relations;2024-06-05;2024-06-06;2024-06-08
+Bobby Larson;1794;Product;6;Medium;Waiting for customer;Learning & Development;2024-01-17;;
+Charles Beltran;1135;Engineering;5;Low;Done;Organizational Culture;2023-10-03;2023-10-07;2023-10-07
+Chad Parks;1294;Engineering;7;Low;Pending;Employee Feedback;2023-05-18;;
+Amanda Harvey;1555;Legal;1;Critical;Done;Organizational Culture;2023-08-16;2023-08-17;2023-08-20
+Sarah Bates;1219;Engineering;8;High;In progress;Onboarding;2024-07-03;2024-07-09;
+Crystal Butler;1000;Legal;5;Critical;Done;Employee Feedback;2023-08-15;2023-08-16;2023-08-17
+Raymond Vargas;1347;Product;4;Critical;To Do;Employee Engagement;2024-02-23;;
+Sandra Rangel;1162;Banking;4;Low;Done;Workplace Safety;2023-05-02;2023-05-03;2023-05-12
+Toni Brock;1619;Finance;1;Medium;Done;Organizational Culture;2023-01-29;2023-01-30;2023-02-01
+Crystal Butler;1000;Legal;5;Critical;To Do;Career Development;2023-02-18;;
+Lynn Graham;1326;Marketing;5;Critical;To Do;Compensation & Benefits;2024-11-13;;
+Kyle Henry;1408;Customer Support;4;Medium;Done;Organizational Culture;2024-05-13;2024-05-16;2024-05-22
+Randall Wells;1464;Customer Support;2;Critical;Done;Employee Retention;2023-10-04;2023-10-07;2023-10-08
+Erika Smith;1244;Customer Support;7;Critical;In progress;Compensation & Benefits;2024-02-19;2024-02-20;
+Alyssa Patton;1717;People;8;Low;Done;Onboarding;2024-08-20;2024-08-22;2024-08-22
+Barbara Mclean;1121;Customer Support;9;High;Done;Performance Management;2023-07-05;2023-07-06;2023-07-08
+Richard Hatfield;1363;Operations;2;Medium;Done;Employee Relations;2024-09-06;2024-09-08;2024-09-10
+Arthur Montoya;1289;Finance;8;Medium;To Do;Diversity & Inclusion;2024-12-12;;
+Jessica Rodriguez;1090;Customer Support;3;Medium;Done;Employee Offboarding;2024-01-27;2024-02-04;2024-02-06
+Tricia Thomas;1373;Legal;2;Medium;Done;Learning & Development;2024-01-28;2024-02-03;2024-02-04
+Tonya Chase;1349;Product;6;Low;Done;Career Development;2024-12-26;2024-12-27;2024-12-28
+Matthew Gonzales;1751;Operations;8;Critical;Done;Organizational Culture;2024-11-06;2024-11-11;2024-11-16
+Claudia Hale;1635;Finance;9;High;Done;Learning & Development;2024-07-30;2024-07-31;2024-08-03
+Amy Arellano;1776;Product;8;Low;Done;Employee Retention;2023-02-04;2023-02-05;2023-02-07
+Karen Vazquez;1494;Customer Support;8;Low;Done;Organizational Culture;2024-03-27;2024-03-28;2024-03-31
+Jose Moreno;1422;People;9;Low;Done;Performance Management;2023-06-08;2023-06-09;2023-06-09
+Julie Jimenez;1752;Finance;5;Critical;Done;Compensation & Benefits;2023-12-22;2023-12-24;2023-12-25
+Kyle Rivera;1276;Product;5;High;Done;Diversity & Inclusion;2023-03-17;2023-03-20;2023-03-20
+Rodney Lopez;1476;Banking;2;Medium;Done;Health & Wellness;2024-02-19;2024-02-24;2024-02-27
+Laura Pham;1715;Engineering;5;Critical;Waiting for customer;Diversity & Inclusion;2024-10-30;;
+Lance Johnson;1401;Finance;9;Low;Done;Performance Management;2023-07-10;2023-07-12;2023-07-14
+Kathryn Cole;1071;People;6;Critical;Done;Performance Management;2024-11-26;2024-12-10;2024-12-10
+Teresa Dunn;1263;Operations;9;Low;Done;Recruitment & Mobility;2024-12-01;2024-12-07;2024-12-15
+Gavin Ayers;1436;Finance;4;Critical;Done;Performance Management;2024-11-15;2024-11-16;2024-11-16
+John Hamilton;1242;People;7;Critical;Done;Employee Relations;2023-02-25;2023-03-06;2023-03-11
+Robin Day;1650;Marketing;9;Critical;Done;Organizational Culture;2023-01-07;2023-01-13;2023-01-17
+Emily Wilson;1738;Banking;8;Critical;Done;Workplace Safety;2024-02-22;2024-02-25;2024-02-26
+Gail Lewis;1419;Operations;2;Low;To Do;Learning & Development;2024-07-21;;
+Chris Browning;1703;People;8;Low;Done;Onboarding;2024-11-23;2024-11-24;2024-11-27
+Joanna Greene;1378;Marketing;6;Low;Done;Employee Relations;2024-11-17;2024-11-19;2024-11-20
+Megan Kirk;1577;Operations;4;Low;Done;Health & Wellness;2024-11-29;2024-12-03;2024-12-03
+Brooke Riley;1427;Legal;4;Critical;To Do;Compensation & Benefits;2024-04-27;;
+David Hunter;1174;Marketing;4;Critical;Done;Employee Relations;2024-02-10;2024-02-15;2024-02-20
+Jocelyn Weiss;1636;Legal;9;Medium;Done;Workplace Safety;2023-02-08;2023-02-10;2023-02-17
+Christopher Brown;1729;Engineering;6;Low;Done;Performance Management;2024-07-28;2024-07-30;2024-08-07
+Kathryn Cole;1071;People;6;High;Done;Employee Engagement;2024-12-20;2024-12-21;2024-12-30
+Trevor Caldwell;1558;Customer Support;7;Medium;Done;Diversity & Inclusion;2024-04-28;2024-04-29;2024-05-02
+Kelli Moore;1601;Operations;6;Low;Done;Employee Retention;2023-01-25;2023-01-26;2023-01-26
+Brad Hudson;1074;Customer Support;2;Medium;Done;Performance Management;2023-12-27;2023-12-29;2023-12-29
+Kelly Melendez;1369;Operations;1;Medium;Done;Organizational Culture;2024-08-21;2024-08-22;2024-08-30
+Adam Garcia;1515;Marketing;7;Medium;In progress;Workplace Safety;2024-09-18;2024-09-20;
+Cody Mccarty;1748;Banking;5;Critical;Pending;Employee Relations;2024-09-24;;
+Sarah Salazar;1673;Legal;4;Critical;Done;Employee Retention;2024-03-01;2024-03-02;2024-03-05
+Gabriel Estrada;1040;Engineering;6;Medium;Done;Organizational Culture;2023-07-07;2023-07-08;2023-07-09
+Robin Norman;1661;Product;4;Low;To Do;Employee Offboarding;2023-04-22;;
+Courtney Poole;1354;People;8;High;Pending;Compensation & Benefits;2024-12-25;;
+Holly Evans;1508;People;1;High;Done;Diversity & Inclusion;2023-11-09;2023-11-11;2023-11-13
+Susan Butler;1186;Product;6;Medium;Done;Employee Engagement;2024-01-14;2024-01-15;2024-01-16
+Amanda Barnes;1188;Product;7;Medium;Done;Diversity & Inclusion;2024-02-16;2024-02-19;2024-02-19
+Julie Murphy;1292;Product;4;Low;Done;Employee Relations;2024-06-20;2024-06-22;2024-06-24
+Alexander Griffith;1666;Operations;4;Medium;Done;Employee Retention;2023-09-09;2023-09-18;2023-09-23
+Sarah Massey;1309;Banking;2;Medium;Done;Health & Wellness;2023-07-29;2023-07-31;2023-08-01
+Stephanie Patterson;1496;Customer Support;5;Low;Done;Diversity & Inclusion;2024-04-27;2024-04-28;2024-04-29
+Steven Martinez;1724;Legal;6;Medium;Done;Employee Engagement;2024-07-15;2024-07-18;2024-07-18
+April Robinson;1213;Marketing;5;Medium;Done;Workplace Safety;2024-10-21;2024-10-22;2024-10-25
+Melissa Dalton;1183;Operations;6;Critical;Done;Compensation & Benefits;2023-08-27;2023-08-28;2023-08-29
+Joanna Greene;1378;Marketing;6;High;Done;Onboarding;2023-01-31;2023-02-05;2023-02-07
+Sarah Salazar;1673;Legal;4;High;To Do;Onboarding;2023-03-28;;
+Nicholas Ryan;1161;Operations;9;Low;Done;Employee Engagement;2024-07-26;2024-07-28;2024-07-28
+Haley Zavala;1038;Engineering;4;Low;Done;Employee Feedback;2023-01-20;2023-01-21;2023-01-21
+John Mccoy;1557;Legal;8;Critical;Done;Employee Offboarding;2023-05-21;2023-05-22;2023-05-24
+Shari Johnson;1125;Legal;1;Medium;Done;Organizational Culture;2024-12-06;2024-12-09;2024-12-10
+Jay Gray;1720;Marketing;6;Medium;Done;Employee Relations;2023-04-09;2023-04-14;2023-04-18
+Grace Jones;1329;Finance;4;Critical;Done;Learning & Development;2023-09-25;2023-09-26;2023-09-27
+Anthony Davis;1352;Banking;6;Low;Waiting for customer;Workplace Safety;2024-08-25;;
+Jacob Butler;1492;Finance;3;Medium;Done;Workplace Safety;2023-06-17;2023-06-18;2023-06-24
+Amanda Espinoza;1107;Operations;9;Critical;Done;Employee Retention;2024-07-02;2024-07-03;2024-07-03
+Shannon Hill;1316;Product;3;Critical;Done;Diversity & Inclusion;2024-10-22;2024-10-25;2024-10-29
+Jason Bell;1059;People;8;Low;Done;Organizational Culture;2024-05-16;2024-05-30;2024-05-30
+Tara Waters;1169;Finance;6;Critical;Done;Health & Wellness;2024-05-15;2024-05-18;2024-05-18
+April Robinson;1213;Marketing;5;High;Done;Employee Relations;2023-09-08;2023-09-12;2023-09-12
+Reginald Brown;1207;Operations;8;Low;Done;Compensation & Benefits;2023-02-24;2023-02-26;2023-02-28
+James Ryan;1095;Legal;4;Critical;Done;Employee Retention;2023-09-24;2023-09-26;2023-09-26
+Sandra Stewart;1569;Customer Support;8;Medium;Done;Learning & Development;2023-11-07;2023-11-09;2023-11-11
+John Berger;1152;Legal;4;High;Done;Employee Retention;2024-05-17;2024-05-23;2024-05-31
+Emily Wilson;1738;Banking;8;Critical;Done;Compensation & Benefits;2023-10-20;2023-10-21;2023-10-21
+Tracy Strickland;1778;Customer Support;7;Critical;Pending;Employee Feedback;2023-12-15;;
+Michelle Cunningham;1659;Marketing;9;Low;Done;Compensation & Benefits;2024-09-14;2024-09-16;2024-09-17
+Michael Reyes;1158;Banking;2;Medium;Waiting for customer;Recruitment & Mobility;2024-08-10;;
+Mark Madden;1658;Legal;5;Low;Done;Career Development;2023-06-06;2023-06-07;2023-06-07
+Shannon Hill;1316;Product;3;Low;Done;Recruitment & Mobility;2023-12-27;2023-12-28;2023-12-28
+Scott White;1077;Finance;6;Low;Done;Onboarding;2023-11-11;2023-11-13;2023-11-15
+Barbara Mclean;1121;Customer Support;9;Low;Done;Health & Wellness;2024-10-26;2024-10-28;2024-11-03
+Alexander Griffith;1666;Operations;4;High;Done;Performance Management;2023-11-21;2023-11-23;2023-11-28
+Sarah Massey;1309;Banking;2;Critical;Done;Employee Engagement;2023-06-04;2023-06-11;2023-06-11
+Edwin Jordan;1202;People;8;High;Done;Organizational Culture;2024-09-14;2024-09-21;2024-09-28
+Richard Young;1395;Legal;6;High;Done;Compensation & Benefits;2023-11-16;2023-11-22;2023-11-30
+Shawn Hanson;1653;People;10;Critical;Done;Employee Retention;2024-01-05;2024-01-06;2024-01-09
+Sarah Salazar;1673;Legal;4;Medium;Done;Performance Management;2024-12-27;2024-12-28;2025-01-03
+Erin Armstrong;1089;Operations;7;Critical;Done;Employee Offboarding;2023-01-18;2023-01-30;2023-02-01
+Barbara Mclean;1121;Customer Support;9;Low;Done;Compensation & Benefits;2024-06-18;2024-06-22;2024-06-22
+Kathy Ramos;1375;Operations;8;Medium;Waiting for customer;Employee Engagement;2024-06-24;;
+Jacob Carey;1330;Legal;5;Medium;Done;Diversity & Inclusion;2023-05-08;2023-05-11;2023-05-15
+Courtney Poole;1354;People;8;Critical;Done;Organizational Culture;2023-09-10;2023-09-20;2023-09-20
+Scott White;1077;Finance;6;Medium;To Do;Onboarding;2023-06-26;;
+Heather Valenzuela;1052;Engineering;8;Low;Done;Recruitment & Mobility;2023-05-18;2023-05-24;2023-05-27
+Kelly Melendez;1369;Operations;1;High;Done;Employee Relations;2024-01-10;2024-01-11;2024-01-18
+Joseph Johnson;1783;Engineering;7;High;Done;Compensation & Benefits;2023-11-06;2023-11-07;2023-11-07
+George Maddox;1398;Banking;7;Low;Done;Compensation & Benefits;2023-03-28;2023-03-29;2023-03-29
+James Page;1411;Banking;3;Low;Done;Employee Offboarding;2024-11-04;2024-11-06;2024-11-08
+James Page;1411;Banking;3;Low;To Do;Onboarding;2024-05-01;;
+Eric Berger;1596;Engineering;4;Critical;Done;Employee Relations;2024-12-02;2024-12-09;2024-12-09
+Daniel Campbell;1695;Customer Support;10;Medium;Done;Employee Retention;2024-05-04;2024-05-06;2024-05-06
+Kayla Larson;1670;Customer Support;3;Medium;In progress;Employee Relations;2024-10-02;2024-10-09;
+Brooke Riley;1427;Legal;4;Critical;Done;Diversity & Inclusion;2024-08-17;2024-08-19;2024-08-19
+Haley Wiggins;1142;Engineering;1;Critical;Done;Employee Engagement;2024-03-12;2024-03-13;2024-03-19
+Ryan Stewart;1452;Product;6;Critical;Done;Career Development;2023-05-12;2023-05-16;2023-05-16
+Sherri Coffey;1788;Marketing;5;Low;Done;Employee Relations;2023-11-06;2023-11-10;2023-11-10
+Lindsey Bolton;1050;Engineering;3;Medium;Done;Career Development;2023-09-05;2023-09-07;2023-09-15
+Tonya Andrews;1736;Customer Support;9;Medium;To Do;Career Development;2024-10-26;;
+Tracie Cobb;1359;Marketing;5;Low;Done;Workplace Safety;2023-11-14;2023-11-16;2023-11-21
+Patricia Garrett;1267;Customer Support;2;Critical;In progress;Compensation & Benefits;2023-07-24;2023-07-27;
+Christina Ramirez;1541;Engineering;4;High;Done;Employee Offboarding;2024-03-09;2024-03-10;2024-03-11
+Tricia Thomas;1373;Legal;2;Low;Done;Organizational Culture;2024-03-29;2024-03-30;2024-03-30
+Michael Pineda;1668;Operations;6;Medium;Done;Recruitment & Mobility;2023-05-26;2023-06-07;2023-06-09
+Joanna Greene;1378;Marketing;6;Medium;To Do;Performance Management;2024-11-22;;
+Emily Wilson;1738;Banking;8;High;Done;Employee Relations;2024-10-07;2024-10-16;2024-10-17
+Antonio Diaz;1409;People;8;Medium;Done;Learning & Development;2024-10-28;2024-10-29;2024-10-31
+Alyssa Petty;1003;Customer Support;1;Low;Done;Workplace Safety;2024-04-19;2024-04-20;2024-04-22
+Daniel Campbell;1695;Customer Support;10;Critical;Done;Learning & Development;2023-02-13;2023-02-15;2023-02-16
+Valerie Pearson;1024;Marketing;7;Medium;Done;Employee Retention;2024-10-13;2024-10-16;2024-10-16
+Timothy Davis;1782;Engineering;4;Critical;Done;Compensation & Benefits;2023-07-08;2023-07-12;2023-07-16
+Joseph Johnson;1783;Engineering;7;Low;Done;Employee Relations;2024-07-15;2024-07-17;2024-07-17
+Stephanie Romero;1460;Banking;6;High;To Do;Employee Feedback;2023-11-01;;
+John Garcia;1097;Finance;5;Low;Done;Learning & Development;2024-09-04;2024-09-07;2024-09-14
+Michelle Dixon;1322;Legal;3;Low;Done;Performance Management;2024-12-26;2024-12-28;2024-12-28
+Michelle Petty;1753;Operations;2;Medium;Waiting for customer;Employee Offboarding;2023-02-01;;
+Chad Parks;1294;Engineering;7;Medium;Done;Employee Relations;2024-09-27;2024-09-28;2024-09-28
+Julie Jimenez;1752;Finance;5;High;Done;Health & Wellness;2024-07-20;2024-07-21;2024-07-22
+Douglas Gomez;1387;Finance;3;High;In progress;Employee Relations;2023-01-01;2023-01-04;
+Brian White;1181;Marketing;3;Critical;Done;Health & Wellness;2024-01-12;2024-01-13;2024-01-14
+Julie Harris;1708;Finance;7;Low;Done;Employee Retention;2024-10-02;2024-10-07;2024-10-09
+Natalie Williams;1177;Banking;3;High;Done;Employee Feedback;2023-10-17;2023-10-18;2023-10-19
+David Wilkins;1124;Operations;9;High;Done;Employee Retention;2023-04-26;2023-04-30;2023-04-30
+Julia Gonzalez;1536;Operations;6;Critical;In progress;Compensation & Benefits;2023-07-12;2023-07-19;
+Julie Johnson;1459;Operations;10;High;Done;Employee Engagement;2024-11-12;2024-11-13;2024-11-14
+Deborah Bailey;1532;People;6;Medium;Done;Employee Feedback;2024-03-20;2024-03-21;2024-03-22
+Miguel Leon;1478;Legal;1;Medium;Done;Organizational Culture;2023-12-29;2024-01-01;2024-01-07
+Michael Little;1091;Banking;1;Critical;Done;Learning & Development;2023-08-02;2023-08-04;2023-08-04
+Frank Peterson;1560;People;3;High;Done;Organizational Culture;2024-12-02;2024-12-03;2024-12-04
+Tamara Jones;1697;People;8;Medium;Done;Employee Offboarding;2024-03-13;2024-03-14;2024-03-23
+Dennis Blake;1750;People;1;Low;Done;Employee Engagement;2023-05-02;2023-05-06;2023-05-12
+Kenneth Simmons;1282;Finance;9;Medium;Done;Career Development;2023-10-29;2023-10-31;2023-10-31
+Mary Ramirez;1740;Engineering;5;Low;Done;Employee Engagement;2023-02-27;2023-03-03;2023-03-07
+Michael Hicks;1471;People;4;Low;Done;Organizational Culture;2023-11-20;2023-11-26;2023-11-30
+Jonathan Hernandez;1458;Banking;3;Critical;Done;Employee Feedback;2024-01-11;2024-01-16;2024-01-20
+Ronald Smith;1450;Operations;6;Medium;Done;Employee Relations;2024-02-04;2024-02-10;2024-02-11
+Lynn Graham;1326;Marketing;5;Medium;Done;Employee Engagement;2023-12-03;2023-12-04;2023-12-04
+Lisa Smith;1498;Customer Support;6;Critical;Done;Performance Management;2024-01-08;2024-01-10;2024-01-10
+Jeffrey Davidson;1573;Engineering;8;Medium;Done;Health & Wellness;2023-11-30;2023-12-05;2023-12-09
+Laura Anderson;1043;Legal;2;Critical;Done;Learning & Development;2023-05-02;2023-05-06;2023-05-16
+James Finley;1370;Banking;5;Critical;Done;Onboarding;2024-09-23;2024-09-29;2024-09-30
+Christine Curry;1627;Customer Support;1;Critical;Done;Workplace Safety;2023-10-13;2023-10-15;2023-10-21
+Cathy Thornton;1554;Product;4;Medium;Done;Diversity & Inclusion;2024-10-08;2024-10-09;2024-10-09
+Claudia Hale;1635;Finance;9;Medium;Done;Employee Engagement;2023-03-29;2023-04-07;2023-04-12
+Chelsey Larson;1165;Banking;9;Medium;Done;Recruitment & Mobility;2024-07-01;2024-07-04;2024-07-09
+Melissa Wallace;1614;Finance;5;Low;Done;Employee Feedback;2023-12-09;2023-12-11;2023-12-18
+Kelly Conner;1441;Engineering;5;Medium;Done;Performance Management;2024-11-15;2024-11-18;2024-11-25
+Sharon Castillo;1268;Marketing;1;High;Done;Employee Engagement;2024-11-25;2024-11-27;2024-11-27
+Cathy Stokes;1516;People;6;Medium;Done;Compensation & Benefits;2024-12-24;2024-12-29;2024-12-31
+Whitney Moody;1466;Customer Support;5;High;Done;Career Development;2024-06-16;2024-06-20;2024-06-23
+Kendra Petersen;1475;Banking;3;High;Done;Onboarding;2024-06-05;2024-06-06;2024-06-09
+James Ryan;1095;Legal;4;Low;Done;Employee Retention;2023-06-24;2023-06-27;2023-06-27
+Eric Mendoza;1035;Engineering;4;Low;Done;Employee Engagement;2024-07-01;2024-07-02;2024-07-04
+Amanda Dunn;1036;People;7;Medium;To Do;Performance Management;2023-08-23;;
+Michael Nash;1522;Engineering;5;High;Done;Compensation & Benefits;2024-02-07;2024-02-08;2024-02-09
+Jennifer Sanchez;1745;Finance;9;Medium;Waiting for customer;Employee Engagement;2024-03-23;;
+John Hale;1317;Banking;3;High;Done;Organizational Culture;2023-11-02;2023-11-04;2023-11-05
+Paul Morse;1314;Legal;6;Critical;To Do;Recruitment & Mobility;2024-04-11;;
+Wyatt Rodriguez;1301;Legal;9;Critical;Done;Employee Engagement;2024-12-22;2024-12-29;2025-01-05
+Michelle Holder;1556;Marketing;10;High;Done;Employee Offboarding;2023-04-06;2023-04-08;2023-04-08
+Marie Ramsey;1070;Legal;1;High;Done;Organizational Culture;2023-01-10;2023-01-13;2023-01-18
+Nancy Roberson;1044;Customer Support;7;Critical;Done;Performance Management;2023-11-12;2023-11-14;2023-11-22
+Allen Scott;1306;People;3;Low;Done;Compensation & Benefits;2024-05-14;2024-05-16;2024-05-16
+Curtis Patel;1088;Product;4;High;Done;Employee Offboarding;2024-12-06;2024-12-14;2024-12-20
+Maureen Stewart;1764;Finance;3;Critical;Done;Organizational Culture;2024-05-23;2024-05-24;2024-05-26
+Norman Thomas;1315;Finance;2;Critical;Done;Employee Feedback;2024-04-01;2024-04-02;2024-04-04
+Monica Cole;1696;Engineering;6;High;To Do;Workplace Safety;2024-12-17;;
+Stephen Mcdonald;1156;Finance;3;High;Done;Employee Retention;2023-12-28;2023-12-31;2024-01-01
+Bryan Santana;1284;Finance;5;High;In progress;Employee Relations;2024-09-06;2024-09-09;
+Steven Fitzgerald;1031;Legal;6;High;Done;Employee Engagement;2023-04-22;2023-04-25;2023-04-30
+Emily Mooney;1302;Product;4;Medium;Done;Employee Engagement;2023-11-03;2023-11-05;2023-11-11
+Darrell Reeves;1372;Legal;9;High;Done;Career Development;2023-07-07;2023-07-11;2023-07-16
+Mia Gilmore;1026;Banking;9;Critical;Done;Workplace Safety;2024-12-07;2024-12-09;2024-12-10
+Angela Brown;1348;Operations;4;Medium;Done;Performance Management;2024-07-15;2024-07-18;2024-07-19
+Donald Johnson;1033;Marketing;6;Medium;Done;Workplace Safety;2024-10-10;2024-10-16;2024-10-17
+David Cooper;1698;Product;5;Medium;In progress;Onboarding;2023-10-27;2023-10-30;
+Jill Moss;1521;Engineering;4;High;In progress;Employee Engagement;2024-06-06;2024-06-13;
+Destiny Espinoza;1446;Operations;4;Low;Done;Employee Engagement;2023-05-24;2023-05-25;2023-05-26
+Grace Clark;1093;People;8;High;Done;Performance Management;2024-09-30;2024-10-02;2024-10-02
+John Proctor;1509;Engineering;9;Critical;Done;Learning & Development;2024-05-05;2024-05-10;2024-05-19
+William Williams;1175;Product;2;Low;Done;Diversity & Inclusion;2023-09-24;2023-09-26;2023-09-26
+Laura Mejia;1168;Finance;9;Critical;Done;Performance Management;2023-01-06;2023-01-09;2023-01-13
+John Hamilton;1242;People;7;Critical;Done;Organizational Culture;2024-02-02;2024-02-06;2024-02-06
+Alyssa Patton;1717;People;8;Low;Waiting for customer;Health & Wellness;2023-07-22;;
+Gabriel Guerra;1068;People;2;Medium;Done;Diversity & Inclusion;2024-09-10;2024-09-11;2024-09-13
+Catherine Wyatt;1109;Customer Support;3;Critical;Done;Health & Wellness;2023-07-23;2023-07-26;2023-07-26
+Carla Valenzuela;1706;Customer Support;6;Critical;Done;Employee Feedback;2023-08-29;2023-09-04;2023-09-06
+Tamara Jones;1697;People;8;Low;Pending;Health & Wellness;2024-07-08;;
+Dale Moyer;1029;Customer Support;5;Low;Done;Organizational Culture;2024-10-07;2024-10-08;2024-10-08
+Sara Marsh;1571;Legal;2;Critical;Done;Learning & Development;2024-09-19;2024-09-23;2024-09-26
+Haley Zavala;1038;Engineering;4;Critical;Done;Onboarding;2023-12-07;2023-12-09;2023-12-10
+Jerry Marshall;1589;Legal;9;Critical;Done;Onboarding;2023-09-09;2023-09-15;2023-09-18
+Thomas Reed;1602;Customer Support;5;Medium;Done;Organizational Culture;2023-02-15;2023-02-19;2023-02-19
+Joseph Liu;1415;Customer Support;10;Critical;Done;Compensation & Benefits;2024-04-20;2024-04-22;2024-04-22
+Brenda Pham;1713;Product;3;Medium;Done;Onboarding;2023-05-10;2023-05-13;2023-05-13
+Michael Martinez;1684;People;7;High;Done;Diversity & Inclusion;2023-07-14;2023-07-16;2023-07-22
+Diana Perry;1647;People;1;High;Pending;Employee Offboarding;2023-11-27;;
+Ashley White;1353;Finance;1;Medium;Done;Performance Management;2023-09-05;2023-09-11;2023-09-12
+Brandon Chambers;1583;Finance;4;High;Pending;Diversity & Inclusion;2023-01-01;;
+John Proctor;1509;Engineering;9;Medium;Done;Employee Engagement;2023-05-28;2023-05-29;2023-06-01
+Russell Cunningham;1145;Marketing;4;Medium;Done;Performance Management;2024-06-06;2024-06-15;2024-06-16
+Jimmy Garcia;1358;Engineering;2;Medium;Done;Employee Retention;2024-01-10;2024-01-12;2024-01-12
+Gwendolyn Moore;1226;Customer Support;2;Low;Done;Recruitment & Mobility;2023-02-15;2023-02-17;2023-02-17
+Sarah Salazar;1673;Legal;4;Low;Done;Recruitment & Mobility;2024-07-25;2024-07-31;2024-08-04
+Edwin Jordan;1202;People;8;Medium;Done;Employee Relations;2023-07-08;2023-07-12;2023-07-17
+Emily Jones;1048;Operations;4;Low;Done;Employee Engagement;2023-12-06;2023-12-08;2023-12-09
+Lauren David;1649;Finance;2;Low;Done;Employee Retention;2024-11-29;2024-12-08;2024-12-08
+Matthew Hunt;1126;People;4;Low;Done;Career Development;2023-05-02;2023-05-03;2023-05-03
+Ashley Forbes;1725;Customer Support;4;High;Pending;Employee Offboarding;2024-12-25;;
+Jonathan Hernandez;1458;Banking;3;Low;Done;Workplace Safety;2024-11-21;2024-11-24;2024-11-25
+Ronald Smith;1450;Operations;6;Critical;Done;Employee Retention;2024-10-30;2024-10-31;2024-10-31
+Patricia Pierce;1791;Marketing;8;Critical;Done;Diversity & Inclusion;2023-10-07;2023-10-11;2023-10-21
+Cheryl Tucker;1076;Banking;5;Low;Done;Employee Relations;2024-04-28;2024-04-30;2024-04-30
+Robert Brown;1769;Customer Support;4;High;Done;Recruitment & Mobility;2024-05-11;2024-05-14;2024-05-21
+Aaron Davis;1739;Marketing;10;High;Done;Workplace Safety;2024-06-12;2024-06-16;2024-06-16
+William Williams;1175;Product;2;Critical;Done;Employee Feedback;2023-11-14;2023-11-16;2023-11-16
+Michelle Holder;1556;Marketing;10;High;Done;Workplace Safety;2024-07-02;2024-07-06;2024-07-10
+Michael Bell;1512;Banking;3;Critical;Done;Employee Engagement;2023-08-18;2023-08-20;2023-08-20
+Kathy Ramos;1375;Operations;8;Low;Done;Learning & Development;2023-11-07;2023-11-09;2023-11-09
+Bruce Sanchez;1005;Legal;3;Critical;Done;Performance Management;2024-10-22;2024-10-23;2024-10-24
+Donna Morgan;1214;Finance;10;Critical;In progress;Compensation & Benefits;2023-12-26;2023-12-29;
+Sandra Rangel;1162;Banking;4;Low;Done;Recruitment & Mobility;2024-08-09;2024-08-11;2024-08-18
+William Wood;1323;People;3;Low;Done;Employee Engagement;2024-11-13;2024-11-15;2024-11-15
+Julie Harris;1708;Finance;7;Medium;Done;Health & Wellness;2024-08-28;2024-08-29;2024-08-29
+Tiffany Woods;1405;Banking;3;Medium;Done;Onboarding;2024-10-06;2024-10-14;2024-10-15
+Ian Perkins;1291;Legal;5;Medium;Done;Onboarding;2024-01-30;2024-02-01;2024-02-01
+Amanda Duncan;1257;Engineering;5;Medium;Done;Performance Management;2024-03-03;2024-03-04;2024-03-04
+Thomas Reed;1602;Customer Support;5;Low;Done;Recruitment & Mobility;2024-08-01;2024-08-02;2024-08-03
+Danielle Bowers;1762;Marketing;4;Medium;To Do;Organizational Culture;2023-08-27;;
+Paul Guzman;1660;Finance;9;Medium;Pending;Health & Wellness;2024-02-07;;
+Logan Hall;1581;People;3;High;Done;Organizational Culture;2024-02-28;2024-03-11;2024-03-13
+James Bailey;1502;Engineering;6;Low;Done;Organizational Culture;2024-09-03;2024-09-04;2024-09-04
+Karen Donaldson;1510;Marketing;3;Low;Done;Employee Engagement;2023-11-20;2023-11-21;2023-11-23
+David Hunter;1174;Marketing;4;Medium;In progress;Compensation & Benefits;2024-01-07;2024-01-13;
+James Boyd;1173;Finance;4;Critical;Done;Employee Engagement;2023-03-13;2023-03-16;2023-03-16
+Heather Peterson;1590;Operations;8;Critical;Done;Employee Feedback;2023-05-16;2023-05-17;2023-05-18
+Dana Roy;1709;Marketing;10;Low;Done;Health & Wellness;2023-11-28;2023-11-29;2023-11-29
+Pamela Smith;1120;Finance;6;Critical;Done;Learning & Development;2023-08-05;2023-08-06;2023-08-07
+Jeffrey Brown;1718;People;8;Critical;Done;Organizational Culture;2023-09-06;2023-09-07;2023-09-08
+David Smith;1343;Engineering;9;High;Done;Diversity & Inclusion;2024-01-14;2024-01-18;2024-01-18
+Tammy Maynard;1756;Engineering;6;Critical;Done;Organizational Culture;2023-03-19;2023-03-20;2023-03-20
+Cody Mccarty;1748;Banking;5;Critical;Done;Health & Wellness;2023-06-19;2023-06-26;2023-06-28
+Jeffrey Miller;1528;Operations;3;Medium;Done;Employee Feedback;2023-07-31;2023-08-13;2023-08-14
+Chelsey Larson;1165;Banking;9;Low;Done;Recruitment & Mobility;2024-02-23;2024-02-25;2024-02-25
+John Mccoy;1557;Legal;8;Critical;To Do;Employee Retention;2023-12-13;;
+Gail Lewis;1419;Operations;2;High;Done;Employee Offboarding;2024-06-12;2024-06-14;2024-06-21
+Bryan Santana;1284;Finance;5;High;Done;Organizational Culture;2024-08-14;2024-08-28;2024-08-28
+Sara Marsh;1571;Legal;2;Critical;Done;Performance Management;2023-03-15;2023-03-16;2023-03-16
+Antonio Diaz;1409;People;8;Low;Done;Workplace Safety;2024-05-04;2024-05-05;2024-05-06
+Michael Villa;1613;Marketing;6;Critical;Done;Learning & Development;2024-03-25;2024-04-03;2024-04-04
+Tonya Andrews;1736;Customer Support;9;Critical;Done;Recruitment & Mobility;2024-02-03;2024-02-05;2024-02-06
+Donna Green;1360;Customer Support;2;Critical;Done;Workplace Safety;2024-12-13;2024-12-17;2024-12-23
+Alyssa Patton;1717;People;8;Low;Done;Compensation & Benefits;2024-01-16;2024-01-19;2024-01-19
+Justin Steele;1092;Finance;8;Medium;Done;Employee Engagement;2024-11-13;2024-11-16;2024-11-17
+Rodney Lopez;1476;Banking;2;Low;Done;Employee Relations;2024-08-13;2024-08-14;2024-08-17
+Brian Barker;1111;Finance;1;High;Done;Recruitment & Mobility;2024-11-07;2024-11-11;2024-11-16
+Danielle Silva;1311;Operations;9;Medium;Done;Employee Offboarding;2023-03-24;2023-03-31;2023-04-07
+Lauren David;1649;Finance;2;Medium;In progress;Recruitment & Mobility;2023-02-02;2023-02-05;
+Gregory Everett;1335;Finance;6;Critical;Done;Employee Offboarding;2023-12-30;2024-01-03;2024-01-07
+Brendan Henderson;1027;Banking;2;High;Done;Employee Retention;2023-03-01;2023-03-02;2023-03-04
+Richard Young;1395;Legal;6;Medium;Waiting for customer;Workplace Safety;2023-11-21;;
+Paul Guzman;1660;Finance;9;Low;Done;Workplace Safety;2023-12-30;2024-01-03;2024-01-07
+Kathleen Coleman;1679;People;1;Critical;Done;Recruitment & Mobility;2023-09-20;2023-09-21;2023-09-23
+Betty Mooney;1529;Finance;5;Critical;Done;Employee Offboarding;2024-09-05;2024-09-08;2024-09-09
+Robin Norman;1661;Product;4;Low;Done;Compensation & Benefits;2023-02-14;2023-02-15;2023-02-16
+Nicholas Smith;1364;Engineering;5;Medium;To Do;Employee Relations;2023-11-13;;
+David Smith;1343;Engineering;9;Critical;Done;Learning & Development;2023-07-05;2023-07-18;2023-07-19
+Jeffery Gonzales;1743;Marketing;5;Critical;Done;Learning & Development;2023-01-13;2023-01-14;2023-01-14
+Cheryl Fuentes;1220;Marketing;3;High;Done;Employee Offboarding;2024-04-05;2024-04-08;2024-04-09
+Carol Butler;1777;Customer Support;3;High;Done;Recruitment & Mobility;2024-03-29;2024-04-05;2024-04-07
+Justin Steele;1092;Finance;8;Medium;Done;Health & Wellness;2024-09-02;2024-09-03;2024-09-05
+Denise Kane;1644;Operations;3;High;Done;Career Development;2024-05-11;2024-05-12;2024-05-12
+Aaron Goodwin;1412;Customer Support;7;Critical;Done;Employee Retention;2023-08-20;2023-08-22;2023-08-28
+Crystal Butler;1000;Legal;5;High;Done;Organizational Culture;2024-02-10;2024-02-11;2024-02-11
+Tara Waters;1169;Finance;6;Medium;Pending;Diversity & Inclusion;2023-05-01;;
+Justin Fuller;1295;Legal;2;High;Pending;Recruitment & Mobility;2023-01-18;;
+Eric Berger;1596;Engineering;4;Medium;Done;Workplace Safety;2024-12-02;2024-12-09;2024-12-09
+Eduardo Spencer;1400;Legal;3;High;Done;Health & Wellness;2023-12-07;2023-12-09;2023-12-14
+Bridget Walker;1176;People;5;Critical;Done;Employee Engagement;2024-03-06;2024-03-08;2024-03-08
+Jennifer Martin;1763;Product;2;Medium;Done;Employee Engagement;2024-07-29;2024-08-03;2024-08-05
+Andrew Webb;1374;Operations;3;Medium;Done;Learning & Development;2024-10-11;2024-10-12;2024-10-12
+Allison Brown;1488;People;6;Low;Done;Employee Offboarding;2023-04-28;2023-04-29;2023-04-29
+Ana Harper;1256;Banking;2;Medium;Pending;Career Development;2023-05-06;;
+Crystal Medina;1272;Operations;7;Critical;Done;Workplace Safety;2024-06-26;2024-07-03;2024-07-03
+James Weiss;1269;Customer Support;7;Medium;Done;Diversity & Inclusion;2024-05-23;2024-05-30;2024-05-30
+Julie Jimenez;1752;Finance;5;Medium;Done;Employee Engagement;2024-10-01;2024-10-02;2024-10-04
+Trevor Ross;1264;Customer Support;7;Medium;In progress;Health & Wellness;2023-04-28;2023-05-02;
+Michelle Cunningham;1659;Marketing;9;Low;In progress;Employee Retention;2023-05-06;2023-05-12;
+Tami Bates;1039;Customer Support;5;Medium;Done;Compensation & Benefits;2024-06-23;2024-06-26;2024-06-26
+Amy Dixon;1665;People;6;High;Done;Employee Engagement;2023-06-18;2023-06-25;2023-06-25
+Chase Johns;1355;Finance;1;Low;Done;Performance Management;2024-04-12;2024-04-22;2024-04-22
+Christina Brown;1630;People;3;Medium;Done;Career Development;2024-02-11;2024-02-13;2024-02-14
+Carl Brown;1132;Finance;9;Medium;Waiting for customer;Organizational Culture;2024-04-30;;
+Patricia Pierce;1791;Marketing;8;Low;Done;Employee Feedback;2023-12-24;2023-12-26;2023-12-26
+Susan Mccall;1457;Legal;2;Medium;Done;Employee Engagement;2023-02-01;2023-02-05;2023-02-05
+Scott Wallace;1451;Operations;8;Low;Done;Compensation & Benefits;2023-05-02;2023-05-05;2023-05-10
+Tara Waters;1169;Finance;6;Critical;Done;Organizational Culture;2024-06-28;2024-06-29;2024-06-30
+Sarah Massey;1309;Banking;2;High;Pending;Career Development;2023-11-19;;
+Lauren Long;1410;Engineering;2;Low;Done;Employee Offboarding;2024-02-26;2024-02-27;2024-03-01
+Joseph Johnson;1783;Engineering;7;High;Done;Employee Retention;2023-11-18;2023-11-21;2023-11-21
+Ronald Carlson;1689;Engineering;9;Medium;Done;Career Development;2024-03-21;2024-03-22;2024-03-31
+James Rodriguez;1371;Banking;10;Critical;Done;Onboarding;2023-08-30;2023-09-05;2023-09-13
+Russell Mahoney;1584;People;3;High;Done;Performance Management;2024-01-17;2024-01-20;2024-01-20
+Cole Fisher;1041;People;7;High;Done;Employee Retention;2024-07-05;2024-07-09;2024-07-15
+Arthur Montoya;1289;Finance;8;Medium;Waiting for customer;Diversity & Inclusion;2023-02-12;;
+James Lopez;1046;Product;10;Medium;Done;Employee Feedback;2023-04-12;2023-04-16;2023-04-16
+Julie Harris;1708;Finance;7;Medium;Pending;Learning & Development;2024-02-09;;
+Curtis Patel;1088;Product;4;Critical;Done;Organizational Culture;2023-05-31;2023-06-04;2023-06-04
+Gregory Everett;1335;Finance;6;Medium;Done;Recruitment & Mobility;2023-09-11;2023-09-13;2023-09-15
+Cameron Barton;1603;Customer Support;4;Critical;Done;Onboarding;2024-07-15;2024-07-17;2024-07-18
+Crystal Martinez;1694;Marketing;4;Medium;Done;Employee Retention;2024-02-21;2024-02-27;2024-03-01
+Michael Smith;1631;People;8;Critical;Done;Workplace Safety;2023-06-25;2023-06-26;2023-06-27
+Michael Rodriguez;1072;Finance;2;Medium;To Do;Career Development;2024-02-18;;
+Jennifer Sanchez;1745;Finance;9;Critical;Done;Organizational Culture;2023-07-29;2023-07-30;2023-07-30
+Robin Day;1650;Marketing;9;Medium;Done;Workplace Safety;2024-03-28;2024-03-29;2024-03-31
+Kimberly Peters;1182;Legal;4;Critical;Done;Recruitment & Mobility;2023-03-15;2023-03-16;2023-03-16
+Ashley Mooney;1153;Operations;2;Medium;Done;Recruitment & Mobility;2024-08-20;2024-08-22;2024-08-22
+Scott White;1077;Finance;6;High;Pending;Employee Feedback;2024-04-10;;
+Tanya Boyd;1384;Customer Support;4;Critical;Done;Employee Engagement;2024-04-25;2024-04-29;2024-05-05
+Colton Cowan;1211;Operations;2;Medium;Done;Employee Engagement;2023-04-16;2023-04-17;2023-04-17
+Susan Le;1055;Banking;9;Medium;In progress;Learning & Development;2024-04-04;2024-04-11;
+Devin Williams;1246;Banking;5;Critical;Done;Workplace Safety;2024-03-05;2024-03-07;2024-03-14
+Christina Stuart;1299;Customer Support;10;Low;To Do;Workplace Safety;2024-07-31;;
+Dana Roy;1709;Marketing;10;High;Done;Employee Feedback;2023-10-06;2023-10-10;2023-10-10
+Jose Phillips;1657;People;7;Critical;Done;Employee Relations;2024-03-22;2024-03-24;2024-03-30
+Matthew Tucker;1396;Finance;7;Medium;Done;Compensation & Benefits;2023-11-29;2023-12-08;2023-12-13
+Brooke Riley;1427;Legal;4;High;Waiting for customer;Performance Management;2023-05-25;;
+Lauren David;1649;Finance;2;Critical;Done;Employee Offboarding;2024-02-18;2024-02-19;2024-02-19
+Richard Waters;1016;Operations;3;Critical;Done;Employee Engagement;2023-08-30;2023-09-02;2023-09-09
+Scott Butler;1663;Banking;4;High;Waiting for customer;Learning & Development;2023-10-11;;
+Andrew Webb;1374;Operations;3;Low;Done;Career Development;2023-03-06;2023-03-07;2023-03-09
+Nichole Adkins;1567;Marketing;4;High;Pending;Employee Relations;2023-01-28;;
+Allen Fuller;1054;Marketing;10;Medium;Done;Employee Feedback;2024-12-07;2024-12-10;2024-12-10
+Laura Anderson;1043;Legal;2;Medium;Done;Learning & Development;2023-06-21;2023-06-23;2023-06-29
+Randall Wu;1551;Finance;2;Critical;Done;Onboarding;2024-12-26;2025-01-03;2025-01-03
+Nancy Odonnell;1118;Engineering;4;High;Done;Compensation & Benefits;2024-08-28;2024-08-29;2024-09-06
+Jason Christian;1223;Engineering;7;High;Done;Organizational Culture;2023-02-03;2023-02-05;2023-02-06
+Emily Mooney;1302;Product;4;Medium;Done;Learning & Development;2023-12-17;2023-12-18;2023-12-18
+Michelle Walker;1300;Product;4;Critical;Done;Employee Feedback;2024-12-25;2024-12-27;2024-12-27
+Joseph Shepard;1194;Marketing;6;Medium;Done;Health & Wellness;2023-07-09;2023-07-10;2023-07-10
+Maurice Caldwell;1447;Marketing;3;Medium;Done;Onboarding;2024-03-30;2024-03-31;2024-04-08
+Nathaniel Fuentes;1746;Finance;9;Critical;Done;Learning & Development;2024-04-24;2024-04-25;2024-04-25
+Grace Jones;1329;Finance;4;High;Done;Employee Retention;2023-07-16;2023-07-25;2023-07-25
+Carla Daniels;1604;Customer Support;4;Medium;Done;Employee Engagement;2023-09-13;2023-09-15;2023-09-15
+Ryan Perez;1100;Marketing;5;High;Done;Employee Feedback;2023-08-02;2023-08-04;2023-08-04
+Vanessa Cruz;1383;Finance;7;Medium;In progress;Employee Relations;2024-11-07;2024-11-09;
+Melissa Jenkins;1056;Engineering;5;Critical;Done;Compensation & Benefits;2024-12-18;2024-12-21;2024-12-21
+Matthew Hunt;1126;People;4;Medium;To Do;Performance Management;2024-10-29;;
+Shari Johnson;1125;Legal;1;High;Done;Employee Engagement;2023-10-04;2023-10-14;2023-10-18
+Dale Moyer;1029;Customer Support;5;High;Waiting for customer;Employee Retention;2024-10-05;;
+Brenda Flowers;1201;People;8;Medium;Done;Career Development;2023-03-18;2023-03-19;2023-03-19
+Julia Gonzalez;1536;Operations;6;Low;Done;Onboarding;2023-04-06;2023-04-08;2023-04-09
+Amanda Gutierrez;1470;People;5;Critical;Done;Employee Engagement;2023-01-21;2023-01-22;2023-01-22
+Frank Peterson;1560;People;3;High;Waiting for customer;Organizational Culture;2023-04-10;;
+Ryan Williams;1700;Operations;8;High;Done;Learning & Development;2023-10-17;2023-10-18;2023-10-19
+Ian Perkins;1291;Legal;5;High;Done;Organizational Culture;2024-06-22;2024-06-24;2024-06-24
+Sara Marsh;1571;Legal;2;Medium;Pending;Onboarding;2024-05-26;;
+Steven Turner;1771;Operations;4;High;Done;Employee Feedback;2023-10-21;2023-10-23;2023-10-24
+Aaron Goodwin;1412;Customer Support;7;High;Done;Compensation & Benefits;2023-08-18;2023-08-20;2023-08-21
+Haley Zavala;1038;Engineering;4;High;Done;Employee Feedback;2023-01-27;2023-02-05;2023-02-05
+Kristen Smith;1080;Product;4;Low;Done;Onboarding;2023-10-30;2023-11-01;2023-11-02
+Michael Hicks;1471;People;4;Low;Done;Employee Engagement;2024-06-09;2024-06-13;2024-06-19
+Brian Snyder;1134;Operations;3;Medium;Done;Employee Offboarding;2024-05-07;2024-05-08;2024-05-08
+Whitney Moody;1466;Customer Support;5;High;Done;Diversity & Inclusion;2023-04-30;2023-05-01;2023-05-04
+Justin Fuller;1295;Legal;2;Low;Done;Onboarding;2024-02-05;2024-02-06;2024-02-07
+Kimberly West;1742;Customer Support;4;High;Waiting for customer;Performance Management;2023-08-14;;
+Randy Hoffman;1063;Finance;4;High;Done;Diversity & Inclusion;2024-01-08;2024-01-22;2024-01-22
+Jennifer Pacheco;1575;Banking;9;Medium;To Do;Workplace Safety;2023-03-20;;
+Faith Maxwell;1171;People;6;Medium;Done;Employee Engagement;2023-06-22;2023-06-24;2023-06-25
+Mary Gross;1062;Operations;10;Medium;Done;Employee Offboarding;2024-01-31;2024-02-04;2024-02-04
+Tyrone Beard;1042;Customer Support;6;High;Pending;Employee Retention;2024-04-22;;
+Chris Browning;1703;People;8;High;Done;Employee Relations;2023-04-26;2023-04-29;2023-05-10
+Mary Ramirez;1740;Engineering;5;Critical;Done;Career Development;2024-10-17;2024-10-20;2024-10-20
+Jocelyn Weiss;1636;Legal;9;Critical;Done;Performance Management;2024-06-09;2024-06-10;2024-06-23
+Patricia Wright;1404;Finance;1;High;In progress;Recruitment & Mobility;2023-12-02;2023-12-09;
+Larry Stewart;1749;Engineering;2;High;In progress;Workplace Safety;2024-03-29;2024-04-02;
+Robert Foster;1598;Operations;4;Medium;Done;Employee Engagement;2024-02-05;2024-02-08;2024-02-08
+John Peterson;1403;Marketing;1;Critical;Pending;Compensation & Benefits;2023-10-09;;
+Mary Gross;1062;Operations;10;High;Done;Compensation & Benefits;2023-07-06;2023-07-09;2023-07-09
+Jeffrey Nelson;1639;Operations;1;Critical;Done;Employee Engagement;2023-12-13;2023-12-15;2023-12-16
+Danielle Bowers;1762;Marketing;4;High;Done;Diversity & Inclusion;2024-10-31;2024-11-08;2024-11-10
+Daniel Price;1523;Customer Support;10;Low;Done;Health & Wellness;2024-05-24;2024-05-25;2024-05-25
+Mark Garcia;1770;Engineering;9;Critical;Done;Health & Wellness;2024-10-22;2024-10-23;2024-10-23
+Charles Beltran;1135;Engineering;5;Low;Done;Onboarding;2024-11-10;2024-11-11;2024-11-11
+Matthew Tucker;1396;Finance;7;High;Done;Employee Relations;2024-11-03;2024-11-05;2024-11-05
+Mary Gross;1062;Operations;10;Critical;To Do;Compensation & Benefits;2023-06-10;;
+Emma Jordan;1550;Marketing;5;High;Pending;Recruitment & Mobility;2024-04-09;;
+Sarah Salazar;1673;Legal;4;Medium;Done;Learning & Development;2024-09-15;2024-09-16;2024-09-17
+Andrew Webb;1374;Operations;3;Medium;Pending;Employee Offboarding;2023-03-31;;
+Alyssa Patton;1717;People;8;Low;Done;Employee Offboarding;2023-10-22;2023-10-25;2023-10-26
+Daniel Thomas;1482;Legal;7;Low;Done;Employee Retention;2024-07-29;2024-07-30;2024-07-30
+David Santana;1167;Banking;8;High;Done;Employee Relations;2024-03-05;2024-03-14;2024-03-14
+Christina Brown;1630;People;3;High;Done;Onboarding;2024-06-24;2024-06-27;2024-06-27
+Tammy Fletcher;1599;Product;5;Critical;Done;Diversity & Inclusion;2024-02-06;2024-02-12;2024-02-15
+Jonathan Cooper;1481;People;9;Low;Done;Recruitment & Mobility;2024-09-02;2024-09-06;2024-09-06
+Joseph Torres;1240;Customer Support;3;Critical;Done;Performance Management;2024-07-05;2024-07-06;2024-07-06
+William Wood;1323;People;3;Medium;Done;Onboarding;2024-07-05;2024-07-07;2024-07-07
+David Hunter;1174;Marketing;4;Low;Done;Employee Retention;2024-01-23;2024-01-24;2024-01-27
+Jeffrey Miller;1528;Operations;3;High;Done;Employee Feedback;2024-02-06;2024-02-14;2024-02-14
+Brandy Romero;1617;Customer Support;7;High;Done;Recruitment & Mobility;2023-06-05;2023-06-12;2023-06-19
+Tami Morgan;1083;Engineering;4;Medium;Done;Compensation & Benefits;2024-09-05;2024-09-07;2024-09-08
+Ashley Forbes;1725;Customer Support;4;High;Done;Employee Offboarding;2024-03-31;2024-04-02;2024-04-02
+James Hardy;1344;Product;2;Medium;Done;Employee Offboarding;2024-08-10;2024-08-11;2024-08-13
+Cameron Barton;1603;Customer Support;4;Low;Done;Compensation & Benefits;2023-06-16;2023-06-17;2023-06-19
+Danny Larsen;1737;Customer Support;2;Low;Done;Onboarding;2024-08-11;2024-08-12;2024-08-12
+Kimberly Scott;1662;Engineering;2;Low;Done;Career Development;2024-04-05;2024-04-08;2024-04-08
+Raymond Vargas;1347;Product;4;Critical;Done;Recruitment & Mobility;2024-06-17;2024-06-18;2024-06-26
+Edward Buck;1357;Banking;4;Critical;Done;Performance Management;2024-01-28;2024-01-29;2024-01-29
+Lori Wilson;1102;Legal;7;Critical;In progress;Employee Relations;2023-08-21;2023-08-26;
+Colton Cowan;1211;Operations;2;High;Done;Learning & Development;2023-12-12;2023-12-14;2023-12-14
+Luis Ewing;1707;Engineering;10;Low;Done;Compensation & Benefits;2023-03-25;2023-03-26;2023-03-28
+Matthew Hunt;1126;People;4;Low;Done;Diversity & Inclusion;2023-10-20;2023-10-23;2023-10-23
+Randall Wells;1464;Customer Support;2;High;Done;Employee Feedback;2023-06-15;2023-06-16;2023-06-16
+Kathleen Coleman;1679;People;1;Critical;Done;Recruitment & Mobility;2023-08-17;2023-08-19;2023-08-19
+Jeffrey Clark;1259;Legal;6;High;Done;Employee Retention;2024-09-17;2024-09-20;2024-10-01
+Peggy Miller;1073;Operations;2;Medium;Done;Learning & Development;2024-02-28;2024-02-29;2024-03-01
+Jacob Carey;1330;Legal;5;High;Done;Compensation & Benefits;2023-05-14;2023-05-15;2023-05-15
+James Ryan;1095;Legal;4;Critical;Done;Employee Retention;2023-02-23;2023-03-01;2023-03-02
+Joshua Peterson;1319;Product;6;Low;Done;Workplace Safety;2024-09-16;2024-09-19;2024-09-20
+Tim Rice;1150;Engineering;5;Medium;Done;Learning & Development;2024-10-22;2024-10-24;2024-11-01
+Ashlee Proctor;1676;Finance;4;Critical;Done;Recruitment & Mobility;2024-08-31;2024-09-05;2024-09-09
+Michael Vargas;1497;Legal;2;Low;Done;Workplace Safety;2023-11-08;2023-11-13;2023-11-15
+Whitney Moody;1466;Customer Support;5;Low;Done;Diversity & Inclusion;2024-09-05;2024-09-15;2024-09-19
+Tara Waters;1169;Finance;6;Low;Done;Career Development;2023-01-19;2023-01-24;2023-01-28
+Patricia Wright;1404;Finance;1;Low;Done;Workplace Safety;2024-04-22;2024-04-23;2024-04-24
+Brian White;1181;Marketing;3;Low;Done;Compensation & Benefits;2024-02-28;2024-03-11;2024-03-13
+Jeffery Gonzales;1743;Marketing;5;Low;Done;Employee Offboarding;2024-06-03;2024-06-10;2024-06-10
+Stephen Mcdonald;1156;Finance;3;Critical;Pending;Health & Wellness;2023-06-18;;
+Michael Rogers;1215;Operations;3;High;Done;Employee Feedback;2024-10-15;2024-10-19;2024-10-19
+Douglas Johnson;1304;Legal;7;Critical;Done;Employee Relations;2024-06-09;2024-06-16;2024-06-18
+Curtis Patel;1088;Product;4;Critical;Done;Health & Wellness;2024-05-16;2024-05-20;2024-05-20
+Steven Escobar;1179;People;6;Low;Done;Diversity & Inclusion;2024-10-13;2024-10-15;2024-10-16
+Tyler Booth;1061;Legal;3;Critical;Done;Learning & Development;2024-10-31;2024-11-01;2024-11-04
+Tammy Mitchell;1393;Marketing;10;Medium;Done;Employee Feedback;2024-04-26;2024-04-28;2024-05-03
+Michelle Schwartz;1178;Marketing;8;High;Done;Learning & Development;2024-03-01;2024-03-03;2024-03-03
+Julie Harris;1708;Finance;7;Critical;Done;Employee Relations;2023-05-07;2023-05-14;2023-05-14
+Mathew Bush;1586;Engineering;7;Medium;Done;Onboarding;2024-01-28;2024-01-29;2024-02-11
+Valerie Pearson;1024;Marketing;7;Low;Done;Workplace Safety;2024-01-29;2024-01-30;2024-01-30
+Tyler Booth;1061;Legal;3;Medium;In progress;Diversity & Inclusion;2023-12-08;2023-12-11;
+Sandra Rangel;1162;Banking;4;Critical;Waiting for customer;Employee Relations;2023-08-20;;
+Alexis Davis;1131;Legal;3;High;Done;Employee Relations;2024-11-15;2024-11-16;2024-11-16
+Karen Donaldson;1510;Marketing;3;Medium;Done;Employee Retention;2023-02-26;2023-03-10;2023-03-12
+Paul Guzman;1660;Finance;9;High;Done;Employee Retention;2023-06-25;2023-06-27;2023-06-27
+Shawn Hanson;1653;People;10;Critical;Done;Compensation & Benefits;2024-07-04;2024-07-05;2024-07-05
+Tanya Boyd;1384;Customer Support;4;Low;Done;Employee Feedback;2024-12-11;2024-12-12;2024-12-13
+Melissa Smith;1688;Customer Support;8;Medium;Done;Workplace Safety;2024-07-25;2024-07-26;2024-07-27
+Kenneth Pittman;1228;Banking;3;Medium;Done;Health & Wellness;2024-08-05;2024-08-06;2024-08-07
+Alyssa Petty;1003;Customer Support;1;Low;Done;Employee Feedback;2023-04-10;2023-04-15;2023-04-19
+Rebecca Bell;1787;People;10;Low;Done;Employee Relations;2024-04-29;2024-05-02;2024-05-13
+Joseph Torres;1240;Customer Support;3;Critical;Done;Learning & Development;2024-07-19;2024-07-28;2024-08-02
+Joseph Roach;1565;Operations;2;Critical;Waiting for customer;Compensation & Benefits;2024-03-13;;
+Donald Johnson;1033;Marketing;6;Low;Done;Organizational Culture;2023-03-06;2023-03-09;2023-03-15
+David Perkins;1019;Marketing;4;Critical;Done;Compensation & Benefits;2023-01-23;2023-01-25;2023-01-26
+Patricia Taylor;1385;Finance;9;Critical;Done;Recruitment & Mobility;2023-05-21;2023-05-22;2023-05-22
+Jennifer Martin;1763;Product;2;Medium;To Do;Employee Relations;2023-03-28;;
+Laura Pham;1715;Engineering;5;High;Waiting for customer;Workplace Safety;2024-05-12;;
+Derek Sanchez;1069;Legal;5;Critical;Pending;Health & Wellness;2024-10-30;;
+Philip Sandoval;1779;Engineering;4;Critical;Done;Recruitment & Mobility;2024-08-24;2024-08-27;2024-08-31
+Julia Gonzales;1594;Legal;10;Medium;Done;Organizational Culture;2024-06-26;2024-06-30;2024-06-30
+Michael Adams;1503;Legal;6;Medium;Done;Career Development;2024-10-23;2024-10-24;2024-10-25
+Amanda Duncan;1257;Engineering;5;Critical;Done;Employee Offboarding;2024-11-21;2024-11-23;2024-11-24
+John Hudson;1678;People;2;High;Done;Recruitment & Mobility;2024-08-20;2024-08-27;2024-08-28
+Kristen Smith;1080;Product;4;Critical;In progress;Performance Management;2024-08-30;2024-09-02;
+Stephanie Armstrong;1252;Legal;5;Low;Done;Employee Engagement;2023-06-09;2023-06-17;2023-06-18
+Kimberly Peters;1182;Legal;4;Critical;Done;Employee Retention;2023-11-12;2023-11-13;2023-11-14
+Carl Schneider;1333;Finance;6;Low;Done;Employee Engagement;2023-03-05;2023-03-19;2023-03-19
+Sean Peters;1032;Banking;7;High;Done;Compensation & Benefits;2023-01-06;2023-01-10;2023-01-13
+Brian Leach;1058;Banking;9;Critical;Done;Employee Offboarding;2024-09-15;2024-09-16;2024-09-18
+David Diaz;1293;Legal;7;Medium;Done;Career Development;2023-02-10;2023-02-12;2023-02-12
+Denise Sutton;1004;Finance;5;Medium;Done;Employee Relations;2023-01-13;2023-01-15;2023-01-17
+Jennifer Martinez;1507;Product;10;Medium;Done;Compensation & Benefits;2023-07-25;2023-08-05;2023-08-08
+Melissa Schwartz;1138;Marketing;3;Critical;Done;Onboarding;2023-07-24;2023-07-31;2023-08-01
+Patricia Gibson;1277;Marketing;7;High;Pending;Employee Feedback;2024-05-18;;
+Darrell Reeves;1372;Legal;9;Low;Done;Employee Relations;2024-08-25;2024-08-26;2024-08-27
+Justin Whitney;1341;Banking;8;Medium;Done;Career Development;2024-06-30;2024-07-01;2024-07-08
+Debbie Haynes;1491;Legal;8;Critical;In progress;Organizational Culture;2023-11-01;2023-11-08;
+Michelle Walker;1300;Product;4;High;Done;Career Development;2024-08-03;2024-08-04;2024-08-04
+Brittany Rollins;1692;Product;1;High;Done;Workplace Safety;2024-06-18;2024-06-24;2024-06-26
+Miranda Cooper;1130;Marketing;2;Medium;Done;Performance Management;2024-09-02;2024-09-05;2024-09-06
+Tyrone Beard;1042;Customer Support;6;Low;Done;Compensation & Benefits;2023-01-26;2023-01-30;2023-02-02
+Stephanie Romero;1460;Banking;6;High;Done;Employee Engagement;2023-11-22;2023-11-24;2023-11-24
+Christina Young;1513;Engineering;2;Low;Done;Employee Relations;2023-03-04;2023-03-06;2023-03-06
+Brittany Rollins;1692;Product;1;Low;Done;Career Development;2024-08-14;2024-08-15;2024-08-17
+Thomas Schultz;1701;Banking;4;High;Done;Performance Management;2023-09-25;2023-09-26;2023-09-27
+Tracy Martinez;1382;Engineering;8;Medium;Done;Compensation & Benefits;2023-06-13;2023-06-18;2023-06-20
+Kathy Ramos;1375;Operations;8;Low;Done;Performance Management;2024-11-30;2024-12-01;2024-12-01
+Stacy Knox;1574;Marketing;2;Low;Done;Employee Retention;2024-12-05;2024-12-06;2024-12-08
+Jonathan Russo;1327;Finance;7;Low;Done;Workplace Safety;2023-05-06;2023-05-07;2023-05-08
+Jocelyn Weiss;1636;Legal;9;High;Done;Career Development;2023-10-29;2023-11-03;2023-11-06
+Joseph Wallace;1172;Engineering;8;High;Done;Health & Wellness;2023-11-23;2023-12-06;2023-12-07
+Marie Ramsey;1070;Legal;1;Medium;Done;Workplace Safety;2023-12-13;2023-12-23;2023-12-27
+Lauren Mcintosh;1669;Marketing;7;Low;Done;Onboarding;2023-03-08;2023-03-10;2023-03-22
+Sean Peters;1032;Banking;7;High;Done;Career Development;2024-05-13;2024-05-15;2024-05-27
+Jay Brooks;1342;Engineering;8;High;Done;Diversity & Inclusion;2023-11-15;2023-11-28;2023-11-29
+Amanda Andrade;1013;Marketing;7;Low;Waiting for customer;Onboarding;2023-03-30;;
+Jeffery Gonzales;1743;Marketing;5;Low;Done;Employee Engagement;2023-05-31;2023-06-06;2023-06-07
+Andrew Webb;1374;Operations;3;Critical;Done;Recruitment & Mobility;2023-04-23;2023-04-26;2023-04-27
+Melissa Cherry;1189;Operations;4;Medium;Done;Learning & Development;2024-12-04;2024-12-11;2024-12-14
+Lauren Long;1410;Engineering;2;Medium;Waiting for customer;Employee Engagement;2023-08-01;;
+Leslie Hurley;1149;People;4;Medium;Done;Workplace Safety;2023-10-20;2023-10-21;2023-10-24
+Brittany Rollins;1692;Product;1;Low;Done;Learning & Development;2024-05-21;2024-05-22;2024-06-04
+Lori Sullivan;1320;Banking;9;Medium;Pending;Employee Retention;2024-02-23;;
+James Eaton;1641;Product;7;Medium;Done;Employee Offboarding;2023-02-06;2023-02-12;2023-02-14
+Patricia Gibson;1277;Marketing;7;Low;Done;Employee Offboarding;2023-04-08;2023-04-17;2023-04-22
+Cathy Stokes;1516;People;6;Critical;Done;Organizational Culture;2023-04-23;2023-04-30;2023-05-01
+Jennifer Bray;1356;People;1;Low;Done;Employee Feedback;2024-11-03;2024-11-05;2024-11-07
+Caitlin Gray;1368;Product;4;High;Done;Employee Offboarding;2023-09-17;2023-09-19;2023-10-01
+Mary Gross;1062;Operations;10;Critical;Done;Employee Retention;2024-10-28;2024-10-29;2024-11-04
+Julie Harris;1708;Finance;7;High;Done;Diversity & Inclusion;2023-06-11;2023-06-13;2023-06-14
+Robert Foster;1598;Operations;4;Critical;To Do;Employee Offboarding;2024-08-23;;
+Brandy Parrish;1572;Legal;8;High;Done;Onboarding;2023-05-10;2023-05-12;2023-05-14
+David Thompson;1350;People;10;Low;In progress;Workplace Safety;2023-03-19;2023-03-24;
+Alan Hendricks;1723;People;5;Low;Done;Performance Management;2024-05-17;2024-05-20;2024-05-24
+Randall Pierce;1527;People;7;Medium;Waiting for customer;Employee Retention;2024-09-28;;
+Thomas Schultz;1701;Banking;4;Critical;Done;Diversity & Inclusion;2023-06-05;2023-06-07;2023-06-08
+Wendy Campbell;1394;Operations;8;High;Done;Workplace Safety;2023-11-23;2023-11-26;2023-11-26
+Anita Thompson;1324;Product;4;Medium;Done;Health & Wellness;2023-01-19;2023-01-24;2023-01-27
+Melissa Jenkins;1056;Engineering;5;Medium;Done;Employee Feedback;2023-09-12;2023-09-19;2023-09-21
+Jerry Marshall;1589;Legal;9;High;To Do;Employee Relations;2024-01-25;;
+David Smith;1343;Engineering;9;Low;To Do;Compensation & Benefits;2024-09-23;;
+Jay Gray;1720;Marketing;6;High;Done;Health & Wellness;2023-06-06;2023-06-09;2023-06-09
+Frank Peterson;1560;People;3;Low;Done;Diversity & Inclusion;2023-03-23;2023-03-24;2023-03-26
+Mike Taylor;1710;Banking;5;Low;Done;Career Development;2023-01-31;2023-02-05;2023-02-07
+Chris Browning;1703;People;8;Critical;Waiting for customer;Employee Engagement;2023-04-29;;
+Lindsey Bolton;1050;Engineering;3;Critical;Done;Career Development;2023-10-08;2023-10-09;2023-10-10
+Frank Rivera;1260;Operations;8;Critical;To Do;Performance Management;2023-09-02;;
+Daniel Campbell;1695;Customer Support;10;High;Done;Recruitment & Mobility;2024-12-27;2024-12-30;2024-12-31
+Sarah Bates;1219;Engineering;8;Low;In progress;Workplace Safety;2024-05-07;2024-05-09;
+Emily Wilson;1738;Banking;8;Medium;Pending;Career Development;2023-11-25;;
+Michael Suarez;1312;Engineering;3;Critical;Pending;Employee Retention;2023-07-06;;
+Brenda Pham;1713;Product;3;High;Pending;Performance Management;2023-04-11;;
+Grace Clark;1093;People;8;Critical;To Do;Onboarding;2024-11-12;;
+Kevin Nguyen;1677;Banking;8;Low;Waiting for customer;Compensation & Benefits;2024-03-04;;
+Kathy Ramos;1375;Operations;8;High;Done;Career Development;2024-06-26;2024-06-27;2024-06-29
+Melissa Wallace;1614;Finance;5;Low;Done;Career Development;2023-08-03;2023-08-04;2023-08-12
+Timothy Maxwell;1227;Product;4;Critical;Done;Recruitment & Mobility;2024-09-08;2024-09-09;2024-09-10
+Christine Salinas;1714;Product;3;High;Done;Compensation & Benefits;2024-01-31;2024-02-06;2024-02-07
+Crystal Lee;1591;Product;4;High;Done;Recruitment & Mobility;2024-09-19;2024-09-22;2024-09-22
+Cameron Jones;1711;People;7;High;In progress;Career Development;2023-03-14;2023-03-17;
+Erin White;1793;Marketing;8;High;Done;Employee Retention;2024-08-09;2024-08-10;2024-08-18
+Timothy Owens;1051;Banking;6;Medium;Done;Employee Relations;2023-06-17;2023-06-23;2023-07-01
+Scott Gonzalez;1643;Legal;3;Critical;Done;Employee Relations;2023-12-20;2023-12-27;2023-12-28
+Daniel Harris;1761;Operations;1;Low;In progress;Health & Wellness;2023-06-27;2023-07-04;
+Laura Mejia;1168;Finance;9;High;Done;Employee Relations;2023-10-22;2023-10-25;2023-10-25
+Douglas Johnson;1304;Legal;7;Low;Done;Health & Wellness;2023-12-27;2023-12-31;2023-12-31
+Danielle Bowers;1762;Marketing;4;Low;Waiting for customer;Health & Wellness;2023-07-14;;
+Matthew Jacobs;1117;People;6;High;Done;Diversity & Inclusion;2024-07-27;2024-07-29;2024-07-29
+Stephanie Patterson;1496;Customer Support;5;Medium;Done;Employee Offboarding;2023-11-23;2023-11-28;2023-12-02
+Danielle Silva;1311;Operations;9;High;Done;Employee Relations;2023-11-08;2023-11-17;2023-11-18
+Emily Mooney;1302;Product;4;Low;Done;Career Development;2023-12-20;2023-12-22;2023-12-27
+Patrick Dawson;1735;Banking;5;Critical;Pending;Workplace Safety;2023-01-26;;
+Ryan Perez;1100;Marketing;5;Low;Done;Compensation & Benefits;2023-10-28;2023-10-30;2023-11-06
+Alexander Hughes;1702;Operations;3;Medium;To Do;Health & Wellness;2023-08-30;;
+Breanna Douglas;1430;Legal;3;High;Done;Employee Feedback;2024-01-14;2024-01-20;2024-01-28
+Amanda Caldwell;1230;People;1;Critical;Waiting for customer;Performance Management;2023-10-01;;
+Larry Stewart;1749;Engineering;2;High;Done;Workplace Safety;2023-10-28;2023-10-29;2023-11-07
+Russell Mahoney;1584;People;3;Critical;Done;Employee Offboarding;2023-04-09;2023-04-10;2023-04-10
+Reginald Brown;1207;Operations;8;Medium;Waiting for customer;Employee Offboarding;2024-05-28;;
+Kathleen Smith;1796;Product;4;Medium;Done;Learning & Development;2023-07-03;2023-07-04;2023-07-07
+John Berger;1152;Legal;4;Medium;Done;Diversity & Inclusion;2023-02-07;2023-02-11;2023-02-14
+Edward Gregory;1438;Legal;4;High;Done;Employee Offboarding;2023-06-25;2023-06-26;2023-06-26
+Tami Bates;1039;Customer Support;5;Low;Done;Learning & Development;2024-01-07;2024-01-11;2024-01-17
+Valerie Pearson;1024;Marketing;7;Critical;Done;Employee Retention;2023-08-05;2023-08-06;2023-08-06
+Karen Donaldson;1510;Marketing;3;Critical;Done;Workplace Safety;2023-07-06;2023-07-09;2023-07-10
+Matthew Jacobs;1117;People;6;Critical;Done;Career Development;2024-11-10;2024-11-16;2024-11-17
+Timothy Maxwell;1227;Product;4;Low;Done;Employee Retention;2023-06-14;2023-06-16;2023-06-16
+Dana Roy;1709;Marketing;10;Medium;Done;Health & Wellness;2024-12-13;2024-12-14;2024-12-14
+Emily Mooney;1302;Product;4;Critical;Done;Diversity & Inclusion;2024-03-11;2024-03-12;2024-03-15
+Alexandra Hansen;1099;Engineering;4;High;Done;Learning & Development;2023-05-08;2023-05-10;2023-05-10
+Joseph Liu;1415;Customer Support;10;Low;Done;Organizational Culture;2023-09-13;2023-09-14;2023-09-14
+Kyle Rivera;1276;Product;5;Critical;Done;Organizational Culture;2024-03-23;2024-03-26;2024-03-30
+Julie Johnson;1459;Operations;10;Critical;Done;Performance Management;2023-04-25;2023-05-02;2023-05-02
+Jesse Miller;1683;Product;2;Critical;Done;Compensation & Benefits;2023-07-01;2023-07-07;2023-07-10
+Daniel Campbell;1695;Customer Support;10;Critical;Done;Health & Wellness;2024-08-07;2024-08-14;2024-08-17
+Justin Whitney;1341;Banking;8;Medium;Done;Employee Engagement;2023-11-25;2023-11-27;2023-11-28
+Jacob Carey;1330;Legal;5;High;Done;Compensation & Benefits;2024-05-28;2024-05-29;2024-05-31
+Erin White;1793;Marketing;8;Medium;Done;Employee Retention;2024-04-30;2024-05-03;2024-05-03
+Leslie Roberts;1310;Legal;9;Medium;Pending;Recruitment & Mobility;2023-06-10;;
+Tina Reed;1453;Customer Support;3;Low;Done;Employee Relations;2024-01-31;2024-02-10;2024-02-10
+Michael Gilbert;1287;Operations;6;High;Done;Learning & Development;2024-11-09;2024-11-10;2024-11-10
+Julie Navarro;1786;Product;6;High;Done;Health & Wellness;2023-07-12;2023-07-13;2023-07-13
+Christopher Sims;1066;Product;3;High;Done;Learning & Development;2023-05-10;2023-05-11;2023-05-20
+Ryan Ramos;1146;Operations;9;High;Done;Employee Offboarding;2024-07-02;2024-07-05;2024-07-10
+John Cross;1133;Marketing;3;Critical;Done;Health & Wellness;2023-11-20;2023-11-21;2023-11-21
+Alan Hendricks;1723;People;5;Low;Pending;Onboarding;2023-01-15;;
+Danielle Silva;1311;Operations;9;Critical;Done;Employee Relations;2023-05-18;2023-05-27;2023-06-01
+Jessica Hernandez;1531;Product;1;Critical;Done;Compensation & Benefits;2023-08-22;2023-08-23;2023-08-31
+Susan Le;1055;Banking;9;Medium;Done;Employee Offboarding;2024-05-12;2024-05-16;2024-05-26
+Sean Peters;1032;Banking;7;Medium;Done;Employee Engagement;2024-06-12;2024-06-16;2024-06-16
+Tina Reed;1453;Customer Support;3;Low;Done;Performance Management;2024-05-04;2024-05-05;2024-05-05
+Connie Powers;1547;Customer Support;8;Medium;Done;Diversity & Inclusion;2024-07-03;2024-07-04;2024-07-04
+Kathleen Smith;1796;Product;4;Medium;Done;Recruitment & Mobility;2024-07-17;2024-07-18;2024-07-18
+Michael Rodriguez;1072;Finance;2;Low;Done;Organizational Culture;2023-10-05;2023-10-08;2023-10-08
+Jeffrey Brown;1718;People;8;High;Done;Organizational Culture;2023-09-22;2023-09-24;2023-09-24
+David Perkins;1019;Marketing;4;Medium;Done;Performance Management;2023-01-15;2023-01-17;2023-01-17
+Tammy Fletcher;1599;Product;5;Medium;Done;Onboarding;2024-02-13;2024-02-17;2024-02-17
+James Palmer;1006;Finance;3;Low;Done;Workplace Safety;2023-05-26;2023-05-29;2023-06-02
+Alan Hendricks;1723;People;5;Low;Done;Employee Retention;2024-11-25;2024-11-26;2024-11-27
+Matthew Jacobs;1117;People;6;Medium;Pending;Diversity & Inclusion;2024-02-17;;
+Jason Gutierrez;1485;Marketing;1;Medium;Done;Performance Management;2023-06-29;2023-06-30;2023-06-30
+Haley Zavala;1038;Engineering;4;High;To Do;Employee Engagement;2023-10-30;;
+Kendra Petersen;1475;Banking;3;High;Done;Compensation & Benefits;2024-02-17;2024-02-18;2024-02-20
+Maurice Caldwell;1447;Marketing;3;High;Done;Health & Wellness;2023-03-24;2023-03-25;2023-03-25
+Dana Roy;1709;Marketing;10;Medium;Done;Organizational Culture;2024-09-06;2024-09-07;2024-09-08
+Melissa Jenkins;1056;Engineering;5;Critical;Done;Onboarding;2023-01-22;2023-01-23;2023-02-05
+April Robinson;1213;Marketing;5;Critical;In progress;Career Development;2023-10-09;2023-10-14;
+Jodi Bennett;1002;Engineering;7;Critical;Done;Employee Relations;2023-11-23;2023-11-24;2023-11-24
+Arthur Beck;1011;Finance;3;Low;Done;Onboarding;2023-06-18;2023-06-23;2023-06-27
+James Smith;1456;Marketing;5;High;Done;Recruitment & Mobility;2024-10-06;2024-10-14;2024-10-20
+Christine Coleman;1634;Product;3;Low;Done;Recruitment & Mobility;2023-07-12;2023-07-20;2023-07-22
+Robert Foster;1598;Operations;4;Critical;Done;Health & Wellness;2024-09-04;2024-09-05;2024-09-06
+Angelica Johnson;1587;Customer Support;8;Critical;Done;Employee Relations;2023-04-10;2023-04-12;2023-04-24
+Angela Gallagher;1563;Marketing;10;High;Done;Employee Feedback;2024-11-19;2024-11-20;2024-11-20
+Keith Allen;1795;Operations;3;Low;Pending;Recruitment & Mobility;2024-11-24;;
+David Hunter;1174;Marketing;4;Critical;Done;Learning & Development;2023-01-16;2023-01-17;2023-01-17
+Arthur Montoya;1289;Finance;8;Medium;Waiting for customer;Diversity & Inclusion;2023-02-23;;
+Emily Wilson;1738;Banking;8;High;To Do;Employee Feedback;2024-11-10;;
+Nathaniel Fuentes;1746;Finance;9;Critical;Done;Employee Engagement;2023-12-19;2023-12-22;2023-12-27
+David Diaz;1293;Legal;7;Low;Done;Recruitment & Mobility;2024-08-19;2024-08-21;2024-08-28
+Daniel Price;1523;Customer Support;10;Critical;Done;Health & Wellness;2024-05-04;2024-05-05;2024-05-05
+Jennifer Pacheco;1575;Banking;9;Low;Waiting for customer;Performance Management;2024-10-03;;
+Patricia Gibson;1277;Marketing;7;Low;Done;Employee Offboarding;2023-06-22;2023-06-24;2023-06-25
+Ruth Gomez;1112;Finance;5;Critical;In progress;Compensation & Benefits;2024-01-20;2024-01-23;
+Melinda Garner;1351;Finance;2;Medium;In progress;Employee Engagement;2024-11-02;2024-11-06;
+Patrick Rosario;1499;Engineering;8;Critical;Pending;Employee Engagement;2024-07-27;;
+Heather Ryan;1424;Operations;2;Medium;Pending;Employee Engagement;2024-03-06;;
+Jessica Bailey;1798;Legal;8;Medium;Done;Health & Wellness;2023-09-14;2023-09-16;2023-09-21
+Jamie Roy;1435;Engineering;9;Medium;Done;Compensation & Benefits;2024-02-29;2024-03-07;2024-03-08
+Lisa Smith;1498;Customer Support;6;Medium;Done;Employee Retention;2023-03-02;2023-03-03;2023-03-11
+Timothy Shields;1166;Engineering;5;Medium;Done;Employee Engagement;2023-05-25;2023-05-26;2023-06-03
+William Graves;1245;Marketing;5;High;To Do;Health & Wellness;2024-02-09;;
+Curtis Patel;1088;Product;4;Low;Done;Onboarding;2024-07-24;2024-07-25;2024-07-25
+Richard Young;1395;Legal;6;Critical;Done;Employee Engagement;2023-08-01;2023-08-12;2023-08-15
+Elizabeth Monroe;1431;Operations;6;Low;Done;Onboarding;2024-07-15;2024-07-28;2024-07-29
+Elizabeth Navarro;1728;Finance;2;Critical;Done;Learning & Development;2024-09-14;2024-09-15;2024-09-18
+Tracy Strickland;1778;Customer Support;7;High;Done;Organizational Culture;2024-04-04;2024-04-05;2024-04-12
+Alexander Hughes;1702;Operations;3;Critical;Done;Performance Management;2024-02-01;2024-02-02;2024-02-03
+Jessica Rodriguez;1090;Customer Support;3;Critical;Done;Health & Wellness;2023-08-27;2023-08-28;2023-08-28
+Laura Chen;1313;Customer Support;1;Critical;Done;Employee Offboarding;2024-02-25;2024-03-03;2024-03-06
+John Mccoy;1557;Legal;8;Medium;Pending;Employee Retention;2024-06-16;;
+Julie Boone;1629;Engineering;6;Medium;Done;Performance Management;2023-06-03;2023-06-05;2023-06-05
+Sarah Rios;1487;Engineering;6;Critical;Done;Employee Engagement;2023-08-11;2023-08-12;2023-08-21
+Scott White;1077;Finance;6;Low;Done;Diversity & Inclusion;2024-12-15;2024-12-16;2024-12-16
+Patricia Bender;1704;Engineering;5;Low;Done;Performance Management;2023-10-28;2023-11-03;2023-11-11
+Taylor Peterson;1486;Banking;5;Low;Done;Performance Management;2023-10-24;2023-10-30;2023-11-01
+Austin Smith;1615;Marketing;5;Low;Done;Organizational Culture;2024-12-02;2024-12-03;2024-12-03
+Steven Fitzgerald;1031;Legal;6;Critical;Done;Employee Retention;2024-07-21;2024-07-23;2024-07-23
+Laura Anderson;1043;Legal;2;High;Done;Organizational Culture;2023-06-26;2023-07-03;2023-07-04
+Michael Guerrero;1609;People;8;Low;Done;Learning & Development;2024-06-16;2024-06-24;2024-06-24
+Antonio Diaz;1409;People;8;Critical;Done;Employee Feedback;2024-09-14;2024-09-15;2024-09-21
+Justin Pollard;1473;Customer Support;5;Critical;Done;Diversity & Inclusion;2023-02-17;2023-02-18;2023-02-20
+Melinda Garner;1351;Finance;2;Low;In progress;Employee Relations;2023-06-01;2023-06-05;
+Beth Willis;1500;Customer Support;6;Critical;Done;Organizational Culture;2023-02-01;2023-02-02;2023-02-02
+Brad Hudson;1074;Customer Support;2;Critical;Done;Health & Wellness;2023-09-09;2023-09-17;2023-09-17
+Jose York;1096;Banking;6;Critical;Pending;Diversity & Inclusion;2024-08-07;;
+Nicholas Martinez;1561;Engineering;9;Medium;Done;Career Development;2023-05-22;2023-05-29;2023-05-31
+Elizabeth Hill;1432;Product;8;Low;Done;Employee Offboarding;2024-10-06;2024-10-08;2024-10-15
+Sharon Haynes;1785;Finance;3;Medium;Done;Performance Management;2024-04-04;2024-04-05;2024-04-07
+Devin Williams;1246;Banking;5;Low;Pending;Employee Engagement;2024-04-14;;
+Bobby Massey;1732;Banking;9;High;Done;Employee Relations;2024-09-26;2024-09-30;2024-10-10
+Julie Harris;1708;Finance;7;Low;Done;Employee Retention;2024-11-15;2024-11-16;2024-11-17
+Dale Moyer;1029;Customer Support;5;Low;Done;Diversity & Inclusion;2024-02-02;2024-02-03;2024-02-05
+Scott Smith;1755;Customer Support;7;High;Done;Career Development;2023-06-25;2023-06-30;2023-07-09
+Kenneth Pittman;1228;Banking;3;High;Done;Learning & Development;2023-06-19;2023-06-25;2023-06-28
+Emily Jones;1048;Operations;4;High;Done;Workplace Safety;2024-08-02;2024-08-03;2024-08-04
+Jeffrey Miller;1528;Operations;3;Critical;Done;Career Development;2023-08-06;2023-08-07;2023-08-10
+Michael Villa;1613;Marketing;6;Medium;Done;Employee Relations;2023-04-09;2023-04-10;2023-04-10
+Jason Moore;1231;People;9;Critical;Done;Career Development;2023-11-05;2023-11-17;2023-11-19
+Christopher Ayers;1392;Operations;5;Medium;Done;Learning & Development;2023-05-22;2023-06-02;2023-06-05
+Cheryl Fuentes;1220;Marketing;3;Low;Done;Employee Feedback;2024-12-17;2024-12-18;2024-12-18
+Jade Lee;1249;Operations;8;Critical;Waiting for customer;Workplace Safety;2023-04-29;;
+Robin Allen;1094;Operations;6;Low;Done;Workplace Safety;2024-10-25;2024-10-26;2024-10-26
+Michael Bell;1512;Banking;3;Medium;In progress;Workplace Safety;2023-05-29;2023-06-02;
+Danielle Silva;1311;Operations;9;Medium;Done;Employee Feedback;2023-03-04;2023-03-07;2023-03-13
+Madison Farrell;1098;Product;8;Critical;Done;Health & Wellness;2024-02-07;2024-02-08;2024-02-09
+Nancy Johnson;1625;Marketing;10;Medium;Done;Employee Engagement;2024-12-15;2024-12-19;2024-12-22
+Destiny Espinoza;1446;Operations;4;Critical;Done;Diversity & Inclusion;2024-12-16;2024-12-22;2024-12-26
+George Santiago;1414;Customer Support;6;Critical;To Do;Compensation & Benefits;2023-07-11;;
+April Valdez;1321;Operations;3;High;Done;Learning & Development;2023-03-12;2023-03-16;2023-03-22
+Edward Gregory;1438;Legal;4;Medium;Pending;Compensation & Benefits;2023-12-22;;
+James Smith;1456;Marketing;5;Medium;Done;Learning & Development;2024-07-09;2024-07-10;2024-07-10
+Michael Gilbert;1287;Operations;6;High;Done;Diversity & Inclusion;2023-05-19;2023-05-21;2023-05-21
+April Robinson;1213;Marketing;5;Low;Done;Employee Engagement;2023-11-18;2023-11-19;2023-11-28
+Tina Long;1273;Banking;7;Low;Pending;Onboarding;2024-08-31;;
+Adam Garcia;1515;Marketing;7;Medium;Pending;Workplace Safety;2023-04-05;;
+Jonathan Cooper;1481;People;9;Medium;Done;Employee Feedback;2023-09-05;2023-09-06;2023-09-06
+Ryan Ramos;1146;Operations;9;High;Done;Employee Relations;2024-01-13;2024-01-15;2024-01-15
+Justin Pollard;1473;Customer Support;5;High;Pending;Employee Relations;2023-10-01;;
+Tracy Strickland;1778;Customer Support;7;High;Pending;Health & Wellness;2024-01-07;;
+Amy Cox;1205;Product;10;High;Done;Career Development;2023-06-30;2023-07-03;2023-07-10
+Patricia Garrett;1267;Customer Support;2;Medium;Done;Learning & Development;2024-08-28;2024-08-29;2024-08-29
+Ryan Casey;1623;Legal;8;Low;Done;Performance Management;2024-04-23;2024-04-26;2024-04-27
+Manuel Pope;1212;Engineering;8;Medium;Done;Performance Management;2023-01-29;2023-02-05;2023-02-06
+John Proctor;1509;Engineering;9;Medium;Done;Recruitment & Mobility;2023-09-28;2023-09-30;2023-09-30
+Donald Johnson;1033;Marketing;6;High;Done;Performance Management;2023-05-04;2023-05-06;2023-05-06
+Diana Quinn;1113;Engineering;7;Low;Done;Health & Wellness;2023-04-15;2023-04-16;2023-04-17
+Jacqueline Roberts;1345;Banking;6;Low;Done;Recruitment & Mobility;2023-12-21;2023-12-22;2023-12-23
+Matthew Holder;1637;Marketing;5;Medium;In progress;Employee Retention;2023-10-24;2023-10-26;
+Crystal Butler;1000;Legal;5;Low;Done;Compensation & Benefits;2023-11-18;2023-11-21;2023-11-21
+Jack Patel;1758;Marketing;2;Critical;Done;Learning & Development;2023-07-07;2023-07-08;2023-07-08
+Madison Farrell;1098;Product;8;Critical;Done;Compensation & Benefits;2023-09-03;2023-09-04;2023-09-04
+Danny Wright;1105;Banking;7;High;Done;Employee Engagement;2023-03-20;2023-03-24;2023-03-30
+Dana Roy;1709;Marketing;10;Low;To Do;Organizational Culture;2024-09-13;;
+Tabitha Gibson;1008;Banking;3;Critical;Done;Employee Engagement;2024-07-15;2024-07-17;2024-07-17
+Philip Sandoval;1779;Engineering;4;High;Done;Compensation & Benefits;2023-01-12;2023-01-13;2023-01-16
+Thomas Schultz;1701;Banking;4;Medium;Done;Health & Wellness;2023-11-11;2023-11-12;2023-11-19
+George Santiago;1414;Customer Support;6;High;Done;Employee Engagement;2023-01-15;2023-01-17;2023-01-19
+Peggy Hansen;1014;Customer Support;5;Critical;Done;Employee Engagement;2024-07-11;2024-07-18;2024-07-21
+Peggy Miller;1073;Operations;2;Medium;Done;Employee Engagement;2024-01-03;2024-01-06;2024-01-12
+Tricia Thomas;1373;Legal;2;Critical;In progress;Employee Retention;2024-10-13;2024-10-15;
+Deborah Turner;1340;People;7;High;Done;Employee Retention;2024-03-30;2024-04-04;2024-04-09
+Randall Wells;1464;Customer Support;2;Critical;Done;Employee Feedback;2024-01-03;2024-01-05;2024-01-11
+Amy Cox;1205;Product;10;Medium;To Do;Health & Wellness;2023-10-24;;
+Aaron Stewart;1021;Finance;4;Medium;Done;Employee Feedback;2024-03-09;2024-03-10;2024-03-10
+Matthew Jacobs;1117;People;6;High;Done;Employee Feedback;2023-01-01;2023-01-03;2023-01-05
+Jeffrey Thomas;1449;Banking;5;Low;Done;Employee Relations;2024-10-08;2024-10-09;2024-10-10
+John Chaney;1163;Operations;2;Low;Done;Employee Engagement;2023-04-27;2023-04-30;2023-04-30
+Emily Snyder;1434;Product;2;Low;Done;Compensation & Benefits;2023-01-22;2023-01-28;2023-01-29
+Edwin Jordan;1202;People;8;Medium;Done;Career Development;2023-12-26;2024-01-05;2024-01-05
+Arthur Beck;1011;Finance;3;High;To Do;Employee Retention;2023-01-27;;
+Diana Quinn;1113;Engineering;7;Medium;In progress;Diversity & Inclusion;2023-09-20;2023-09-27;
+David Holder;1667;Customer Support;7;Low;Done;Compensation & Benefits;2024-04-04;2024-04-12;2024-04-14
+Kimberly Jones;1526;Finance;2;High;Done;Employee Engagement;2023-08-03;2023-08-04;2023-08-04
+Randy Hoffman;1063;Finance;4;High;Done;Onboarding;2023-07-06;2023-07-07;2023-07-10
+Derek Sanchez;1069;Legal;5;High;To Do;Employee Retention;2024-12-21;;
+Joel Phillips;1546;People;5;Critical;Done;Health & Wellness;2023-10-02;2023-10-03;2023-10-03
+Brenda Pham;1713;Product;3;Critical;Done;Compensation & Benefits;2024-02-22;2024-03-05;2024-03-07
+John Peterson;1403;Marketing;1;High;Done;Employee Retention;2023-11-13;2023-11-15;2023-11-17
+Matthew Mills;1238;Banking;8;Low;To Do;Workplace Safety;2024-10-27;;
+Heidi Schmitt;1106;Banking;8;Medium;Done;Compensation & Benefits;2023-05-14;2023-05-15;2023-05-17
+James Palmer;1006;Finance;3;Critical;Done;Employee Relations;2023-09-09;2023-09-11;2023-09-23
+Trevor Caldwell;1558;Customer Support;7;Critical;In progress;Workplace Safety;2024-12-17;2024-12-18;
+Kevin Strong;1425;Product;7;Medium;Done;Career Development;2024-05-08;2024-05-17;2024-05-17
+James Ryan;1095;Legal;4;Critical;Waiting for customer;Workplace Safety;2023-02-07;;
+Fernando Carroll;1607;Legal;3;High;Done;Employee Retention;2023-02-09;2023-02-10;2023-02-10
+Nathaniel Mcintyre;1592;Product;8;Critical;Done;Onboarding;2024-04-25;2024-04-26;2024-05-03
+Anne Barnes;1608;Customer Support;10;Critical;Done;Performance Management;2024-12-04;2024-12-05;2024-12-05
+Maureen Stewart;1764;Finance;3;Medium;Done;Compensation & Benefits;2023-01-14;2023-01-21;2023-01-23
+Jacob Butler;1492;Finance;3;Low;Done;Employee Engagement;2023-02-01;2023-02-02;2023-02-05
+Jimmy Garcia;1358;Engineering;2;Medium;Waiting for customer;Learning & Development;2023-12-11;;
+Heather Valenzuela;1052;Engineering;8;High;Done;Career Development;2024-09-22;2024-09-29;2024-10-06
+Russell Mahoney;1584;People;3;Medium;Done;Diversity & Inclusion;2024-05-05;2024-05-06;2024-05-06
+Juan Johnson;1534;Banking;4;High;Done;Employee Engagement;2024-05-05;2024-05-06;2024-05-07
+Timothy Owens;1051;Banking;6;Critical;Waiting for customer;Employee Retention;2024-02-18;;
+Julie Navarro;1786;Product;6;Medium;Done;Employee Retention;2023-11-30;2023-12-01;2023-12-01
+Amanda Caldwell;1230;People;1;High;Done;Health & Wellness;2024-08-26;2024-08-27;2024-08-28
+Michael Gilbert;1287;Operations;6;Medium;Done;Health & Wellness;2024-05-09;2024-05-11;2024-05-23
+Chris Browning;1703;People;8;High;Done;Career Development;2024-11-20;2024-11-27;2024-11-29
+Angela Brown;1348;Operations;4;Medium;Done;Employee Engagement;2023-11-01;2023-11-02;2023-11-02
+Timothy Humphrey;1773;Engineering;9;Critical;Done;Employee Engagement;2024-11-07;2024-11-19;2024-11-21
+Melissa Smith;1688;Customer Support;8;High;Done;Diversity & Inclusion;2024-05-24;2024-05-31;2024-06-02
+Jasmine Smith;1235;Engineering;6;High;Done;Compensation & Benefits;2023-09-01;2023-09-04;2023-09-04
+Haley Zavala;1038;Engineering;4;Medium;Done;Employee Retention;2023-04-23;2023-04-29;2023-04-30
+Crystal Lee;1591;Product;4;Medium;In progress;Health & Wellness;2023-07-15;2023-07-20;
+Jasmine Smith;1235;Engineering;6;Low;Pending;Employee Relations;2023-05-15;;
+Todd Richards;1440;Marketing;2;Low;Done;Diversity & Inclusion;2024-11-02;2024-11-03;2024-11-06
+Aaron Goodwin;1412;Customer Support;7;Critical;To Do;Employee Offboarding;2023-09-12;;
+David Santana;1167;Banking;8;Medium;Done;Employee Engagement;2023-02-06;2023-02-08;2023-02-09
+Jay Gray;1720;Marketing;6;Critical;Done;Career Development;2023-01-16;2023-01-18;2023-01-20
+Louis Hardy;1198;Customer Support;9;Medium;Done;Onboarding;2024-05-30;2024-05-31;2024-05-31
+David Santana;1167;Banking;8;Medium;Done;Employee Feedback;2023-06-10;2023-06-12;2023-06-12
+David Macias;1439;People;8;Critical;Done;Workplace Safety;2023-12-04;2023-12-05;2023-12-06
+Jocelyn Weiss;1636;Legal;9;Medium;Done;Employee Retention;2024-09-03;2024-09-05;2024-09-07
+Nicholas Ryan;1161;Operations;9;Low;Done;Learning & Development;2024-11-25;2024-11-26;2024-12-05
+Julie Harris;1708;Finance;7;High;Done;Workplace Safety;2023-12-13;2023-12-17;2023-12-22
+Alexander Hughes;1702;Operations;3;Low;Done;Onboarding;2023-05-24;2023-05-25;2023-05-25
+Crystal Martinez;1694;Marketing;4;Critical;Done;Workplace Safety;2024-11-04;2024-11-08;2024-11-08
+Michelle Cunningham;1659;Marketing;9;Medium;Done;Employee Offboarding;2023-12-21;2023-12-30;2023-12-31
+Ariel Woodard;1480;Customer Support;7;Medium;Done;Diversity & Inclusion;2024-08-24;2024-09-02;2024-09-07
+George Maddox;1398;Banking;7;High;Waiting for customer;Employee Retention;2024-08-11;;
+Lauren Schultz;1307;Finance;8;High;To Do;Employee Retention;2024-12-22;;
+Scott Lopez;1479;Legal;1;High;Done;Onboarding;2024-08-03;2024-08-07;2024-08-07
+Alexandra Hansen;1099;Engineering;4;Critical;Done;Employee Offboarding;2023-04-08;2023-04-10;2023-04-11
+Cynthia Mullins;1266;Finance;8;Low;Done;Recruitment & Mobility;2024-10-22;2024-11-02;2024-11-05
+Debra Brown;1774;Legal;4;High;Done;Organizational Culture;2023-01-21;2023-01-23;2023-01-23
+Crystal Lee;1591;Product;4;Low;Done;Employee Offboarding;2024-10-06;2024-10-08;2024-10-09
+Brandy Parrish;1572;Legal;8;Critical;Pending;Career Development;2023-11-05;;
+Alisha Hammond;1690;Engineering;3;High;Done;Organizational Culture;2023-12-18;2023-12-31;2024-01-01
+Steven Ward;1514;Customer Support;8;Critical;Done;Compensation & Benefits;2024-06-23;2024-06-25;2024-06-26
+Gavin Ayers;1436;Finance;4;High;In progress;Career Development;2024-01-09;2024-01-13;
+Dana Roy;1709;Marketing;10;High;Pending;Employee Retention;2024-05-28;;
+Michael Vargas;1497;Legal;2;High;Done;Employee Relations;2024-09-20;2024-09-21;2024-09-21
+Randall Pierce;1527;People;7;High;Done;Workplace Safety;2024-07-04;2024-07-08;2024-07-08
+Eric Collins;1075;Customer Support;7;High;Done;Diversity & Inclusion;2024-11-11;2024-11-18;2024-11-20
+Luis Coleman;1339;Engineering;2;Critical;Done;Compensation & Benefits;2024-06-20;2024-06-21;2024-06-22
+Alyssa Patton;1717;People;8;Medium;Done;Employee Feedback;2023-08-08;2023-08-10;2023-08-16
+Heather Peterson;1590;Operations;8;Low;To Do;Compensation & Benefits;2023-01-31;;
+Patricia Lang;1265;Finance;5;Medium;Done;Employee Offboarding;2023-02-11;2023-02-13;2023-02-15
+Sarah Murphy;1303;People;8;Critical;Done;Compensation & Benefits;2024-02-12;2024-02-16;2024-02-26
+Jared Harrington;1208;Engineering;3;Critical;Done;Employee Retention;2024-08-10;2024-08-14;2024-08-24
+Amanda Duncan;1257;Engineering;5;High;Done;Onboarding;2023-01-07;2023-01-08;2023-01-08
+James Hardy;1344;Product;2;Low;In progress;Employee Offboarding;2024-10-25;2024-10-31;
+Cynthia Wong;1540;Finance;9;High;Done;Learning & Development;2024-09-01;2024-09-04;2024-09-04
+Amanda Caldwell;1230;People;1;Low;Done;Employee Relations;2023-02-12;2023-02-19;2023-02-20
+Justin Johnson;1719;Customer Support;9;Critical;Done;Performance Management;2023-02-16;2023-02-25;2023-02-25
+Alexander Griffith;1666;Operations;4;Critical;In progress;Health & Wellness;2024-05-10;2024-05-13;
+Daniel Johnson;1399;Engineering;5;High;Done;Employee Offboarding;2024-05-12;2024-05-16;2024-05-16
+Jay Brooks;1342;Engineering;8;Critical;Waiting for customer;Organizational Culture;2024-02-20;;
+Michael Bailey;1217;Legal;2;Low;Done;Performance Management;2024-02-05;2024-02-08;2024-02-08
+Tracy Strickland;1778;Customer Support;7;Low;Done;Health & Wellness;2023-03-20;2023-03-21;2023-03-22
+Lauren Long;1410;Engineering;2;Critical;Done;Learning & Development;2023-05-25;2023-05-26;2023-05-26
+Alejandro Smith;1234;Engineering;6;High;Done;Recruitment & Mobility;2023-03-19;2023-04-01;2023-04-02
+Michael Bailey;1217;Legal;2;Low;Done;Learning & Development;2023-05-08;2023-05-16;2023-05-22
+Louis Hardy;1198;Customer Support;9;Low;Done;Employee Offboarding;2023-12-13;2023-12-14;2023-12-15
+Cory Jensen;1037;Banking;5;High;Done;Career Development;2024-08-22;2024-08-23;2024-08-24
+Ryan Ramos;1146;Operations;9;Low;Done;Workplace Safety;2024-12-10;2024-12-11;2024-12-14
+Mary Gross;1062;Operations;10;High;To Do;Workplace Safety;2023-02-27;;
+Kevin Nguyen;1677;Banking;8;Critical;Done;Employee Relations;2024-06-01;2024-06-05;2024-06-15
+Patricia Taylor;1385;Finance;9;Critical;Done;Employee Engagement;2023-01-13;2023-01-20;2023-01-27
+Joel Phillips;1546;People;5;Medium;To Do;Recruitment & Mobility;2023-12-17;;
+Thomas Reed;1602;Customer Support;5;Medium;Done;Onboarding;2023-11-10;2023-11-11;2023-11-14
+Wendy Singh;1442;Product;4;High;Done;Career Development;2023-04-06;2023-04-09;2023-04-10
+Natasha Harris;1116;Finance;9;Critical;Done;Employee Retention;2024-06-27;2024-06-28;2024-07-01
+Michael Little;1091;Banking;1;Low;Done;Employee Relations;2023-04-22;2023-04-23;2023-04-24
+Kyle Rivera;1276;Product;5;Medium;Done;Onboarding;2024-07-28;2024-07-29;2024-08-01
+Michael Bailey;1217;Legal;2;Critical;Done;Onboarding;2024-06-23;2024-07-02;2024-07-03
+Erika Doyle;1524;Legal;8;Medium;Done;Workplace Safety;2024-06-13;2024-06-17;2024-06-21
+Russell Mahoney;1584;People;3;High;Done;Recruitment & Mobility;2024-05-22;2024-05-29;2024-05-30
+Gregory Everett;1335;Finance;6;High;Done;Employee Engagement;2023-02-22;2023-02-24;2023-02-24
+James Finley;1370;Banking;5;High;Done;Employee Offboarding;2024-05-18;2024-05-22;2024-05-27
+Kyle Henry;1408;Customer Support;4;Medium;Done;Employee Retention;2024-07-03;2024-07-05;2024-07-11
+Michael Mcfarland;1206;Product;5;High;Done;Performance Management;2024-09-24;2024-09-25;2024-09-25
+Juan Holmes;1085;Marketing;7;Low;Pending;Employee Offboarding;2023-04-13;;
+Douglas Johnson;1304;Legal;7;Critical;In progress;Career Development;2023-04-27;2023-04-29;
+Jacob Carey;1330;Legal;5;Critical;Done;Employee Retention;2023-01-05;2023-01-06;2023-01-19
+Beth Edwards;1254;Customer Support;2;High;Done;Employee Engagement;2024-03-05;2024-03-12;2024-03-13
