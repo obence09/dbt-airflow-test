@@ -11,24 +11,24 @@ You can find the data in the raw_data schema in the issues_data table.
 
 You can spin up the docker containers from the images specified in docker-compose.yml and Dockerfile files.
 
-### Build the images (you can omit `--no-cache` in case you don't want to re-build every layer)
+#### Build the images (you can omit `--no-cache` in case you don't want to re-build every layer)
 $ docker compose build --no-cache
 
-### Run the containers
+#### Run the containers
 $ docker compose up
 
-### Once everything is tested please shut down the containers 
-### Shutdown the containers
+#### Once everything is tested please shut down the containers 
+#### Shutdown the containers
 $ docker compose down
 
 
 ## 3. Airflow
 
-The Airflow Web UI is available on localhost:8080
+The Airflow Web UI is available on localhost:8080 .
 The cosmos DAG (my_cosmos_dag) needs to be triggered manaully in order to run the dbt transformations.
 There are 2 transformation layers:
-    1. staging -> creates a table in the stg_data schema in the external postgresDB
-    2. aggregation -> creates 3 views in the agg_data schema in the external postgresDB
+- staging -> creates a table in the stg_data schema in the external postgresDB
+- aggregation -> creates 3 views in the agg_data schema in the external postgresDB
 
 
 ## 4. PgAdmin
